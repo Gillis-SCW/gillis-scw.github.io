@@ -1,0 +1,22 @@
+topic: Architecture and Concepts
+category: Communications Architecture
+level: beginner
+question: What is communications architecture?
+answers:
+- a1: The design and organization of communication systems, technologies, and protocols
+    within a larger network or organization.
+- a2: A method of encrypting messages to ensure security.
+- a3: The process of sending data from one device to another.
+- a4: The use of wireless technology to transmit information.
+correct_answer: a1
+explanations:
+- a1: Correct. Communications architecture refers to the design and organization of
+    communication systems, technologies, and protocols within a larger network or
+    organization. It ensures effective communication and collaboration between different
+    parts of an organization, enabling productivity and innovation.
+- a2: Incorrect. This answer describes encryption methods, which are a part of communications
+    architecture but not its full definition.
+- a3: Incorrect. This answer describes data transmission, which is one consideration
+    within communications architecture, but not its full definition.
+- a4: Incorrect. This answer describes wireless technology, which is one technology
+    used within communications architecture, but not its full definition.

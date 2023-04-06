@@ -1,0 +1,25 @@
+topic: OWASP Top 10
+category: Total Overview
+level: expert
+question: Which of the following best describes Insufficient Logging and Monitoring?
+answers:
+- a1: The use of unencrypted communication channels of confidential data, such as
+    user credentials
+- a2: The failure to limit the impact of a vulnerability or attack, through proper
+    isolation or compartmentalization
+- a3: The lack of proper testing or quality control to detect and prevent vulnerabilities
+    in software or hardware
+- a4: The inability to detect or trace security events, such as unauthorized access
+    or data leakage, in real-time
+correct_answer: a4
+explanations:
+- a1: Incorrect. The use of unencrypted communication channels is part of A6-Security
+    Misconfigurations.
+- a2: Incorrect. Failure to limit impact is part of A3-Security Misconfigurations.
+- a3: Incorrect. Lack of proper testing and quality control is part of A9-Using Components
+    with Known Vulnerabilities.
+- a4: Correct. Insufficient logging and monitoring refers to the inability to detect
+    or trace security events, such as unauthorized or unexpected accesses or changes
+    to the system or data, in real-time or near real-time. Without proper logging
+    and monitoring, it is very difficult to detect and prevent attacks, and to respond
+    or investigate compromised systems.

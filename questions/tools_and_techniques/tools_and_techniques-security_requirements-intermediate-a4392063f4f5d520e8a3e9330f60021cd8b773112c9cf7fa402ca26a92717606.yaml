@@ -1,0 +1,20 @@
+topic: Tools and techniques
+category: Security requirements
+level: intermediate
+question: Which of the following is an example of a security requirement for data
+  protection?
+answers:
+- a1: Allowing employees to use their personal email for company business
+- a2: Requiring passwords to be at least 20 characters long
+- a3: Allowing guests to connect to the company Wi-Fi without a password
+- a4: Requiring employees to use their personal laptop for company business
+correct_answer: a2
+explanations:
+- a1: Incorrect - Allowing personal email for company business could introduce security
+    risks, so this is not an example of a security requirement.
+- a2: Correct - Requiring long passwords is an example of a security requirement to
+    protect data from unauthorized access.
+- a3: Incorrect - Allowing guests to connect to the Wi-Fi without a password is not
+    a good security practice, so this is not an example of a security requirement.
+- a4: Incorrect - Requiring employees to use personal laptops is not likely to enhance
+    security and is not a typical security requirement.

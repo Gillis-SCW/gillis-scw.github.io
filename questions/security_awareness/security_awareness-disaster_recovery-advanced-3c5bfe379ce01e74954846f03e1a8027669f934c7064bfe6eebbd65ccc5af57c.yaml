@@ -1,0 +1,23 @@
+topic: Security Awareness
+category: Disaster Recovery
+level: advanced
+question: What are the three key components of a disaster recovery plan?
+answers:
+- a1: Risk assessment, backup strategies, and incident response.
+- a2: Business continuity, resource allocation, and employee training.
+- a3: Supply chain management, financial planning, and customer support.
+- a4: Strategic planning, project management, and market analysis.
+correct_answer: a1
+explanations:
+- a1: Correct. The three key components of a disaster recovery plan are risk assessment,
+    backup strategies, and incident response. Conducting a risk assessment is crucial
+    to identify potential threats and vulnerabilities. Developing backup strategies
+    ensure that data and essential systems are backed up in case of a disaster. Incident
+    response outlines the steps to take after an incident to restore operations.
+- a2: Incorrect. These components are important in overall business management but
+    are not specific to disaster recovery.
+- a3: Incorrect. While supply chain management, financial planning, and customer support
+    are important components of business continuity, they are not specific to disaster
+    recovery.
+- a4: Incorrect. Strategic planning, project management, and market analysis are important
+    components in managing a business but are not specific to disaster recovery.

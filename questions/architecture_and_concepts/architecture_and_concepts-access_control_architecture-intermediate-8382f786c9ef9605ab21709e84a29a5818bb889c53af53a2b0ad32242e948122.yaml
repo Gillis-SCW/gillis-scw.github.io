@@ -1,0 +1,22 @@
+topic: Architecture and Concepts
+category: Access Control Architecture
+level: intermediate
+question: What is the difference between authentication and authorization?
+answers:
+- a: Authentication is the process of verifying the identity of a user, and authorization
+    is the process of verifying that the user has the necessary permissions to access
+    a resource.
+- b: Authentication is the process of identifying the type of resource to be accessed,
+    and authorization is the process of verifying that the user has the necessary
+    permissions to access a resource.
+- c: Authentication and authorization are the same processes and have no differences
+    between them.
+- d: None of the above.
+correct_answer: a
+explanations:
+- a: Correct. Authentication verifies the identity of the user, whereas authorization
+    checks if that user has the necessary privileges to access a resource.
+- b: Incorrect. This option reverses the meanings of authentication and authorization.
+- c: Incorrect. Authentication and authorization are not the same processes. They
+    have different purposes and require different mechanisms to be fulfilled.
+- d: Incorrect. The correct option is a.

@@ -1,0 +1,25 @@
+topic: Architecture and Concepts
+category: Secure File Upload Architecture
+level: expert
+question: Can Secure File Upload Architecture provide end-to-end encryption?
+answers:
+- a1: Yes, if the client encrypts the file using a public key provided by the server
+- a2: Yes, if the server decrypts the file using a private key provided by the client
+- a3: No, because the server needs to be able to read and process the file
+- a4: No, because end-to-end encryption is not possible in a client-server architecture
+correct_answer: a3
+explanations:
+- a1: Incorrect. If the client encrypts the file using a public key provided by the
+    server, it means that the server can also decrypt the file, so this is not true
+    end-to-end encryption.
+- a2: Incorrect. If the server decrypts the file using a private key provided by the
+    client, it means that the client has to trust the server with their private key,
+    which defeats the purpose of end-to-end encryption.
+- a3: Correct. Secure File Upload Architecture cannot provide true end-to-end encryption,
+    because the server needs to be able to read and process the file, which means
+    that it has access to the unencrypted data while it is in transit.
+- a4: Incorrect. While it is true that end-to-end encryption is more difficult to
+    achieve in a client-server architecture, it is not impossible with the proper
+    implementation of technologies such as TLS and HTTPS. However, it is still not
+    possible to achieve true end-to-end encryption in Secure File Upload Architecture
+    because of the need for the server to access the unencrypted data.

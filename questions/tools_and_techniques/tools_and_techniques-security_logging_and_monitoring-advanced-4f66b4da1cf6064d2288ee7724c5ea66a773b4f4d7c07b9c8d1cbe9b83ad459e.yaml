@@ -1,0 +1,20 @@
+topic: Tools and techniques
+category: Security logging and monitoring
+level: advanced
+question: What is the purpose of a Security Information and Event Management (SIEM)
+  system?
+answers:
+- a1: To collect, correlate, and analyze security-related data from various sources.
+- a2: To replace traditional firewalls and antivirus software.
+- a3: To monitor network traffic for anomalies.
+- a4: To create backups of critical data.
+correct_answer: a1
+explanations:
+- a1: Correct. A SIEM system is designed to collect, correlate, and analyze data from
+    various sources in order to detect and respond to potential security threats.
+- a2: Incorrect. A SIEM system is not meant to replace firewalls and antivirus software,
+    but rather to supplement and enhance their effectiveness.
+- a3: Incorrect. While monitoring network traffic is a key component of security logging
+    and monitoring, it is not the sole purpose of a SIEM system.
+- a4: Incorrect. While creating backups of critical data is important to data security,
+    it is not the primary purpose of a SIEM system.

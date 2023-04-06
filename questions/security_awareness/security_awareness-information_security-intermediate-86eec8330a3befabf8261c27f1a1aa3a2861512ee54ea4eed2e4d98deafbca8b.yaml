@@ -1,0 +1,18 @@
+topic: Security Awareness
+category: Information Security
+level: intermediate
+question: What is the purpose of security awareness training?
+answers:
+- a: To help individuals identify potential threats.
+- b: To promote secure practices.
+- c: To minimize the risk of data breaches.
+- d: All of the above.
+correct_answer: d
+explanations:
+- a: Correct. Security awareness training helps individuals identify potential threats
+    such as phishing emails or malware.
+- b: Correct. Security awareness training promotes secure practices that can help
+    minimize the risk of data breaches.
+- c: Correct. Security awareness training can help minimize the risk of data breaches.
+- d: Correct. Security awareness training helps individuals identify potential threats,
+    promotes secure practices, and minimizes the risk of data breaches.

@@ -1,0 +1,20 @@
+topic: Security Awareness
+category: Workplace Security
+level: advanced
+question: Which of the following is a common method of social engineering used in
+  cybersecurity attacks?
+answers:
+- a: Phishing
+- b: Spearphishing
+- c: Vishing
+- d: All of the above
+correct_answer: d
+explanations:
+- a: Partially correct. Phishing is a common method of social engineering, which involves
+    tricking individuals into clicking on links or providing sensitive information.
+- b: Partially correct. Spearphishing is a more targeted form of phishing that involves
+    researching and customizing the attack to a specific individual or group.
+- c: Partially correct. Vishing is another form of phishing that involves using voice
+    or phone calls to deceive individuals into providing sensitive information.
+- d: Correct. All of the options listed are common methods of social engineering used
+    in cybersecurity attacks.

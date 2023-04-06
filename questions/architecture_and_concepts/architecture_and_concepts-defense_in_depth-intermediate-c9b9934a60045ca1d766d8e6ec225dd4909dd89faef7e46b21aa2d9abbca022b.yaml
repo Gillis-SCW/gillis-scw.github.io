@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Defense in depth
+level: intermediate
+question: Which of the following is NOT an example of a layer in a Defense in Depth
+  approach?
+answers:
+- a: Physical security
+- b: Encryption
+- c: Access control
+- d: Software updates
+correct_answer: d
+explanations:
+- a: Incorrect. Physical security is an important layer in a Defense in Depth approach,
+    especially for protecting physical assets.
+- b: Incorrect. Encryption is a common and effective layer for protecting data.
+- c: Incorrect. Access control is another common and effective layer for protecting
+    against unauthorized access.
+- d: Correct. Software updates are not a layer of a Defense in Depth approach, but
+    they are still an important security measure.

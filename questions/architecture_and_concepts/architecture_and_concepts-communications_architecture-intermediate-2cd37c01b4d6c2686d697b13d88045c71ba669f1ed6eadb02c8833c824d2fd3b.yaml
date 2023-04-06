@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Communications Architecture
+level: intermediate
+question: What is the purpose of a communications protocol?
+answers:
+- a1: To establish a standard format for exchanging data between devices.
+- a2: To provide security for data transmission.
+- a3: To ensure reliability in data transmission.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. A communications protocol establishes a standard format for exchanging
+    data between devices to ensure interoperability.
+- a2: Correct. A communications protocol can include security measures that ensure
+    the confidentiality, integrity, and availability of transmitted data.
+- a3: Correct. A communications protocol can include measures to ensure that data
+    is transmitted reliably, such as error checking and packet acknowledgement.
+- a4: Correct. A communications protocol can include all of these measures to ensure
+    effective and secure communication.

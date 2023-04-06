@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Software composition analysis (SCA)
+level: intermediate
+question: What is the main purpose of SCA in software development?
+answers:
+- a1: To provide visibility into the composition of software applications.
+- a2: To help companies stay on top of updates and changes to maintain overall stability
+    and integrity.
+- a3: To control the dependencies used in the software code.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Partially correct. One of the main purposes of SCA is to provide visibility
+    into the composition of software applications.
+- a2: Partially correct. One of the main purposes of SCA is to help companies stay
+    on top of updates and changes to maintain overall stability and integrity.
+- a3: Partially correct. One of the main purposes of SCA is to control the dependencies
+    used in the software code.
+- a4: Correct. All of the above are main purposes of SCA in software development.

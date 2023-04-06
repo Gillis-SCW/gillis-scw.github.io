@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Psychological acceptability
+level: advanced
+question: Which color has been linked to improving focus and creativity?
+answers:
+- a1: Red
+- a2: Blue
+- a3: Green
+- a4: Yellow
+correct_answer: a3
+explanations:
+- a1: Incorrect. Red has been linked to increased arousal and excitement, not necessarily
+    focus and creativity.
+- a2: Incorrect. Blue has been linked to calming and relaxation, not necessarily focus
+    and creativity.
+- a3: Correct. Green has been linked to improved focus and creativity, as well as
+    reduced stress and anxiety.
+- a4: Incorrect. Yellow has been linked to increased energy and warmth, not necessarily
+    focus and creativity.

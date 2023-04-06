@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Input and Output Architecture
+level: expert
+question: What are some factors to consider when designing input/output architecture
+  for a high-performance computing system?
+answers:
+- a1: The type and amount of data being transferred
+- a2: The speed and bandwidth of the communication channels between devices
+- a3: The reliability and fault tolerance of the system
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Partially correct. The type and amount of data being transferred is an important
+    factor to consider in input/output architecture design.
+- a2: Partially correct. The speed and bandwidth of communication channels can greatly
+    affect the performance of a high-performance computing system.
+- a3: Partially correct. The reliability and fault tolerance of the system are important
+    considerations for high-performance computing, especially in mission-critical
+    applications.
+- a4: Correct. All of the listed factors must be considered in the design of input/output
+    architecture for a high-performance computing system.

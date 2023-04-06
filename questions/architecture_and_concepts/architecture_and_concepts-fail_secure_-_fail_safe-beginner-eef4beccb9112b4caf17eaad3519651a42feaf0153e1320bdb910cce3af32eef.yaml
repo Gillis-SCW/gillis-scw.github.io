@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Fail secure - Fail safe
+level: beginner
+question: What is the difference between fail secure and fail safe?
+answers:
+- a1: Fail secure means that in the event of a power outage or system failure, the
+    door or access point remains unlocked. Fail safe, on the other hand, means that
+    in such situations, the door or access point automatically locks.
+- a2: Fail secure means that in the event of a power outage or system failure, the
+    door or access point remains locked. Fail safe, on the other hand, means that
+    in such situations, the door or access point automatically unlocks.
+- a3: Fail secure and fail safe mean the same thing.
+- a4: Fail secure only applies to doors, whereas fail safe only applies to access
+    points.
+correct_answer: a2
+explanations:
+- a1: Incorrect. This is the opposite of what is described in the prompt.
+- a2: Correct. This aligns with the description in the prompt.
+- a3: Incorrect. Fail secure and fail safe have different meanings.
+- a4: Incorrect. Fail secure and fail safe can apply to various components in a security
+    system, not just doors or access points.

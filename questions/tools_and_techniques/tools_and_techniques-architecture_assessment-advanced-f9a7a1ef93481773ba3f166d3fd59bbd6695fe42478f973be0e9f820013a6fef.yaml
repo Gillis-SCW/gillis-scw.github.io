@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Architecture assessment
+level: advanced
+question: Which perspective of architecture assessment focuses on the ability of the
+  software to adapt to change?
+answers:
+- a1: Functionality
+- a2: Performance
+- a3: Maintainability
+- a4: Sustainability
+correct_answer: a3
+explanations:
+- a1: Functionality perspective focuses on the ability of the system to meet the functional
+    requirements.
+- a2: Performance perspective focuses on the system's responsiveness and speed.
+- a3: Correct. Maintainability perspective focuses on the software's ability to adapt
+    to changes in the future without affecting its functionality, quality or design.
+- a4: Sustainability perspective focuses on the impact of the system on the environment
+    and society.

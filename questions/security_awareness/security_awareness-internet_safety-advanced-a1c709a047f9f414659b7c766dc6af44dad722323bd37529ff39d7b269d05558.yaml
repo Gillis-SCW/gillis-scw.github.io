@@ -1,0 +1,18 @@
+topic: Security Awareness
+category: Internet Safety
+level: advanced
+question: What is the role of antivirus software in Internet Safety?
+answers:
+- a1: Antivirus software can protect against all cyber threats.
+- a2: Antivirus software can detect and remove viruses, malware, and other malicious
+    software.
+- a3: Antivirus software can prevent cyberbullying.
+- a4: None of the above.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Antivirus software is not foolproof and cannot protect against all
+    cyber threats.
+- a2: Correct. Antivirus software can detect and remove viruses, malware, and other
+    malicious software that may compromise personal information.
+- a3: Incorrect. Antivirus software cannot prevent cyberbullying directly.
+- a4: Incorrect. The answer is a2.

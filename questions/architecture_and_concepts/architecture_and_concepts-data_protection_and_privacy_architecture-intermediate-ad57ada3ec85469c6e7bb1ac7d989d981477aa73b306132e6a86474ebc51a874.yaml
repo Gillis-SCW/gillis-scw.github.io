@@ -1,0 +1,23 @@
+topic: Architecture and Concepts
+category: Data Protection and Privacy Architecture
+level: intermediate
+question: What is the main difference between data privacy and data protection?
+answers:
+- a: Data privacy refers to how data is collected, used, and shared, while data protection
+    relates to the measures used to safeguard data from unauthorized access or theft.
+- b: Data privacy relates only to sensitive data, while data protection focuses on
+    all data types.
+- c: Data protection is a subset of data privacy.
+- d: Both terms refer to different protective measures to safeguard data from being
+    misused.
+correct_answer: a
+explanations:
+- a: Correct. Data privacy refers to the rights of an individual to control their
+    personal data and how it is used, while data protection focuses on the measures
+    used to safeguard data from unauthorized access or theft.
+- b: Incorrect. Data privacy is relevant to all data collected, used, and shared by
+    an organization, not just sensitive data.
+- c: Incorrect. Data privacy has a broader meaning, while data protection is a component
+    of data privacy.
+- d: Incorrect. While both terms relate to protecting data, data privacy and data
+    protection have different specific meanings, as explained above.

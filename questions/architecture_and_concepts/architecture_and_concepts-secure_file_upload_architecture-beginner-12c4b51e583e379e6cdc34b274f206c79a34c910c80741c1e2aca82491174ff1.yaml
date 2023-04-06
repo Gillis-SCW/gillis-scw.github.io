@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Secure File Upload Architecture
+level: beginner
+question: Which of the following measures does Secure File Upload Architecture use
+  to protect against unauthorized access and data breaches?
+answers:
+- a1: Encryption
+- a2: Authentication
+- a3: Authorization
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Encryption is used in Secure File Upload Architecture to protect sensitive
+    information.
+- a2: Correct. Authentication measures are used to ensure that only authorized users
+    can access the files being uploaded.
+- a3: Correct. Authorization measures are employed to ensure that the uploaded files
+    are only accessible by authorized personnel.
+- a4: Correct. All three measures (encryption, authentication, and authorization)
+    are used in Secure File Upload Architecture to ensure the safe and secure transfer
+    of files from clients to servers.

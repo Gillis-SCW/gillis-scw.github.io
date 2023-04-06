@@ -1,0 +1,18 @@
+topic: Architecture and Concepts
+category: Defense in depth
+level: beginner
+question: What is Defense in Depth?
+answers:
+- a: A security measure that uses only one line of defense.
+- b: A security measure that uses multiple line of defense to protect against different
+    types of attacks.
+- c: A security measure that is not effective against potential threats.
+- d: A security measure that uses encryption to protect data.
+correct_answer: b
+explanations:
+- a: Incorrect. Defense in depth involves multiple layers of security measures.
+- b: Correct. Defense in depth is an architecture and concept that involves layered
+    security measures to protect against different types of attacks.
+- c: Incorrect. Defense in depth is an effective security measure.
+- d: Incorrect. Encryption is just one of the possible measures in a defense in depth
+    approach.

@@ -1,0 +1,18 @@
+topic: Tools and Techniques
+category: Encryption in transit and at rest
+level: expert
+question: What is a side-channel attack in the context of encryption?
+answers:
+- a1: An attack that exploits weaknesses in the encryption algorithm itself.
+- a2: An attack that exploits weaknesses in the encryption key.
+- a3: An attack that exploits information leaked by the system performing the encryption.
+- a4: An attack that exploits vulnerabilities in the network between the sender and
+    receiver.
+correct_answer: a3
+explanations:
+- a1: Incorrect. This refers to a cryptographic attack.
+- a2: Incorrect. This refers to a key-based attack.
+- a3: Correct! Side-channel attacks exploit information leaked by the system performing
+    the encryption, such as the power consumption or electromagnetic radiation emitted
+    during encryption.
+- a4: Incorrect. This refers to a network-based attack.

@@ -1,0 +1,25 @@
+topic: Security Awareness
+category: Workplace Security
+level: expert
+question: What is the difference between a vulnerability assessment and a penetration
+  test in cybersecurity?
+answers:
+- a: A vulnerability assessment identifies vulnerabilities in a system or network,
+    while a penetration test introduces attacks to see how the system responds.
+- b: A penetration test identifies vulnerabilities in a system or network, while a
+    vulnerability assessment introduces attacks to see how the system responds.
+- c: A vulnerability assessment and a penetration test are the same thing.
+- d: A vulnerability assessment is only used for physical security, while a penetration
+    test is used for cybersecurity.
+correct_answer: a
+explanations:
+- a: Correct. A vulnerability assessment is the process of identifying vulnerabilities
+    in a system or network, while a penetration test is the process of introducing
+    attacks to see how the system responds. The goal of a penetration test is to simulate
+    a real-world attack and test the effectiveness of an organization's security controls.
+- b: Incorrect. This describes the opposite of what a vulnerability assessment and
+    a penetration test are.
+- c: Incorrect. A vulnerability assessment and a penetration test are not the same
+    thing, although they are related concepts.
+- d: Incorrect. Both vulnerability assessments and penetration tests can be used for
+    both physical and cybersecurity.

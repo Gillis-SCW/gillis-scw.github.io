@@ -1,0 +1,18 @@
+topic: Tools and techniques
+category: Product risk profiles
+level: intermediate
+question: What are some factors that can be analyzed with product risk profiles?
+answers:
+- a1: The product's intended use.
+- a2: The product's manufacturing process.
+- a3: The product's potential environmental impacts.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Partially correct. The intended use is a factor that can be analyzed with a
+    product risk profile.
+- a2: Partially correct. The manufacturing process is a factor that can be analyzed
+    with a product risk profile.
+- a3: Partially correct. The potential environmental impacts are a factor that can
+    be analyzed with a product risk profile.
+- a4: Correct. All of these factors can be analyzed with a product risk profile.

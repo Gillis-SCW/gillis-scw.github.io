@@ -1,0 +1,18 @@
+topic: Security Awareness
+category: Social Media Safety
+level: intermediate
+question: What is a common phishing method on social media platforms?
+answers:
+- a: Direct messaging users to enter personal information on a fake website
+- b: Asking users to share posts in order to win a prize
+- c: Displaying pop-up ads with malicious links
+- d: Creating fake social media profiles to access other users' information
+correct_answer: a
+explanations:
+- a: Correct. Phishing involves tricking users into entering personal information
+    on fake websites or through impersonated communication from a trusted source.
+- b: Incorrect. While asking users to share posts can be a method of social engineering,
+    it is not specifically phishing.
+- c: Incorrect. Pop-up ads with malicious links are a form of malware, not phishing.
+- d: Incorrect. Creating a fake social media profile is one way of attempting to steal
+    information, but it is not phishing.

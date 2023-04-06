@@ -1,0 +1,24 @@
+topic: Architecture and Concepts
+category: Microservice Architectures
+level: advanced
+question: What are some common issues encountered when implementing microservice architectures?
+answers:
+- a1: Difficulty in maintaining data consistency across multiple services
+- a2: Integration problems between different services
+- a3: Increased complexity in deploying and running services
+- a4: Security and safety concerns
+correct_answer:
+- a1
+- a2
+- a3
+- a4
+explanations:
+- a1: Correct. With multiple services, maintaining data consistency across all of
+    them can become more challenging.
+- a2: Correct. Integrating different services can become difficult, as dependencies
+    between services can make changes carried out to one service impact others.
+- a3: Correct. Deploying and running services can be more intricate than in a monolithic
+    application, as there is now a greater number of components that require maintenance
+    and monitoring.
+- a4: Correct. More services mean more microservices to secure, which may introduce
+    problems around risk mitigation and safety concerns like system resilience.

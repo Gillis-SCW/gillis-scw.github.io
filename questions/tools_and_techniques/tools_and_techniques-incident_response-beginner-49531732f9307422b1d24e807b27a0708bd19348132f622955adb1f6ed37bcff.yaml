@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Incident Response
+level: beginner
+question: What is the main goal of incident response?
+answers:
+- a1: Detect and prevent future incidents
+- a2: Identify and contain the incident
+- a3: Investigate the cause of the incident
+- a4: Restore service to normal operation
+correct_answer: a2
+explanations:
+- a1: Incorrect. Detecting and preventing future incidents is one of the outcomes
+    of incident response, but not the main goal.
+- a2: Correct. Identifying and containing the incident is the main goal of incident
+    response.
+- a3: Incorrect. Investigating the cause of the incident is important but not the
+    main goal of incident response.
+- a4: Incorrect. Restoring service to normal operation is one of the outcomes of incident
+    response, but not the main goal.

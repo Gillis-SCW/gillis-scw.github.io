@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Dynamic application security testing (DAST)
+level: intermediate
+question: Which of the following is a limitation of DAST tools?
+answers:
+- a1: DAST tools cannot test applications that require authentication to access
+- a2: DAST tools cannot provide suggestions for fixing vulnerabilities in the application
+    code
+- a3: DAST tools can only identify vulnerabilities that are easily detected by automated
+    scans
+- a4: DAST tools often produce false positives that need to be manually verified
+correct_answer: a4
+explanations:
+- a1: Incorrect. Many DAST tools are capable of testing authenticated applications.
+- a2: Incorrect. DAST tools do provide suggestions for fixing vulnerabilities.
+- a3: Incorrect. DAST tools are designed to detect a wide range of vulnerabilities,
+    not just those that are easily detected by automated scans.
+- a4: Correct. DAST tools often produce false positives, which can be time-consuming
+    to manually verify and can reduce the efficiency of the testing process.

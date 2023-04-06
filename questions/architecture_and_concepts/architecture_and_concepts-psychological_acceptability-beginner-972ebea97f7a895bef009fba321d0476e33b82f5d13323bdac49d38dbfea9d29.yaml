@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Psychological acceptability
+level: beginner
+question: What is psychological acceptability?
+answers:
+- a1: A building that has a lot of space
+- a2: A building that positively influences the emotions and wellbeing of its users
+- a3: A building that has plenty of windows
+- a4: A building that is located downtown
+correct_answer: a2
+explanations:
+- a1: Incorrect. Having a lot of space is not necessarily related to psychological
+    acceptability.
+- a2: Correct. Psychological acceptability refers to how a space or building can positively
+    influence the emotions and wellbeing of its users.
+- a3: Incorrect. Having plenty of windows is a factor to consider, but it's not the
+    only one for achieving psychological acceptability.
+- a4: Incorrect. The location of a building is not directly related to psychological
+    acceptability.

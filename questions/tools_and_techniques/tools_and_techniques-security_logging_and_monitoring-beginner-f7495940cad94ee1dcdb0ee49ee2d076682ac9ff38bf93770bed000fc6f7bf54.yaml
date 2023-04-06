@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Security logging and monitoring
+level: beginner
+question: What is the purpose of security logging and monitoring?
+answers:
+- a1: To track and analyze user activities
+- a2: To protect data from physical damage
+- a3: To manage server updates
+- a4: To optimize network speed
+correct_answer: a1
+explanations:
+- a1: Correct. Security logging and monitoring involves tracking and analyzing user
+    activities to detect and respond to potential threats.
+- a2: Incorrect. While data protection is essential to security, the purpose of security
+    logging and monitoring is to track and analyze user activities.
+- a3: Incorrect. Server updates are important, but not the main purpose of security
+    logging and monitoring.
+- a4: Incorrect. While network speed optimization is important, it is not the main
+    purpose of security logging and monitoring.

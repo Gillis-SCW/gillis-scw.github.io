@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Identity Theft Prevention
+level: advanced
+question: Which of the following is NOT a recommended way to safeguard sensitive documents?
+answers:
+- a1: Storing the documents in a locked cabinet
+- a2: Using encryption software to protect digital files
+- a3: Sharing the documents with trusted friends or family members
+- a4: Shredding the documents when no longer needed
+correct_answer: a3
+explanations:
+- a1: Correct. Storing sensitive documents in a locked cabinet can help prevent them
+    from being accessed by unauthorized individuals.
+- a2: Correct. Using encryption software can help protect digital files from being
+    stolen or hacked.
+- a3: Incorrect. Sharing sensitive documents with others, even trusted individuals,
+    can increase the risk of the information being compromised.
+- a4: Correct. Shredding documents when no longer needed ensures that the information
+    cannot be retrieved or used maliciously.

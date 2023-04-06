@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Session Management Architecture
+level: advanced
+question: How can session hijacking be prevented?
+answers:
+- a1: Using SSL/TLS encryption
+- a2: Implementing secure cookie settings
+- a3: Using session tokens to identify users
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Partially correct. While SSL/TLS encryption can prevent some forms of session
+    hijacking, it is not a complete solution.
+- a2: Partially correct. Secure cookie settings can help prevent session hijacking
+    but may not be enough on their own.
+- a3: Partially correct. Session tokens are one tool used to prevent session hijacking
+    but are not the only solution.
+- a4: Correct. Using a combination of SSL/TLS encryption, secure cookie settings,
+    and session tokens can provide a more comprehensive approach to preventing session
+    hijacking.

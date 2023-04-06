@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Remote Work Security
+level: beginner
+question: What is remote work security mostly concerned about?
+answers:
+- a1: Protecting confidential information while outside the office
+- a2: Maintaining good posture while working remotely
+- a3: Accessing public wifi networks
+- a4: Organizing digital files on the cloud
+correct_answer: a1
+explanations:
+- a1: Correct. Remote work security refers to securing digital assets and confidential
+    information accessed outside the office.
+- a2: Incorrect. Good posture is important for physical health but not relevant to
+    remote work security.
+- a3: Incorrect. Accessing public wifi networks can be dangerous, but it falls under
+    the umbrella of remote work security.
+- a4: Incorrect. Organizing digital files on the cloud is important for productivity
+    but not relevant to remote work security.

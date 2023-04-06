@@ -1,0 +1,32 @@
+topic: Architecture and Concepts
+category: Least privilege
+level: advanced
+question: What is the difference between mandatory access control (MAC) and discretionary
+  access control (DAC)?
+answers:
+- a1: Only MAC provides the ability to grant access on a need-to-know basis, while
+    DAC does not.
+- a2: Only DAC provides the ability to grant access on a need-to-know basis, while
+    MAC does not.
+- a3: MAC is a more flexible approach to access control, while DAC is more rigid.
+- a4: DAC is only used in environments where there are a small number of users or
+    resources to control, while MAC is used in more complex environments.
+correct_answer: a1
+explanations:
+- a1: Correct. The main difference between MAC and DAC is that MAC provides the ability
+    to grant access on a need-to-know basis, while DAC does not. In MAC, access is
+    granted according to predefined policies that are set by an administrator. DAC,
+    on the other hand, allows users to control access to their own resources and does
+    not require administrators to set policies. This makes it less secure than MAC,
+    as users may not know what the most secure settings are for their resources.
+- a2: Incorrect. DAC does not provide the ability to grant access on a need-to-know
+    basis, as users can grant access to their own resources regardless of whether
+    or not the person requesting access actually needs it.
+- a3: Incorrect. MAC and DAC are both flexible and rigid in different ways. While
+    MAC is more rigid in that access is granted according to predefined policies,
+    it is also more flexible as it can accommodate a wide range of environments and
+    users. DAC, on the other hand, is more flexible in allowing users to grant access
+    to their own resources, but it is more rigid in its lack of predefined policies.
+- a4: Incorrect. MAC and DAC are both used in a variety of environments, regardless
+    of the number of users or resources to control. The choice between the two depends
+    on the specific needs and requirements of the organization or system.

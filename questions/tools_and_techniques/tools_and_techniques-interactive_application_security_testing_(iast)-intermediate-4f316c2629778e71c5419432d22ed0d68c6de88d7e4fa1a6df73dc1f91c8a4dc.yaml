@@ -1,0 +1,27 @@
+topic: Tools and Techniques
+category: Interactive Application Security Testing (IAST)
+level: intermediate
+question: How does IAST differ from SAST and DAST?
+answers:
+- a: IAST detects vulnerabilities during the runtime of the application, while SAST
+    examines the application's source code, and DAST examines the application in its
+    running state.
+- b: IAST examines the application in its running state, while SAST detects vulnerabilities
+    during the runtime of the application, and DAST examines the application's source
+    code.
+- c: IAST examines the application's source code, while SAST examines the application
+    in its running state, and DAST detects vulnerabilities during the runtime of the
+    application.
+- d: IAST, SAST and DAST are all the same and detect vulnerabilities during the runtime
+    of the application.
+correct_answer: a
+explanations:
+- a: Correct! IAST examines the application in its running state and combines the
+    benefits of both SAST and DAST, which examines the application's source code and
+    running state, respectively.
+- b: Incorrect. This is the opposite of what IAST does. SAST examines the application's
+    source code, and DAST examines the application in its running state.
+- c: Incorrect. This is partially true for SAST and DAST. IAST examines the application
+    in its running state, not source code.
+- d: Incorrect. IAST, SAST and DAST are different and use different techniques to
+    detect vulnerabilities.

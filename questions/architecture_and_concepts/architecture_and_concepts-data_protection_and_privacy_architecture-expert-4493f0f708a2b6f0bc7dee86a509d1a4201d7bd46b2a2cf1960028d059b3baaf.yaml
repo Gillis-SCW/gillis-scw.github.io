@@ -1,0 +1,26 @@
+topic: Architecture and Concepts
+category: Data Protection and Privacy Architecture
+level: expert
+question: What is the difference between anonymization and pseudonymization of personal
+  data under the General Data Protection Regulation (GDPR)?
+answers:
+- a: Anonymization destroys any means of association between personal data and its
+    owner, while pseudonymization replaces directly identifying attributes with another
+    identifier
+- b: Anonymization is only applicable to sensitive data types, while pseudonymization
+    is applied to all data types
+- c: Anonymization is not recognized as a viable protection measure under GDPR, pseudonymization
+    is the only recognized protection measure
+- d: Both terms refer to different means of data encryption to prevent unauthorized
+    access
+correct_answer: a
+explanations:
+- a: Correct. Anonymization completely removes any means of association between personal
+    data and its owner, while pseudonymization substitutes directly identifying attributes
+    with another identifier, making re-identification more difficult.
+- b: Incorrect. Anonymization can be applied to all types of personal data, not just
+    sensitive data types.
+- c: Incorrect. Anonymization is recognized under GDPR as a viable means of protecting
+    personal data, alongside pseudonymization and encryption.
+- d: Incorrect. While both anonymization and pseudonymization are related to data
+    protection, they are not means of encryption.

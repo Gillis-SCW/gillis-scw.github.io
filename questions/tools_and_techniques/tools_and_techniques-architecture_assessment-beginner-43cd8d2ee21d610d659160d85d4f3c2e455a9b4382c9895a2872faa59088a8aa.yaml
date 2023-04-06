@@ -1,0 +1,17 @@
+topic: Tools and techniques
+category: Architecture assessment
+level: beginner
+question: What is the purpose of architecture assessment in software development?
+answers:
+- a1: To evaluate the feasibility of the project.
+- a2: To analyze the system's architecture from different perspectives.
+- a3: To develop the functional requirements of the software.
+- a4: To test the software code for errors.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Feasibility analysis is a different stage in software development.
+- a2: "Correct. Architecture assessment helps evaluate the software\u2019s design\
+    \ from several angles to ensure it meets desired quality attributes."
+- a3: Incorrect. Functional requirements development is another stage in the software
+    development lifecycle.
+- a4: Incorrect. Code testing is another stage in software development.

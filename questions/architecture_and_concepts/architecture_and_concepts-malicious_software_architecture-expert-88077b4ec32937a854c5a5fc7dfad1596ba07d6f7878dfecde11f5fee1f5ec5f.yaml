@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Malicious Software Architecture
+level: expert
+question: What is a "dropper" in the context of malware?
+answers:
+- a1: A type of malware that opens a backdoor into a system for attackers to exploit
+- a2: A technique used by malware to evade detection by security software
+- a3: A standalone program that installs other malware onto a system
+- a4: A form of ransomware that encrypts the entire hard drive instead of individual
+    files
+correct_answer: a3
+explanations:
+- a1: Incorrect. The backdoor refers to a vulnerability in a system that attackers
+    can use to gain unauthorized access, but not to the dropper itself.
+- a2: Incorrect. Malware can use a variety of techniques to evade detection, but droppers
+    specifically refer to a type of program that installs other malware onto a system.
+- a3: Correct. A dropper is a standalone program that installs other malware onto
+    a system. It can be designed to be undetectable by security programs, making it
+    especially dangerous.
+- a4: Incorrect. Full disk encryption is a technique used by some malware to make
+    the target machine inaccessible, but it is not specific to ransomware.

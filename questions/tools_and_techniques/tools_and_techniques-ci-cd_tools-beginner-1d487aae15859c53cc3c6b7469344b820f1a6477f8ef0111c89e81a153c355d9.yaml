@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: CI-CD tools
+level: beginner
+question: What do CI and CD stand for in software development?
+answers:
+- a1: Continuous Integration and Continuous Delivery
+- a2: Continuous Iteration and Continuous Deployment
+- a3: Continuous Improvement and Continuous Deployment
+- a4: Continuous Improvement and Continuous Delivery
+correct_answer:
+- a1
+explanations:
+- a1: Correct! CI and CD stand for Continuous Integration and Continuous Delivery
+    respectively.
+- a2: Incorrect. Continuous Iteration is not a term used in CI/CD.
+- a3: Incorrect. While there is a continuous improvement aspect to CI/CD, it's not
+    the primary focus of these tools.
+- a4: Incorrect. While continuous improvement is part of the goal of CI/CD, it's not
+    the focus of the specific terms themselves.

@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Cryptographic Architecture
+level: expert
+question: What are the different levels at which Cryptographic Architecture can be
+  implemented?
+answers:
+- a: Application, network, and hardware.
+- b: Operating system, database, and middleware.
+- c: Front-end, back-end, and full-stack.
+- d: Cloud, on-premise, and hybrid.
+correct_answer: a
+explanations:
+- a: Correct. Cryptographic Architecture can be implemented at various levels, such
+    as application, network, and hardware.
+- b: Incorrect. These are not the levels at which Cryptographic Architecture can be
+    implemented.
+- c: Incorrect. These are not the levels at which Cryptographic Architecture can be
+    implemented.
+- d: Incorrect. These are not the levels at which Cryptographic Architecture can be
+    implemented.

@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Secure File Upload Architecture
+level: advanced
+question: What is a nonce in Secure File Upload Architecture?
+answers:
+- a1: A random string used only once to protect against replay attacks
+- a2: A cryptographic hash that is used to encrypt the contents of the file
+- a3: A private key used to encrypt and decrypt files during transmission
+- a4: An authentication server that verifies the user's identity
+correct_answer: a1
+explanations:
+- a1: Correct. A nonce is a random string that is used only once to protect against
+    replay attacks, where an attacker tries to re-transmit a previously intercepted
+    message.
+- a2: Incorrect. A cryptographic hash is a one-way function that is used to ensure
+    the integrity of data, but not to encrypt files during transmission.
+- a3: Incorrect. A private key is used in asymmetric cryptography, but not in Secure
+    File Upload Architecture, which typically uses symmetric encryption.
+- a4: Incorrect. An authentication server is used to verify a user's identity, but
+    it is not related to nonce-based security measures.

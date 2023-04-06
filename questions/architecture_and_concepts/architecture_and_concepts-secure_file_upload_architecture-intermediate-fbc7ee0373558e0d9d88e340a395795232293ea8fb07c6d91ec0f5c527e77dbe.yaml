@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Secure File Upload Architecture
+level: intermediate
+question: Which encryption algorithm is commonly used in Secure File Upload Architecture?
+answers:
+- a1: DES
+- a2: AES
+- a3: RSA
+- a4: SHA
+correct_answer: a2
+explanations:
+- a1: Incorrect. DES (Data Encryption Standard) is an outdated algorithm that has
+    been compromised and is no longer considered secure enough for modern applications.
+- a2: Correct. AES (Advanced Encryption Standard) is a widely used encryption algorithm
+    that is considered very secure and is commonly used in Secure File Upload Architecture.
+- a3: "Incorrect. RSA (Rivest\u2013Shamir\u2013Adleman) is a public-key encryption\
+    \ algorithm that is mainly used for secure data transmission, digital signatures,\
+    \ and key exchange. It is not commonly used in Secure File Upload Architecture."
+- a4: Incorrect. SHA (Secure Hash Algorithm) is a cryptographic hash function that
+    is used to secure data and electronic signatures, but not to encrypt files in
+    transit.

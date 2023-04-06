@@ -1,0 +1,18 @@
+topic: Tools and techniques
+category: Source code management (SCM)
+level: advanced
+question: Which SCM tool is known for its "pull request" feature?
+answers:
+- a1: Git
+- a2: Subversion
+- a3: Perforce
+- a4: Mercurial
+correct_answer:
+- a1
+explanations:
+- a1: Correct. In Git, contributors can propose changes to the codebase by submitting
+    a pull request to the original author.
+- a2: Incorrect. Subversion uses the term "merge request" instead of "pull request".
+- a3: Incorrect. Perforce does not have a "pull request" feature.
+- a4: Incorrect. Mercurial uses "pull request" terminology, but it is not as widely
+    used as Git's.

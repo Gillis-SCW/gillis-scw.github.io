@@ -1,0 +1,14 @@
+topic: Security Awareness
+category: Physical Safety
+level: intermediate
+question: Which of the following is an example of physical safety hazards?
+answers:
+- a: Tripping over an electric cord
+- b: Losing a file on a computer
+- c: Receiving unwanted emails
+- d: All of the above
+correct_answer: a
+explanations:
+- a: Correct! Physical safety hazards refer to any situation/condition that can cause
+    bodily harm or injury. Tripping over an electric cord is an example of a physical
+    safety hazard.

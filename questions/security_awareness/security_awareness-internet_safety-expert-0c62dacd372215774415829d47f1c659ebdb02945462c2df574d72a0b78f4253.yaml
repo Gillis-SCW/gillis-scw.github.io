@@ -1,0 +1,18 @@
+topic: Security Awareness
+category: Internet Safety
+level: expert
+question: What is the danger of oversharing on social media?
+answers:
+- a1: Oversharing can lead to identity theft and financial fraud.
+- a2: Oversharing can open up the possibility of cyberbullying and harassment.
+- a3: Oversharing can expose personal information and compromise privacy.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. Oversharing personal information can make it easier for identity thieves
+    to steal financial information.
+- a2: Correct. Oversharing can make it easier for cyberbullies to target and harass
+    individuals online.
+- a3: Correct. Oversharing can expose personal information and compromise privacy,
+    leading to potential risks such as identity theft or tracking.
+- a4: Correct. All of the above are possible dangers of oversharing on social media.

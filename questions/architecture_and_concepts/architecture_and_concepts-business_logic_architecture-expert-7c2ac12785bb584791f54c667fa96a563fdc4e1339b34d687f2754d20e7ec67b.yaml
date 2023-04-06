@@ -1,0 +1,29 @@
+topic: Architecture and Concepts
+category: Business Logic Architecture
+level: expert
+question: What is the difference between business logic and business rules?
+answers:
+- a1: Business logic refers to the overall architecture of a software system, while
+    business rules are the specific guidelines for how to handle data and transactions.
+- a2: Business logic refers to the way in which business rules are implemented within
+    a software system, while business rules provide the specific parameters for how
+    the system should operate.
+- a3: Business logic refers to the algorithms and decision-making capabilities of
+    a software system, while business rules are the specific procedures and policies
+    that guide how the system should behave.
+- a4: Business logic refers to the performance and functionality of a software system,
+    while business rules provide the specific requirements for how the system should
+    operate.
+correct_answer: a3
+explanations:
+- a1: Incorrect. While business rules are a specific part of Business Logic Architecture,
+    business logic is not defined solely by the guidelines for how to handle data
+    and transactions.
+- a2: Incorrect. Business logic is not defined solely by the way in which business
+    rules are implemented within a software system.
+- a3: Correct. Business logic refers to the algorithms and decision-making capabilities
+    of a software system and how it handles inputs and outputs, while business rules
+    are the specific procedures and policies that guide how the system should behave
+    based on those inputs and outputs.
+- a4: Incorrect. Business logic is not defined solely by the performance and functionality
+    of a software system.

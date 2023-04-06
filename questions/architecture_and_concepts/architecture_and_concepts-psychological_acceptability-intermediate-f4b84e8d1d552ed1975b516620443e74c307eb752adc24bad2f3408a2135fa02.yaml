@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Psychological acceptability
+level: intermediate
+question: Which factors are important to achieve psychological acceptability?
+answers:
+- a1: Layout, accessibility, and energy efficiency
+- a2: Lighting, color, and materials
+- a3: Furniture, room temperature, and air quality
+- a4: Security, noise control, and parking availability
+correct_answer: a2
+explanations:
+- a1: Partially correct. While layout and accessibility are important, energy efficiency
+    is not directly related to achieving psychological acceptability.
+- a2: Correct. Achieving psychological acceptability requires careful consideration
+    of factors such as lighting, color, and materials.
+- a3: Partially correct. Furniture and room temperature can play a role, but air quality
+    is not directly related to psychological acceptability.
+- a4: Partially correct. Security and noise control can contribute to psychological
+    acceptability, but parking availability is not directly related.

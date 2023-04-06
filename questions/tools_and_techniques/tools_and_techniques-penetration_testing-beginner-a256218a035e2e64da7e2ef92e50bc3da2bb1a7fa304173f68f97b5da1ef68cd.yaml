@@ -1,0 +1,18 @@
+topic: Tools and Techniques
+category: Penetration testing
+level: beginner
+question: Which tool is used in penetration testing to identify open ports and services
+  running on target machines?
+answers:
+- nmap
+- sqlmap
+- metasploit
+- John the Ripper
+correct_answer: nmap
+explanations:
+- nmap: Correct. Nmap is a popular tool used in penetration testing to identify open
+    ports and services running on target machines.
+- sqlmap: Incorrect. SQLmap is used for SQL injection attacks.
+- metasploit: Incorrect. Metasploit is a penetration testing framework used for exploiting
+    vulnerabilities in a system.
+- John the Ripper: Incorrect. John the Ripper is used for password cracking.

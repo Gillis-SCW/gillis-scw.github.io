@@ -1,0 +1,30 @@
+topic: Architecture and Concepts
+category: Communications Architecture
+level: expert
+question: What is the difference between UDP and TCP and how are they used within
+  communications architecture?
+answers:
+- a1: UDP provides connectionless communication and is used for streaming data, while
+    TCP provides reliable, ordered data transmission and is used for applications
+    that require high reliability.
+- a2: UDP provides reliable, ordered data transmission and is used for applications
+    that require high reliability, while TCP provides connectionless communication
+    and is used for streaming data.
+- a3: UDP and TCP provide the same services and are interchangeable within communications
+    architecture.
+- a4: UDP and TCP are both used for wireless communication and have no relevance in
+    wired networks.
+correct_answer: a1
+explanations:
+- a1: Correct. User Datagram Protocol (UDP) provides connectionless communication
+    that is unreliable but fast, making it useful for streaming real-time data like
+    video and audio. Transmission Control Protocol (TCP) provides reliable and ordered
+    data transmission that is slower but ensures data integrity and completeness,
+    making it useful for applications that require high reliability like web browsing
+    or email.
+- a2: Incorrect. This answer describes the opposite of the correct answer, confusing
+    the services provided by UDP and TCP.
+- a3: Incorrect. UDP and TCP provide different services and are not interchangeable
+    within communications architecture.
+- a4: Incorrect. UDP and TCP are used in both wireless and wired networks and have
+    no relevance to the type of network used.

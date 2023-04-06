@@ -1,0 +1,22 @@
+topic: Architecture and Concepts
+category: Access Control Architecture
+level: advanced
+question: What are the different types of access control models?
+answers:
+- a: Discretionary Access Control (DAC), Mandatory Access Control (MAC), Role-Based
+    Access Control (RBAC), and Attribute-Based Access Control (ABAC).
+- b: Biometric Access Control, Token-Based Access Control, Password-Based Access Control,
+    and Role-Based Access Control.
+- c: Network Access Control, Wired Access Control, Wireless Access Control, and Remote
+    Access Control.
+- d: None of the above.
+correct_answer: a
+explanations:
+- a: Correct. The four main types of access control models are Discretionary Access
+    Control (DAC), Mandatory Access Control (MAC), Role-Based Access Control (RBAC),
+    and Attribute-Based Access Control (ABAC).
+- b: Incorrect. This option lists different types of authentication methods, not access
+    control models.
+- c: Incorrect. This option lists network access control types, not access control
+    models.
+- d: Incorrect. The correct option is a.

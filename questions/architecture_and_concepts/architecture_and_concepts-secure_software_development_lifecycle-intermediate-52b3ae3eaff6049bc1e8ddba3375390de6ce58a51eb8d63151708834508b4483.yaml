@@ -1,0 +1,16 @@
+topic: Architecture and Concepts
+category: Secure Software Development Lifecycle
+level: intermediate
+question: Why is SSDL important?
+answers:
+- a1: To identify security vulnerabilities in software development
+- a2: To evaluate software performance
+- a3: To improve software functionality
+- a4: All of the above
+correct_answer: a1
+explanations:
+- a1: Correct! One of the main objectives of SSDL is to identify security vulnerabilities
+    in software development.
+- a2: Incorrect. Improving software performance is not the main objective of SSDL.
+- a3: Incorrect. Improving software functionality is not the main objective of SSDL.
+- a4: Incorrect. SSDL is important for security purposes, not overall software development.

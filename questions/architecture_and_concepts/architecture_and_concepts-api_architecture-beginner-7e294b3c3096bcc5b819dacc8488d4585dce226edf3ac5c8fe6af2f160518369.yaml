@@ -1,0 +1,15 @@
+topic: Architecture and Concepts
+category: API Architecture
+level: beginner
+question: What does API stand for?
+answers:
+- a1: Application Programming Interface
+- a2: Advanced Program Integration
+- a3: Automated Process Instrumentation
+- a4: Adaptive Program Implementation
+correct_answer: a1
+explanations:
+- a1: Correct! An API is an Application Programming Interface.
+- a2: Incorrect. API stands for Application Programming Interface.
+- a3: Incorrect. API stands for Application Programming Interface.
+- a4: Incorrect. API stands for Application Programming Interface.

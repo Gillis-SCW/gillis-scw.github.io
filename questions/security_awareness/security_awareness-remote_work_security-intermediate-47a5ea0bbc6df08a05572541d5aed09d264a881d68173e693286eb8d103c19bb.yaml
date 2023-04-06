@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Remote Work Security
+level: intermediate
+question: What is the purpose of a virtual private network (VPN) in remote work security?
+answers:
+- a1: To provide extra security when accessing public wifi networks
+- a2: To secure internet traffic to and from the user's device
+- a3: To scan for and block malware
+- a4: To encrypt files stored on the cloud
+correct_answer: a2
+explanations:
+- a1: Partially correct. A VPN can indeed provide extra security when accessing public
+    wifi networks, but it has other uses as well.
+- a2: Correct. A VPN creates a secure, encrypted tunnel for internet traffic, which
+    helps protect against eavesdropping and other cyber attacks.
+- a3: Incorrect. Scanning for and blocking malware is the responsibility of antivirus
+    tools, not VPNs.
+- a4: Incorrect. Encrypting files stored on the cloud is important, but it is not
+    the purpose of a VPN.

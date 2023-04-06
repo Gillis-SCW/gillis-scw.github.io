@@ -1,0 +1,32 @@
+topic: Security Awareness
+category: Email Safety
+level: expert
+question: What is the difference between a virus and a Trojan horse in the context
+  of email attachments?
+answers:
+- a1: A virus is designed to replicate itself and infect other systems, while a Trojan
+    horse appears harmless but contains malicious code or instructions.
+- a2: A virus is a type of malware that spreads through email attachments, while a
+    Trojan horse is a software program that can perform various functions.
+- a3: A virus can be detected and neutralized by antivirus software, while a Trojan
+    horse is difficult to detect because it appears harmless.
+- a4: A virus can self-replicate and spread across networks, while a Trojan horse
+    requires user interaction to execute its malicious code.
+correct_answer: a1
+explanations:
+- a1: Correct. A virus is a piece of code or software that is designed to replicate
+    itself and infect other systems, while a Trojan horse appears harmless or beneficial
+    but contains malicious code or instructions that can cause harm or damage once
+    executed. Both types of malware can be spread through email attachments.
+- a2: Incorrect. This answer is partly correct. A virus is a type of malware that
+    spreads through various methods, including email attachments, while a Trojan horse
+    is a type of malware that tricks users into running it by appearing harmless or
+    beneficial. However, it does not apply to the context of email attachments only.
+- a3: Incorrect. This answer is partly correct. Viruses can often be detected and
+    neutralized by antivirus software, while Trojan horses can sometimes evade detection
+    because they appear harmless or beneficial. However, it does not address the differences
+    between viruses and Trojan horses.
+- a4: Incorrect. While viruses are self-replicating and can spread across networks,
+    Trojan horses do not self-replicate or spread on their own and require user interaction
+    to execute their malicious code. This answer does not address the differences
+    between viruses and Trojan horses in the context of email attachments.

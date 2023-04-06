@@ -1,0 +1,26 @@
+topic: Architecture and Concepts
+category: Microservice Architectures
+level: expert
+question: What is the role of an API gateway in a microservice architecture?
+answers:
+- a1: To manage access control among different services
+- a2: To provide a single entry point for external requests
+- a3: To translate data format between services
+- a4: To monitor the health of all the services
+correct_answer:
+- a1
+- a2
+- a3
+explanations:
+- a1: Correct. The API gateway helps to control access and ensure there are no unauthorized
+    activities in the microservice architecture. It routes requests to the appropriate
+    microservice and translates those requests if necessary.
+- a2: Correct. The API gateway serves as the single entry point into the microservice
+    architecture and routes requests to their appropriate service. It also handles
+    load balancing and rate limiting for incoming requests.
+- a3: Correct. If services use different data formats or protocols, the API gateway
+    can perform data mapping and transformation to ensure both communication and data
+    exchange are successful.
+- a4: Incorrect. Although monitoring is important in a microservice architecture,
+    the API gateway is not primarily responsible for it. Monitoring typically falls
+    under the responsibility of a service mesh or observability tool.

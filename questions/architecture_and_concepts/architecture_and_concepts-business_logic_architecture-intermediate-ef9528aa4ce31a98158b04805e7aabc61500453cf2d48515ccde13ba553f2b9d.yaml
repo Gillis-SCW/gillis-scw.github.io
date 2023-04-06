@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Business Logic Architecture
+level: intermediate
+question: What is the purpose of business rules in Business Logic Architecture?
+answers:
+- a1: To clarify business processes and systems.
+- a2: To manage stakeholder relationships.
+- a3: To ensure consistency and accuracy in software behavior and decision-making
+    capabilities.
+- a4: To identify inefficiencies in business operations.
+correct_answer: a3
+explanations:
+- a1: Incorrect. Business rules are not meant to clarify business processes and systems.
+- a2: Incorrect. Business rules are not meant to manage stakeholder relationships.
+- a3: Correct. Business rules ensure consistency and accuracy in software behavior
+    and decision-making capabilities by guiding how the software system should handle
+    data and transactions.
+- a4: Incorrect. Business rules are not meant to identify inefficiencies in business
+    operations.

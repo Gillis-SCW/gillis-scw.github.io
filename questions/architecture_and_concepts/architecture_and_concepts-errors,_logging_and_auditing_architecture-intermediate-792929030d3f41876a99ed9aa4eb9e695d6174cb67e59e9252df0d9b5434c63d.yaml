@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Errors, Logging and Auditing Architecture
+level: intermediate
+question: Which of the following is not an important aspect of implementing Errors,
+  Logging, and Auditing Architecture?
+answers:
+- a: Identifying critical system events
+- b: Assigning individual logins to all users
+- c: Securing logs from unauthorized access
+- d: Integrating with automated alert systems
+correct_answer: b
+explanations:
+- a: Incorrect. Identifying critical system events is important for implementing Errors,
+    Logging, and Auditing Architecture.
+- b: Correct. Assigning individual logins to all users is not an important aspect
+    of implementing Errors, Logging, and Auditing Architecture.
+- c: Incorrect. Securing logs from unauthorized access is important for implementing
+    Errors, Logging, and Auditing Architecture.
+- d: Incorrect. Integrating with automated alert systems is important for implementing
+    Errors, Logging, and Auditing Architecture.

@@ -1,0 +1,21 @@
+topic: Tools and techniques
+category: Product risk profiles
+level: advanced
+question: What is the purpose of identifying potential risks early in the product
+  development process?
+answers:
+- a1: To eliminate all risks associated with the product.
+- a2: To make informed decisions about product design and safety measures.
+- a3: To speed up the product development process.
+- a4: To reduce manufacturing costs.
+correct_answer: a2
+explanations:
+- a1: Incorrect. It is nearly impossible to eliminate all risks associated with a
+    product.
+- a2: Correct. Identifying potential risks early in the product development process
+    allows companies to make informed decisions about product design and safety measures
+    to reduce the likelihood of negative outcomes.
+- a3: Incorrect. Identifying potential risks early in the product development process
+    may not necessarily speed up the process.
+- a4: Incorrect. Identifying potential risks early in the product development process
+    may not necessarily reduce manufacturing costs.

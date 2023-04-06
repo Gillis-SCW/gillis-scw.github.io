@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Access Control Architecture
+level: beginner
+question: What is Access Control Architecture?
+answers:
+- a: A set of policies, procedures, and techniques that regulate and manage access
+    to critical data and resources.
+- b: Architecture that controls the access to the building.
+- c: A software that controls access to the internet.
+- d: None of the above.
+correct_answer: a
+explanations:
+- a: Correct. Access Control Architecture refers to a set of policies, procedures,
+    and techniques that regulate and manage access to critical data and resources.
+    It incorporates technologies like authentication, authorization, security tokens,
+    and user roles, ensuring that only authorized entities can access sensitive information
+    or locations.
+- b: Incorrect. This option refers to building access control systems.
+- c: Incorrect. This option refers to internet control software.
+- d: Incorrect. The correct option is a.

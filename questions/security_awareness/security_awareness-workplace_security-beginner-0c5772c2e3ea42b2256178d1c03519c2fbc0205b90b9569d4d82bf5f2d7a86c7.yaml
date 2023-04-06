@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Workplace Security
+level: beginner
+question: What is workplace security?
+answers:
+- a: Measures taken to prevent unauthorized access or intrusion into a workplace,
+    and keeping employees safe from potential threats or criminal activities.
+- b: A type of insurance that protects businesses from losses due to theft or damage
+    of assets.
+- c: Software designed to keep computers and other electronic devices secure and free
+    from viruses.
+correct_answer: a
+explanations:
+- a: Correct. Workplace security involves measures taken to prevent unauthorized access
+    or intrusion into a workplace, and keeping employees safe from potential threats
+    or criminal activities such as physical threats, cybersecurity breaches, and theft
+    of assets.
+- b: Incorrect. This describes a type of insurance, not workplace security.
+- c: Incorrect. This describes antivirus software, not workplace security.

@@ -1,0 +1,16 @@
+topic: Architecture and Concepts
+category: Cryptographic Architecture
+level: beginner
+question: What is Cryptographic Architecture?
+answers:
+- a: A framework used to design and implement secure communication systems.
+- b: An application that encrypts files.
+- c: A type of firewall.
+- d: An algorithm used to crack passwords.
+correct_answer: a
+explanations:
+- a: Correct. Cryptographic Architecture refers to the framework used to design and
+    implement secure communication systems.
+- b: Incorrect. This is not the definition of Cryptographic Architecture.
+- c: Incorrect. This is not the definition of Cryptographic Architecture.
+- d: Incorrect. This is not the definition of Cryptographic Architecture.

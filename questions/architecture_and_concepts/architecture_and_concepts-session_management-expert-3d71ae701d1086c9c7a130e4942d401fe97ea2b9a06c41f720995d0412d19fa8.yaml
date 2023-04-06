@@ -1,0 +1,26 @@
+topic: Architecture and Concepts
+category: Session management
+level: expert
+question: What is the risk of session fixation, and how can it be prevented?
+answers:
+- a1: Session fixation is the risk of an attacker initiating a user session and then
+    hijacking it, which can be prevented by using anti-CSRF tokens
+- a2: Session fixation is the risk of an attacker passing their own session token
+    to a user, which can be prevented by regenerating session identifiers upon authentication
+- a3: Session fixation is the risk of an attacker intercepting a user's session token,
+    which can be prevented by using server-side session storage instead of cookies
+- a4: Session fixation is the risk of a user's session staying active after logout,
+    which can be prevented by implementing proper cache control headers
+correct_answer: a2
+explanations:
+- a1: Incorrect. Session fixation is the risk of an attacker tricking a user into
+    using a session with a known identifier, which can be prevented by using session
+    IDs which are regenerated upon authentication.
+- a2: Correct. Session fixation is the risk of an attacker passing their own session
+    token to a user, which can be prevented by regenerating session identifiers upon
+    authentication.
+- a3: Incorrect. Session hijacking is the risk of an attacker intercepting a user's
+    session token, not session fixation. Server-side session storage may improve security,
+    but it does not prevent session fixation.
+- a4: Incorrect. Proper cache control headers can help prevent unauthorized access
+    to cached resources, but they do not prevent session fixation.

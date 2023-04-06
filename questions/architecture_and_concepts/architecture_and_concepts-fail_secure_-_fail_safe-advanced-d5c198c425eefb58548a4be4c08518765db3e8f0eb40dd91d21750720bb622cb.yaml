@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Fail secure - Fail safe
+level: advanced
+question: How can a security architect determine which approach (fail secure or fail
+  safe) to use in a particular security system?
+answers:
+- a1: By assessing the risks associated with the system and evaluating the benefits
+    and drawbacks of each approach
+- a2: By following industry standards and regulations
+- a3: Through trial and error
+- a4: By using a random selection process
+correct_answer: a1
+explanations:
+- a1: Correct. A security architect must evaluate the risks, design goals, and circumstances
+    surrounding the system to choose the appropriate approach to use.
+- a2: Incorrect. Following industry standards and regulations may be necessary, but
+    it does not provide a method for choosing between fail secure and fail safe.
+- a3: Incorrect. Trial and error is not a viable method for determining which approach
+    to use in a security system.
+- a4: Incorrect. Random selection does not consider the unique needs and challenges
+    of a specific security system.

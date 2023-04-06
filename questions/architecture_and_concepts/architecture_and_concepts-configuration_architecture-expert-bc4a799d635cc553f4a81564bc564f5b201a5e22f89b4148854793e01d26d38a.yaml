@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Configuration Architecture
+level: expert
+question: What are some of the common challenges faced in configuration architecture?
+answers:
+- a1: Large-scale systems and geographically distributed systems
+- a2: Complex dependencies and version control
+- a3: Security and Compliance
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Partially correct. Large-scale systems and geographically distributed systems
+    are one of the common challenges in configuration architecture, but not the only
+    ones.
+- a2: Partially correct. Complex dependencies and version control are one of the common
+    challenges in configuration architecture, but not the only ones.
+- a3: Partially correct. Security and compliance are one of the common challenges
+    in configuration architecture, but not the only ones.
+- a4: Correct. Configuration architecture can face challenges such as large-scale
+    systems, geographically distributed systems, complex dependencies, version control,
+    security, and compliance.

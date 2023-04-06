@@ -1,0 +1,24 @@
+topic: Architecture and Concepts
+category: Session management
+level: advanced
+question: What are the advantages and disadvantages of using secure cookies for session
+  management?
+answers:
+- a1: They can be encrypted, but can still be vulnerable to attacks like cross-site
+    scripting (XSS) and cross-site request forgery (CSRF)
+- a2: They can be used to store session data client-side, but can increase the risk
+    of data theft
+- a3: They can be accessed via JavaScript, but not by other domains, limiting the
+    risk of unauthorized access
+- a4: They can be set to expire after a certain time, but can still be vulnerable
+    to replay attacks
+correct_answer: a1
+explanations:
+- a1: Correct. Secure cookies can be encrypted to improve security, but can still
+    be vulnerable to attacks like XSS and CSRF.
+- a2: Incorrect. Secure cookies are not primarily used for storing session data client-side,
+    but rather for identifying and authenticating users.
+- a3: Incorrect. Secure cookies can indeed be accessed by other domains through JavaScript,
+    but they can also be vulnerable to other security risks.
+- a4: Incorrect. Secure cookies can be set to expire after a certain time to improve
+    security, but they are not vulnerable to replay attacks.

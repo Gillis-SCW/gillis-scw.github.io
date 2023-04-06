@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Static Application Security Testing (SAST)
+level: intermediate
+question: What is the difference between SAST and Dynamic Application Security Testing
+  (DAST)?
+answers:
+- a1: SAST analyzes source code, while DAST analyzes running applications
+- a2: SAST analyzes running applications, while DAST analyzes source code
+- a3: SAST and DAST both analyze source code and running applications
+- a4: SAST and DAST are the same thing
+correct_answer: a1
+explanations:
+- a1: Correct. SAST evaluates source code for potential security risks, and DAST analyzes
+    running applications to identify vulnerabilities.
+- a2: Incorrect. SAST evaluates source code, while DAST analyzes running applications.
+- a3: Incorrect. While both SAST and DAST analyze applications for security risks,
+    SAST evaluates source code specifically, and DAST analyzes running applications.
+- a4: Incorrect. SAST and DAST are two different categories of security testing tools
+    with distinct purposes and methods.

@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Fail secure - Fail safe
+level: expert
+question: How can a security architect implement both fail secure and fail safe approaches
+  in a single security system?
+answers:
+- a1: By using separate systems for fail secure and fail safe components
+- a2: By using integrated systems that combine fail secure and fail safe approaches
+- a3: By prioritizing either fail secure or fail safe over the other
+- a4: By only implementing fail secure or fail safe, but not both
+correct_answer: a2
+explanations:
+- a1: Incorrect. Separating fail secure and fail safe components may create complexities
+    in managing the system and could lead to gaps in security.
+- a2: Correct. Integrated systems that combine both approaches can provide a comprehensive
+    and efficient solution with the benefits of each approach.
+- a3: Incorrect. Prioritizing one approach over the other may not provide the best
+    solution for the security system as a whole.
+- a4: Incorrect. Ignoring either fail secure or fail safe can leave the security system
+    vulnerable. A comprehensive approach should consider both.

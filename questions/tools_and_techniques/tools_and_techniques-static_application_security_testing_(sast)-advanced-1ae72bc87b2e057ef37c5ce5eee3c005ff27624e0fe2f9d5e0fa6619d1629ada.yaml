@@ -1,0 +1,23 @@
+topic: Tools and Techniques
+category: Static Application Security Testing (SAST)
+level: advanced
+question: What is code coverage analysis and why is it important in SAST?
+answers:
+- a1: Code coverage analysis measures the amount of code that has been tested and
+    is important for identifying untested, potentially risky code.
+- a2: Code coverage analysis measures the number of vulnerabilities present in the
+    code and is important for determining how secure the application is.
+- a3: Code coverage analysis measures the effectiveness of SAST tools and is important
+    for selecting the right tool for a project.
+- a4: Code coverage analysis measures the speed of code execution and is important
+    for optimizing application performance.
+correct_answer: a1
+explanations:
+- a1: Correct. Code coverage analysis is used to measure the amount of code that has
+    been tested and identify untested code that may contain potential security risks.
+- a2: Incorrect. Code coverage analysis does not measure the number of vulnerabilities
+    present in code, but instead evaluates the extent to which code has been tested.
+- a3: Incorrect. Code coverage analysis does not measure the effectiveness of SAST
+    tools but instead evaluates the test coverage of code.
+- a4: Incorrect. Code coverage analysis does not measure the speed of code execution,
+    but instead evaluates the extent to which code has been tested.

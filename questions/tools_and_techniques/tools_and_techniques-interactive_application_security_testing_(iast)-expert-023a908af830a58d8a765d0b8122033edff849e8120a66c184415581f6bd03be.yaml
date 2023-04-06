@@ -1,0 +1,26 @@
+topic: Tools and Techniques
+category: Interactive Application Security Testing (IAST)
+level: expert
+question: What is the difference between an agent-based IAST tool and a sensor-based
+  IAST tool?
+answers:
+- a: An agent-based IAST tool requires a server to process the data generated during
+    runtime, while a sensor-based IAST tool sends data directly to a cloud-based security
+    platform for analysis.
+- b: An agent-based IAST tool monitors the application's inputs and outputs, while
+    a sensor-based IAST tool integrates with the application to detect vulnerabilities.
+- c: An agent-based IAST tool provides more accurate and detailed results, while a
+    sensor-based IAST tool is faster and more lightweight.
+- d: An agent-based IAST tool is more expensive than a sensor-based IAST tool, which
+    is open-source and freely available.
+correct_answer: a
+explanations:
+- a: Correct! An agent-based IAST tool installs a server to process the data generated
+    during runtime, while a sensor-based IAST tool sends data directly to a cloud-based
+    security platform for analysis.
+- b: Incorrect. This describes the basic function of IAST, not the key difference
+    between agent-based and sensor-based tools.
+- c: Incorrect. This describes some of the tradeoffs between agent-based and sensor-based
+    tools, but it is not a reliable way to distinguish them.
+- d: Incorrect. While cost is a valid factor to consider, it is not the defining characteristic
+    that separates agent-based and sensor-based IAST tools.

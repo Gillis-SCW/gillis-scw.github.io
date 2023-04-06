@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Interactive Application Security Testing (IAST)
+level: beginner
+question: What is IAST?
+answers:
+- a: A tool for security testing during runtime.
+- b: A tool for security testing during coding.
+- c: A tool for security testing during deployment.
+- d: A tool for security testing during design.
+correct_answer: a
+explanations:
+- a: Correct! IAST is a tool for real-time security testing during runtime, which
+    helps detect and prevent possible vulnerabilities.
+- b: Incorrect. IAST is a tool for real-time security testing during runtime, not
+    coding.
+- c: Incorrect. IAST is a tool for real-time security testing during runtime, not
+    deployment.
+- d: Incorrect. IAST is a tool for real-time security testing during runtime, not
+    design.

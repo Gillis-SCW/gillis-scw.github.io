@@ -1,0 +1,23 @@
+topic: Architecture and Concepts
+category: Defense in depth
+level: expert
+question: What are the advantages and disadvantages of using a cloud-based security
+  solution as part of a Defense in Depth approach?
+answers:
+- a: 'Advantages: scalability, cost-effectiveness, high reliability. Disadvantages:
+    lack of control, data privacy concerns.'
+- b: 'Advantages: flexibility, agility, ease of use. Disadvantages: high latency,
+    lack of customization, low security.'
+- c: 'Advantages: reduced complexity, improved performance, better compliance. Disadvantages:
+    high cost, limited availability, vendor lock-in.'
+- d: All of the above.
+correct_answer: a
+explanations:
+- a: Correct. Using a cloud-based security solution can offer a scalable and cost-effective
+    alternative to on-premise solutions, while still providing high reliability. However,
+    it comes with some disadvantages such as lack of control and data privacy concerns.
+- b: Incorrect. While some of the advantages are partially true, the disadvantages
+    are incorrect.
+- c: Incorrect. The advantages and disadvantages are incorrect.
+- d: Incorrect. Answer choice d is incorrect because not all of the above are true.
+    Answer choice a is the correct answer.

@@ -1,0 +1,26 @@
+topic: Security Awareness
+category: Social Media Safety
+level: expert
+question: What is social engineering and how can it be used to steal information on
+  social media?
+answers:
+- a: Social engineering refers to the use of technology to manipulate social interactions
+    and gain access to information, and can be used to deceive users into revealing
+    personal information or taking actions that benefit the attacker.
+- b: Social engineering is a hacking technique that involves exploiting vulnerabilities
+    in software or network systems, and can be used to gain access to social media
+    accounts.
+- c: Social engineering is a term for using bots or automated systems to interact
+    with social media users and collect large amounts of data.
+- d: Social engineering is a type of attack that relies on physical access to a device,
+    and can be used to gain access to social media credentials.
+correct_answer: a
+explanations:
+- a: Correct. Social engineering is a tactic that relies on the manipulation of human
+    behavior to reveal sensitive information or perform actions that benefit the attacker.
+- b: Incorrect. While social engineering can be used to target software vulnerabilities,
+    it does not specifically involve hacking or exploiting network systems.
+- c: Incorrect. Using bots or automated systems to collect data is a separate tactic
+    known as data scraping.
+- d: Incorrect. Gaining physical access to a device is a separate tactic known as
+    shoulder surfing, and does not specifically relate to social media.

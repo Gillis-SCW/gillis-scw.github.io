@@ -1,0 +1,16 @@
+topic: Tools and techniques
+category: Source code management (SCM)
+level: beginner
+question: What is SCM used for in software development?
+answers:
+- a1: Track code changes
+- a2: Collaborate on coding projects
+- a3: Maintain a history of code changes
+- a4: All of the above
+correct_answer:
+- a4
+explanations:
+- a1: Correct. SCM allows developers to track code changes.
+- a2: Correct. SCM allows developers to collaborate on coding projects.
+- a3: Correct. SCM helps maintain a history of code changes.
+- a4: Correct. SCM allows developers to do all the mentioned tasks.

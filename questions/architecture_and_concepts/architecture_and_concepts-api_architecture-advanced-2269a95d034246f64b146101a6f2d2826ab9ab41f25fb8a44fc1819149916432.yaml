@@ -1,0 +1,18 @@
+topic: Architecture and Concepts
+category: API Architecture
+level: advanced
+question: What is API versioning?
+answers:
+- a1: The process of creating documentation for an API.
+- a2: The act of defining a new version of an API as changes are made.
+- a3: The process of deprecating and removing old versions of an API.
+- a4: The use of different types of APIs for different purposes.
+correct_answer: a2
+explanations:
+- a1: Incorrect. API versioning is not related to documentation.
+- a2: Correct! API versioning is the act of defining a new version of an API as changes
+    are made.
+- a3: Incorrect. API versioning includes the ability to deprecate and remove old versions,
+    but it is not the sole focus.
+- a4: Incorrect. API versioning isn't about using different types of APIs, but rather
+    about creating and managing different versions of a single API.

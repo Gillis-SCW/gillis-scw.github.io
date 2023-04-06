@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Authentication Architecture
+level: beginner
+question: What is Authentication Architecture?
+answers:
+- a1: A process of compromising network security
+- a2: A process of verifying user identity in a network or system
+- a3: A process of sharing passwords with others
+- a4: A process of browsing internet without logging in
+correct_answer: a2
+explanations:
+- a1: Incorrect. Authentication Architecture ensures network security, it does not
+    compromise it.
+- a2: Correct. Authentication Architecture is a process of verifying user identity
+    in a network or system.
+- a3: Incorrect. Password sharing can lead to unauthorized access, which Authentication
+    Architecture aims to prevent.
+- a4: Incorrect. Browsing the internet without logging in does not involve Authentication
+    Architecture.

@@ -1,0 +1,22 @@
+topic: Tools and techniques
+category: Dynamic application security testing (DAST)
+level: advanced
+question: Which of the following is a common approach used by DAST tools to simulate
+  attacks?
+answers:
+- a1: DAST tools use pattern matching to identify vulnerabilities in the application
+    code
+- a2: DAST tools use machine learning algorithms to test the application
+- a3: DAST tools inject malicious input into the application to trigger vulnerabilities
+- a4: DAST tools use static analysis to identify vulnerabilities in the application
+    code
+correct_answer: a3
+explanations:
+- a1: Incorrect. DAST tools typically use more sophisticated techniques than pattern
+    matching to identify vulnerabilities.
+- a2: Incorrect. While machine learning algorithms can be used in security testing,
+    this is not a common approach for DAST tools.
+- a3: Correct. DAST tools commonly inject malicious input into the application to
+    simulate attacks and identify vulnerabilities.
+- a4: Incorrect. Static analysis is not typically used by DAST tools, which are designed
+    to simulate real-world attacks.

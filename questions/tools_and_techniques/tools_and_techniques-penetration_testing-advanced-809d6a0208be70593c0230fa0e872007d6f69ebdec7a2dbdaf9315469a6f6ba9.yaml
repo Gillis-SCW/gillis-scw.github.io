@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Penetration testing
+level: advanced
+question: Which vulnerability scanning tool allows for customization of vulnerability
+  testing and can be used with multiple operating systems?
+answers:
+- OpenVAS
+- Nessus
+- Wireshark
+- Kali Linux
+correct_answer: Nessus
+explanations:
+- OpenVAS: Incorrect. OpenVAS is a free and open-source tool used for vulnerability
+    scanning.
+- Nessus: Correct. Nessus is a popular scanning tool used for vulnerability testing
+    and can be customized to scan multiple operating systems.
+- Wireshark: Incorrect. Wireshark is a tool used for network analysis.
+- Kali Linux: Incorrect. Kali Linux is a penetration testing operating system used
+    to perform security testing.

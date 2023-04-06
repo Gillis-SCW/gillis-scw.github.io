@@ -1,0 +1,23 @@
+topic: Security Awareness
+category: Remote Work Security
+level: expert
+question: What is the difference between data backups and data replication?
+answers:
+- a1: Data backups protect against accidental deletion, while data replication protects
+    against hardware failure
+- a2: Data backups create redundant copies, while data replication maintains a single
+    copy
+- a3: Data backups are offline, while data replication is online and real-time
+- a4: Data backups create incremental copies, while data replication creates full
+    copies
+correct_answer: a2
+explanations:
+- a1: Partially correct. Data backups do in fact protect against accidental deletion,
+    but they can also prevent data loss from hardware failure and other disasters.
+    Data replication can also protect against hardware failure.
+- a2: Correct. Data backups create redundant copies of data at regular intervals,
+    while data replication maintains a single copy of data that is constantly updated.
+- a3: Incorrect. Both data backups and data replication can be performed online and
+    in real-time or offline.
+- a4: Incorrect. Data backups can be either full or incremental, while data replication
+    always creates full copies.

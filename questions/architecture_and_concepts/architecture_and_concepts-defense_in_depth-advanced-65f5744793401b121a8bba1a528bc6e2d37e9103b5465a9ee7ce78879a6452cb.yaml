@@ -1,0 +1,26 @@
+topic: Architecture and Concepts
+category: Defense in depth
+level: advanced
+question: What is the difference between an active and a passive layer in a Defense
+  in Depth approach?
+answers:
+- a: An active layer is proactive and can detect and respond to an attack in real-time,
+    while a passive layer is only reactive.
+- b: A passive layer is more effective than an active layer because it doesn't rely
+    on any human intervention.
+- c: An active layer is only effective against known attacks, while a passive layer
+    can protect against unknown attacks.
+- d: A passive layer is more expensive than an active layer because it requires more
+    hardware.
+correct_answer: a
+explanations:
+- a: Correct. Active layers, such as intrusion prevention systems (IPS) and security
+    information and event management (SIEM), can detect and respond to an attack in
+    real-time, while passive layers, such as firewalls and access control, are only
+    reactive.
+- b: Incorrect. A passive layer still requires some human intervention and can be
+    less effective against certain types of attacks.
+- c: Incorrect. An active layer can also protect against unknown attacks with the
+    help of machine learning and artificial intelligence.
+- d: Incorrect. The cost of a layer depends on multiple factors and is not determined
+    by whether it is active or passive.

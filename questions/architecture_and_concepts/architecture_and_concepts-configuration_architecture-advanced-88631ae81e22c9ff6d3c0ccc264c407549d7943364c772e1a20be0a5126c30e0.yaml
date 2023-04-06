@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Configuration Architecture
+level: advanced
+question: What are the three main components of configuration architecture?
+answers:
+- a1: Hardware, Software, and Network
+- a2: System, User Interface, and Database
+- a3: Security, Performance, and Usability
+- a4: Relationships, Dependencies, and Connectivity
+correct_answer: a4
+explanations:
+- a1: Incorrect. Hardware, software, and network are important components, but not
+    the main components of configuration architecture.
+- a2: Incorrect. System, user interface, and database are important components, but
+    not the main components of configuration architecture.
+- a3: Incorrect. Security, performance, and usability are important factors to consider
+    but they are not components of configuration architecture.
+- a4: Correct. Configuration architecture involves defining the relationships and
+    dependencies between system components, configuring hardware and software, and
+    establishing connectivity between different components.

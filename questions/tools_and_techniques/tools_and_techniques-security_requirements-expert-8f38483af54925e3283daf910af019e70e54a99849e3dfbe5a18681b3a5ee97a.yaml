@@ -1,0 +1,34 @@
+topic: Tools and techniques
+category: Security requirements
+level: expert
+question: What is the difference between confidentiality, integrity, and availability
+  as they relate to security requirements?
+answers:
+- a1: Confidentiality ensures that data is accessed only by authorized individuals
+    or systems, integrity ensures that data is accurate and not tampered with, and
+    availability ensures that data is accessible when needed.
+- a2: Confidentiality ensures that data is backed up in multiple locations, integrity
+    ensures that data can be recovered if lost, and availability ensures that data
+    can be restored quickly in the event of an outage.
+- a3: Confidentiality ensures that data is encrypted during transmission and storage,
+    integrity ensures that data is kept up to date, and availability ensures that
+    data can be accessed remotely.
+- a4: Confidentiality ensures that data is available to anyone who needs it, integrity
+    ensures that data is stored in a secure location, and availability ensures that
+    data is always up to date.
+correct_answer: a1
+explanations:
+- a1: Correct - Confidentiality, integrity, and availability are often referred to
+    as the CIA triad of security requirements, where confidentiality ensures only
+    authorized access, integrity ensures accuracy and completeness, and availability
+    ensures accessibility when needed.
+- a2: Incorrect - Confidentiality does not necessarily ensure that data is backed
+    up in multiple locations. While availability does relate to quick restoration
+    after an outage, this is not its only purpose.
+- a3: Incorrect - Confidentiality is not just about encryption, but about access control
+    as well. Integrity is about maintaining data accuracy, not just keeping it up
+    to date. Availability is not just about remote access, but also local access.
+- a4: Incorrect - Confidentiality does not mean making data available to anyone who
+    needs it, but instead limiting access to authorized individuals or systems. Integrity
+    refers to accurate data, not just secure storage. Availability does not ensure
+    that data is always up to date.

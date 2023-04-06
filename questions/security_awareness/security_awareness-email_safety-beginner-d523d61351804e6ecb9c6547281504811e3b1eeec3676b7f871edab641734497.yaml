@@ -1,0 +1,17 @@
+topic: Security Awareness
+category: Email Safety
+level: beginner
+question: Which of the following is an example of an email-based threat?
+answers:
+- a1: Pop-up ads
+- a2: Junk mail
+- a3: Phishing scams
+- a4: Phone scams
+correct_answer: a3
+explanations:
+- a1: Incorrect. Pop-up ads are not email-based threats.
+- a2: Incorrect. Junk mail is a type of email, not a threat.
+- a3: Correct. Phishing scams are a common email-based threat and refer to the practice
+    of sending fraudulent emails to trick individuals into revealing personal information
+    or clicking on malicious links.
+- a4: Incorrect. Phone scams are not email-based threats.

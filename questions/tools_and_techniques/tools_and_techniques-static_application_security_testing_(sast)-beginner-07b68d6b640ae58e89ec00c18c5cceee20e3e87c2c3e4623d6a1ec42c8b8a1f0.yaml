@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Static Application Security Testing (SAST)
+level: beginner
+question: What is the purpose of Static Application Security Testing (SAST) tools?
+answers:
+- a1: To identify security risks early in the development cycle
+- a2: To deploy code quicker
+- a3: To analyze code after it has been deployed
+- a4: To improve the overall performance of an application
+correct_answer: a1
+explanations:
+- a1: Correct. SAST tools are used to identify potential security risks in source
+    code before it is deployed, enabling developers to manage vulnerabilities early
+    in the development cycle.
+- a2: Incorrect. SAST tools do not assist with deploying code but are used to identify
+    potential security risks.
+- a3: Incorrect. SAST tools are used to evaluate source code and identify potential
+    security risks before deployment.
+- a4: Incorrect. SAST tools are used to analyze the security of code, not its performance.

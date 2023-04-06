@@ -1,0 +1,18 @@
+topic: Architecture and Concepts
+category: API Architecture
+level: intermediate
+question: What is the purpose of API Gateway Service?
+answers:
+- a1: To provide secure external access to microservices.
+- a2: To manage and orchestrate microservice API calls.
+- a3: To organize and manage REST API requests.
+- a4: To enable communication between microservices and clients.
+correct_answer: a1
+explanations:
+- a1: Correct! API Gateway provides secure, external access to microservices.
+- a2: Incorrect. API Gateway is responsible for managing and orchestrating microservice
+    API calls between different services.
+- a3: Incorrect. API Gateway is more focused on managing the calls between different
+    services rather than on receiving REST API requests.
+- a4: Incorrect. API Gateway is more involved in managing the calls between different
+    services rather than on ensuring communication between microservices and clients.

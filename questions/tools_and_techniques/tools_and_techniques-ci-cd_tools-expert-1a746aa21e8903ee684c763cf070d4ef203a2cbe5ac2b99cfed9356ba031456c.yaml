@@ -1,0 +1,28 @@
+topic: Tools and techniques
+category: CI-CD tools
+level: expert
+question: What is GitOps and how does it relate to CI/CD?
+answers:
+- a1: GitOps is an approach to managing infrastructure using Git, and it's used in
+    conjunction with CI/CD to automate infrastructure changes along with code changes.
+- a2: GitOps is a particular CI/CD tool that integrates with Git repositories, enabling
+    automatic testing and deployment of changes.
+- a3: GitOps is a workflow for using Git branches to manage different versions of
+    code and easily coordinate deployment across teams. It's used with CI/CD tools
+    to ensure timely delivery of updates.
+- a4: GitOps is a methodology that combines Git version control with DevOps practices,
+    including CI/CD. It enables infrastructure as code in a way that's easily repeatable
+    and verifiable.
+correct_answer:
+- a4
+explanations:
+- a1: Close, but not quite. GitOps is a methodology, not just a tool or approach to
+    infrastructure management.
+- a2: Incorrect. GitOps is not a specific tool, but rather a methodology that can
+    be used with a variety of CI/CD tools.
+- a3: This is not an accurate description of GitOps. While Git branches and version
+    control are useful aspects of GitOps, it goes beyond coordination and delivery
+    of code.
+- a4: Correct! GitOps is a methodology that combines Git version control with DevOps
+    practices, including CI/CD. It's used to enable infrastructure as code that can
+    be easily repeated and verified.

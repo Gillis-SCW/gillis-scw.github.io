@@ -1,0 +1,25 @@
+topic: Tools and Techniques
+category: Incident Response
+level: advanced
+question: What is the purpose of a tabletop exercise in incident response planning?
+answers:
+- a1: To simulate a real-world incident and evaluate the effectiveness of the response
+    plan and procedures.
+- a2: To train security analysts on the use of incident response tools and techniques.
+- a3: To test the resilience of the IT infrastructure against cyber attacks.
+- a4: To review the incident response plan and update it with new findings and lessons
+    learned.
+correct_answer: a1
+explanations:
+- a1: Correct. Tabletop exercises are simulations of real-world incidents that can
+    help organizations evaluate their incident response plans, procedures, and communication
+    channels.
+- a2: Incorrect. Tabletop exercises are not meant to be training sessions, but rather
+    simulations of actual incidents for the purpose of assessing and improving the
+    incident response capabilities of the organization.
+- a3: Incorrect. Tabletop exercises do not test the resilience of the IT infrastructure,
+    but rather the preparedness and effectiveness of the incident response team and
+    the response plan.
+- a4: Incorrect. While tabletop exercises can help identify gaps and areas for improvement
+    in the incident response plan, their main purpose is to simulate and evaluate
+    the response to a real-world incident.

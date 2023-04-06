@@ -1,0 +1,22 @@
+topic: Architecture and Concepts
+category: Errors, Logging and Auditing Architecture
+level: expert
+question: What is the difference between logging and auditing in Errors, Logging,
+  and Auditing Architecture?
+answers:
+- a: Logging helps to identify system failures, while auditing helps to maintain regulatory
+    compliance.
+- b: Logging records all system events, while auditing identifies suspicious activity.
+- c: Logging is automated and passive, while auditing is manual and reactive.
+- d: Logging is used for real-time monitoring, while auditing is used for post-incident
+    analysis.
+correct_answer: b
+explanations:
+- a: Incorrect. Both logging and auditing help to identify system failures and maintain
+    regulatory compliance.
+- b: Correct. Logging records all system events, while auditing sifts through that
+    data to identify suspicious activity.
+- c: Incorrect. Both logging and auditing can be automated and proactive, or manual
+    and reactive.
+- d: Incorrect. Both logging and auditing can be used for real-time monitoring and
+    post-incident analysis.

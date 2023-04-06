@@ -1,0 +1,24 @@
+topic: Security Awareness
+category: Disaster Recovery
+level: beginner
+question: What is disaster recovery?
+answers:
+- a1: A plan that focuses on minimizing downtime, protecting data integrity, and ensuring
+    business continuity during unforeseen events.
+- a2: A plan that helps your company to increase revenue and reduce stress on employees.
+- a3: A plan that involves developing new products or services to meet the competition.
+- a4: A plan that focuses exclusively on natural disasters.
+correct_answer: a1
+explanations:
+- a1: Correct. Disaster recovery is a plan focused on preparing and responding to
+    unforeseen events that could impact business operations. It aims to minimize downtime,
+    protect data integrity, and ensure business continuity during unforeseen events,
+    while also safeguarding customer and stakeholder interests. Developing risk management
+    plans and backup strategies are a part of disaster recovery.
+- a2: Incorrect. This definition is incorrect as disaster recovery aims to minimize
+    downtime, protect data integrity, and ensure business continuity during unforeseen
+    events.
+- a3: Incorrect. This definition is incorrect as disaster recovery does not involve
+    developing new products or services to meet competition.
+- a4: Incorrect. This definition is incorrect as disaster recovery focuses not only
+    on natural disasters but also on cyber attacks and human errors.

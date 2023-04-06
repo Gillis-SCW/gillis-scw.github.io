@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Authentication Architecture
+level: advanced
+question: What is the difference between SSO and MFA?
+answers:
+- a1: SSO enables users to access multiple applications with a single set of credentials,
+    while MFA requires users to provide multiple factors of authentication for access.
+- a2: SSO requires users to provide multiple factors of authentication for access,
+    while MFA enables users to access multiple applications with a single set of credentials.
+- a3: SSO and MFA are the same thing and can be used interchangeably.
+- a4: SSO and MFA are both outdated technologies that are not used anymore.
+correct_answer: a1
+explanations:
+- a1: Correct. SSO enables users to access multiple applications with a single set
+    of credentials, while MFA requires users to provide multiple factors of authentication
+    for access.
+- a2: Incorrect. The answer describes the opposite of SSO and MFA.
+- a3: Incorrect. SSO and MFA are different methods of authentication and cannot be
+    used interchangeably.
+- a4: Incorrect. SSO and MFA are widely used technologies in Authentication Architecture
+    and are constantly evolving to address new security challenges.

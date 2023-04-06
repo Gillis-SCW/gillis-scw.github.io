@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Authentication Architecture
+level: intermediate
+question: What are the most commonly used Authentication Architecture schemes?
+answers:
+- a1: Single Sign-On (SSO) and Multi-Factor Authentication (MFA)
+- a2: OAuth and OpenID Connect
+- a3: Kerberos and LDAP
+- a4: SAML and JWT
+correct_answer: a1
+explanations:
+- a1: Correct. Single Sign-On (SSO) and Multi-Factor Authentication (MFA) are commonly
+    used schemes in Authentication Architecture.
+- a2: Incorrect. OAuth and OpenID Connect are more commonly used for authorization,
+    rather than authentication.
+- a3: Incorrect. Kerberos and LDAP are outdated technologies that are not widely used
+    nowadays for authentication.
+- a4: Incorrect. SAML and JWT are also commonly used in Authentication Architecture,
+    but SSO and MFA are more prevalent.

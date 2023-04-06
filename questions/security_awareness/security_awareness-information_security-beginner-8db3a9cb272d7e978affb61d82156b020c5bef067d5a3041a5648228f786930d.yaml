@@ -1,0 +1,14 @@
+topic: Security Awareness
+category: Information Security
+level: beginner
+question: What is information security?
+answers:
+- a: The protection of sensitive data from unauthorized access or modification.
+- b: The sharing of sensitive data with other organizations.
+- c: The destruction of sensitive data to prevent unauthorized access.
+correct_answer: a
+explanations:
+- a: Correct. Information security involves protecting data from unauthorized access
+    or modification.
+- b: Incorrect. Sharing sensitive data could lead to unauthorized access or modification.
+- c: Incorrect. Destroying data may not always be the best way to protect it.

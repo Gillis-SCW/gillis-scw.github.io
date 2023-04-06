@@ -1,0 +1,34 @@
+topic: Architecture and Concepts
+category: Least privilege
+level: expert
+question: What is the difference between role-based access control (RBAC) and attribute-based
+  access control (ABAC)?
+answers:
+- a1: RBAC is more flexible than ABAC, as it allows roles to be assigned based on
+    individual users, while ABAC only allows roles to be assigned based on attributes.
+- a2: ABAC is more flexible than RBAC, as it allows access to be granted based on
+    individual attributes rather than pre-defined roles.
+- a3: Both RBAC and ABAC are similar in that they allow access to be granted based
+    on predefined policies, but RBAC is more common in larger organizations while
+    ABAC is more common in smaller organizations.
+- a4: RBAC and ABAC are interchangeable concepts and are both used to refer to the
+    same cybersecurity practice.
+correct_answer: a2
+explanations:
+- a1: Incorrect. While RBAC is a flexible approach that allows roles to be assigned
+    to individual users based on their responsibilities, this is not a feature of
+    ABAC. ABAC, on the other hand, allows access to be granted based on individual
+    attributes such as job function, location, or time of day.
+- a2: Correct. The main difference between RBAC and ABAC is that RBAC is role-based,
+    while ABAC is attribute-based. This means that RBAC grants access to users based
+    on predefined roles that match their job functions or responsibilities, while
+    ABAC grants access based on individual attributes such as department, job function,
+    or clearance level. ABAC is more flexible than RBAC because it allows access to
+    be granted based on multiple attributes rather than pre-defined roles.
+- a3: Incorrect. There is no correlation between the size of an organization and the
+    access control approach it employs. Both RBAC and ABAC are used in organizations
+    of all sizes, depending on the specific needs and requirements of the system or
+    environment.
+- a4: Incorrect. While RBAC and ABAC are both access control concepts, they are not
+    interchangeable terms as they refer to different approaches. RBAC grants access
+    based on predefined roles, while ABAC grants access based on individual attributes.

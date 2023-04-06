@@ -1,0 +1,20 @@
+topic: Tools and techniques
+category: Software composition analysis (SCA)
+level: beginner
+question: What does SCA stand for?
+answers:
+- a1: Software Creation Analysis
+- a2: Software Composition Analysis
+- a3: Software Collaboration Analysis
+- a4: Software Communication Analysis
+correct_answer: a2
+explanations:
+- a1: Incorrect. SCA stands for Software Composition Analysis, not Software Creation
+    Analysis.
+- a2: Correct. SCA stands for Software Composition Analysis, which is a tool used
+    to identify, track and manage third-party software components to ensure compliance,
+    security and maintainability.
+- a3: Incorrect. SCA stands for Software Composition Analysis, not Software Collaboration
+    Analysis.
+- a4: Incorrect. SCA stands for Software Composition Analysis, not Software Communication
+    Analysis.

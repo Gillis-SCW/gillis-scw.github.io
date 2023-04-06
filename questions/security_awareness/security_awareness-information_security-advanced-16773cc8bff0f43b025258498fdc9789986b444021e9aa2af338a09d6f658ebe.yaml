@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Information Security
+level: advanced
+question: What is a firewall?
+answers:
+- a: A software application that protects a computer from malware.
+- b: A device that prevents unauthorized access to a computer network.
+- c: A type of encryption used to secure data.
+- d: A tool used to scan and remove viruses from a computer.
+correct_answer: b
+explanations:
+- a: Incorrect. A firewall is not a software application that specifically protects
+    against malware.
+- b: Correct. A firewall is a device that prevents unauthorized access to a computer
+    network.
+- c: Incorrect. Encryption is used to protect data, but a firewall is not a type of
+    encryption.
+- d: Incorrect. A firewall is not used to scan and remove viruses; that is the job
+    of antivirus software.

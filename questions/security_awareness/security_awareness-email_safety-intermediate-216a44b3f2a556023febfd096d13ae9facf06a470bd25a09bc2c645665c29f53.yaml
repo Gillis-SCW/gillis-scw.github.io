@@ -1,0 +1,21 @@
+topic: Security Awareness
+category: Email Safety
+level: intermediate
+question: What is the best way to verify if an email is authentic?
+answers:
+- a1: Click on any links provided in the email.
+- a2: Check the sender's email address and compare it to previous emails from the
+    same sender.
+- a3: Reply to the email and ask for confirmation.
+- a4: Ignore the email and delete it.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Clicking on links in suspicious emails can lead to malware infections
+    or other security issues.
+- a2: Correct. Checking the sender's email address and comparing it to previous emails
+    from the same sender can help verify if an email is authentic or if it is a phishing
+    scam using a spoofed email address.
+- a3: Incorrect. Replying to a suspicious email is not recommended as it can confirm
+    to attackers that they have reached a valid email address.
+- a4: Incorrect. Ignoring suspicious emails and deleting them is a good practice,
+    but it does not help verify if they are authentic.

@@ -1,0 +1,23 @@
+topic: Security Awareness
+category: Email Safety
+level: advanced
+question: What is the term used to describe an email attack that uses a seemingly
+  legitimate source to steal sensitive information?
+answers:
+- a1: Spoofing
+- a2: Phishing
+- a3: Malware
+- a4: Spear-phishing
+correct_answer: a4
+explanations:
+- a1: Incorrect. Spoofing refers to the practice of creating a fake email address
+    or website to deceive users.
+- a2: Incorrect. Phishing refers to the practice of using fraudulent email messages
+    that appear to be from legitimate sources.
+- a3: Incorrect. Malware refers to malicious software that is designed to harm or
+    damage computer systems or networks.
+- a4: Correct. Spear-phishing is a type of phishing attack that targets specific individuals
+    or organizations and uses information about them to increase the chances of success.
+    Attackers may use a seemingly legitimate source, such as a colleague or a customer,
+    to trick their targets into revealing sensitive information or clicking on links
+    or attachments.

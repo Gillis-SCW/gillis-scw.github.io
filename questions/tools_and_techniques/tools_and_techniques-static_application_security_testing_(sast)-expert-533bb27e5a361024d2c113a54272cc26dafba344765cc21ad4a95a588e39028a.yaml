@@ -1,0 +1,22 @@
+topic: Tools and Techniques
+category: Static Application Security Testing (SAST)
+level: expert
+question: What are some common types of vulnerabilities SAST tools can identify in
+  source code?
+answers:
+- a1: SQL injection, Cross-Site Scripting (XSS), and buffer overflow vulnerabilities
+- a2: Cross-Site Request Forgery (CSRF), Remote Code Execution (RCE), and OAuth vulnerabilities
+- a3: Distributed Denial of Service (DDoS), Man-in-the-Middle (MitM), and DNS Spoofing
+    vulnerabilities
+- a4: All of the above
+correct_answer: a1
+explanations:
+- a1: Correct. SQL injection, Cross-Site Scripting (XSS), and buffer overflow vulnerabilities
+    are among the most common types of security risks that SAST tools can identify
+    in source code.
+- a2: Incorrect. While CSRF, RCE, and OAuth vulnerabilities are common, they are not
+    typically found by SAST tools.
+- a3: Incorrect. DDoS, MitM, and DNS Spoofing vulnerabilities are network-level attacks
+    and are not generally identified by SAST tools.
+- a4: Incorrect. While SAST tools may identify other types of vulnerabilities, the
+    ones listed in answer a1 are the most common types found in source code.

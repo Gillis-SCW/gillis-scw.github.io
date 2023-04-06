@@ -1,0 +1,22 @@
+topic: Architecture and Concepts
+category: Business Logic Architecture
+level: beginner
+question: What does Business Logic Architecture refer to?
+answers:
+- a1: The way in which software applications and systems are designed to incorporate
+    business rules, policies, and logic into their functionality.
+- a2: The programming language used for building software systems.
+- a3: The process of testing software applications for bugs and errors.
+- a4: The design of the physical components of a computer system.
+correct_answer: a1
+explanations:
+- a1: Correct. Business Logic Architecture ensures that the software is aligned with
+    the requirements and objectives of the organization, enabling it to perform its
+    functions accurately, effectively, and securely by incorporating business rules,
+    policies, and logic into their functionality.
+- a2: Incorrect. Business Logic Architecture is not related to programming languages
+    used for building software systems.
+- a3: Incorrect. Business Logic Architecture is not a process of testing software
+    applications for bugs and errors.
+- a4: Incorrect. Business Logic Architecture is not related to the design of the physical
+    components of a computer system.

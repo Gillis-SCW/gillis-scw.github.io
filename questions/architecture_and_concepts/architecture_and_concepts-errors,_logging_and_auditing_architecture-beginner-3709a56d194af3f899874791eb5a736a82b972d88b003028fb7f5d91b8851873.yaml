@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Errors, Logging and Auditing Architecture
+level: beginner
+question: What is the purpose of Errors, Logging and Auditing Architecture?
+answers:
+- a: To identify and record failures within a system
+- b: To generate reports for quarterly compliance audits
+- c: To design the overall system architecture
+- d: To implement new software updates
+correct_answer: a
+explanations:
+- a: Correct. Errors, Logging and Auditing Architecture is the framework used to identify
+    and record failures within a system.
+- b: Incorrect. Errors, Logging and Auditing Architecture is not used for generating
+    reports for quarterly compliance audits.
+- c: Incorrect. Errors, Logging and Auditing Architecture is not used for designing
+    the overall system architecture.
+- d: Incorrect. Errors, Logging, and Auditing Architecture is not used for implementing
+    new software updates.

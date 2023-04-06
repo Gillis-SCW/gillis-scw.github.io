@@ -1,0 +1,18 @@
+topic: Security Awareness
+category: Identity Theft Prevention
+level: beginner
+question: What is one way to prevent identity theft?
+answers:
+- a1: Leaving personal information in public areas
+- a2: Using the same password for all accounts
+- a3: Monitoring credit reports
+- a4: Responding to unsolicited emails
+correct_answer: a3
+explanations:
+- a1: Incorrect. Leaving personal information in public areas increases the risk of
+    identity theft.
+- a2: Incorrect. Using the same password for all accounts makes it easier for hackers
+    to access your information if one password is compromised.
+- a3: Correct. Monitoring credit reports can help you detect any unauthorized activity.
+- a4: Incorrect. Responding to unsolicited emails can lead to giving away personal
+    information to scammers.

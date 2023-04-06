@@ -1,0 +1,21 @@
+topic: Security Awareness
+category: Remote Work Security
+level: advanced
+question: Which access control policy would be the most effective for remote workers
+  who need to access sensitive company data?
+answers:
+- a1: Multi-factor authentication
+- a2: Single sign-on
+- a3: Password sharing
+- a4: Guest accounts with limited access
+correct_answer: a1
+explanations:
+- a1: Correct. Multi-factor authentication requires users to provide two or more pieces
+    of evidence to verify their identity, making it one of the most effective access
+    control policies.
+- a2: Partially correct. Single sign-on can make remote work easier but it is not
+    the most secure access control policy.
+- a3: Incorrect. Password sharing is not secure and should be avoided.
+- a4: Incorrect. Guest accounts with limited access are useful for non-employees,
+    but they should not be used for remote workers who need to access sensitive company
+    data.

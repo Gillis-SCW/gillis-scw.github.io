@@ -1,0 +1,20 @@
+topic: Security Awareness
+category: Social Media Safety
+level: advanced
+question: Which setting can help limit the sharing of personal information on most
+  social media platforms?
+answers:
+- a: Two-factor authentication
+- b: Public profile visibility
+- c: Tagging review
+- d: Privacy settings for individual posts
+correct_answer: d
+explanations:
+- a: Incorrect. While two-factor authentication can help strengthen access control,
+    it is not related to limiting the sharing of personal information.
+- b: Incorrect. Public profile visibility relates to who can view a user's profile,
+    not the sharing of personal information.
+- c: Incorrect. Tagging review allows users to approve or reject tags in posts, but
+    it is not related to limiting the sharing of personal information.
+- d: Correct. Privacy settings for individual posts can help limit the sharing of
+    personal information by controlling who can see each post.

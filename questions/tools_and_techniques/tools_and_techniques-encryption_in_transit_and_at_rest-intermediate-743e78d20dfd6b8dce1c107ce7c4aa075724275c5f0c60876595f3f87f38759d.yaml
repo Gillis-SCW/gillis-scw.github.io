@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Encryption in transit and at rest
+level: intermediate
+question: What is the main difference between SSL/TLS and a VPN?
+answers:
+- a1: SSL/TLS is used to encrypt web traffic, while a VPN is used to connect networks
+    securely.
+- a2: SSL/TLS is used to authenticate users, while a VPN is used to encrypt data.
+- a3: SSL/TLS is a hardware-based security solution, while a VPN is a software-based
+    solution.
+- a4: SSL/TLS and VPN are essentially the same thing.
+correct_answer: a1
+explanations:
+- a1: Correct! SSL/TLS encrypts web traffic, while a VPN creates a secure, encrypted
+    tunnel between two networks.
+- a2: Incorrect. While both SSL/TLS and VPN provide encryption, they have different
+    use cases.
+- a3: Incorrect. SSL/TLS and VPN are both software-based solutions.
+- a4: Incorrect. SSL/TLS and VPN serve different purposes.

@@ -1,0 +1,23 @@
+topic: OWASP Top 10
+category: Total Overview
+level: beginner
+question: Which of the following is NOT one of the OWASP Top 10 vulnerabilities?
+answers:
+- a1: Injection Flaws
+- a2: Broken Authentication and Session Management
+- a3: Cross-Site Scripting
+- a4: Email Phishing
+correct_answer: a4
+explanations:
+- a1: Incorrect. Injection flaws are number one in the OWASP Top 10 list and refer
+    to the ability of an attacker to send untrusted data to an interpreter as part
+    of a command or query.
+- a2: Incorrect. Broken authentication and session management refer to the failure
+    of the system to properly authenticate the user or manage the sessions once the
+    user is authenticated.
+- a3: Incorrect. Cross-Site Scripting (XSS) is a type of injection attack where the
+    attacker injects malicious content into a website viewed by other users, in order
+    to steal data or run malicious code.
+- a4: Correct. Email phishing is a common social engineering attack based on tricking
+    the user to give away confidential information such as passwords or credit card
+    numbers, but it is not part of the OWASP Top 10 list.

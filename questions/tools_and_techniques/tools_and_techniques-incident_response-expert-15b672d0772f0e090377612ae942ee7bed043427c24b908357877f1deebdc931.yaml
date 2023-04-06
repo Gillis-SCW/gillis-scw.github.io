@@ -1,0 +1,26 @@
+topic: Tools and Techniques
+category: Incident Response
+level: expert
+question: What is the role of threat intelligence in incident response?
+answers:
+- a1: To provide real-time alerts on potential security threats and vulnerabilities.
+- a2: To enrich the incident data with contextual information, such as the motivations
+    and tactics of the attackers.
+- a3: To identify the source of the incident and the vulnerabilities that were exploited.
+- a4: To assist in the containment and eradication of the incident by providing actionable
+    insights and recommendations.
+correct_answer: a2
+explanations:
+- a1: Incorrect. While threat intelligence can provide alerts on potential security
+    threats and vulnerabilities, this is not its primary role in incident response.
+- a2: Correct. Threat intelligence can help incident responders better understand
+    the nature and scope of the incident, as well as the motivations and tactics of
+    the attackers. This can lead to better containment and eradication of the incident
+    and more effective prevention of future incidents.
+- a3: Incorrect. Identifying the source and vulnerabilities of the incident is an
+    important part of incident response, but threat intelligence is not the primary
+    tool for this task.
+- a4: Incorrect. While threat intelligence can provide actionable insights and recommendations,
+    its role in incident response is broader than just containment and eradication.
+    Threat intelligence can also help with situational awareness, incident reporting,
+    and risk assessment.

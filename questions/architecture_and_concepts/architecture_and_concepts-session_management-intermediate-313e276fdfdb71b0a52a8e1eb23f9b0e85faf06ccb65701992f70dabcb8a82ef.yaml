@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Session management
+level: intermediate
+question: What is the purpose of limiting session lifetimes?
+answers:
+- a1: To force users to frequently re-authenticate
+- a2: To reduce the risk of session hijacking
+- a3: To prevent unauthorized access by expired sessions
+- a4: To reduce server load caused by idle sessions
+correct_answer: a2
+explanations:
+- a1: Incorrect. Limiting session lifetimes may not necessarily force users to frequently
+    re-authenticate.
+- a2: Correct. Limiting session lifetimes reduces the risk of session hijacking by
+    limiting the period of time during which a session can be used to gain unauthorized
+    access.
+- a3: Incorrect. Limiting session lifetimes does not necessarily prevent unauthorized
+    access by expired sessions, but it can help reduce the risk.
+- a4: Incorrect. Limiting session lifetimes is not primarily done to reduce server
+    load caused by idle sessions, but rather to improve security.

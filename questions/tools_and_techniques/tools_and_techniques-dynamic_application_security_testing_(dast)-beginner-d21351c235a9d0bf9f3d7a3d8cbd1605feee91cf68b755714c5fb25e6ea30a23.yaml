@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Dynamic application security testing (DAST)
+level: beginner
+question: Which of the following best describes DAST testing tools?
+answers:
+- a1: DAST tools evaluate web applications by simulating real-world attacks
+- a2: DAST tools provide recommendations for fixing vulnerabilities in the application
+    code
+- a3: DAST tools only test web applications from the user's perspective
+- a4: DAST tools are not useful as part of a security testing plan
+correct_answer: a1
+explanations:
+- a1: Correct. DAST tools simulate real-world attacks on web applications to identify
+    vulnerabilities in the code.
+- a2: Incorrect. While DAST tools do recommend ways to fix vulnerabilities, this is
+    not the best description of their purpose.
+- a3: Incorrect. DAST tools test web applications from both the user's and attacker's
+    perspectives, not just the user's.
+- a4: Incorrect. DAST tools are a valuable part of any security testing plan.

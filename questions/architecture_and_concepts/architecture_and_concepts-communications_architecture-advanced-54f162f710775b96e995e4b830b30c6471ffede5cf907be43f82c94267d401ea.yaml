@@ -1,0 +1,23 @@
+topic: Architecture and Concepts
+category: Communications Architecture
+level: advanced
+question: What is the OSI model and how does it relate to communications architecture?
+answers:
+- a1: The OSI model is a networking model that defines how data is transmitted over
+    a network, and it is an important part of communications architecture.
+- a2: The OSI model is a security protocol used to protect data during transmission.
+- a3: The OSI model is a type of network architecture used for large-scale enterprise
+    networks.
+- a4: The OSI model is a type of wireless technology used for local area networks.
+correct_answer: a1
+explanations:
+- a1: Correct. The Open Systems Interconnection (OSI) model is a framework that defines
+    how data is transmitted over a network. It is an important part of communications
+    architecture because it provides a standard for how communication systems can
+    work together, which ensures interoperability and flexibility.
+- a2: Incorrect. The OSI model is not a security protocol but includes security measures
+    as a part of its framework.
+- a3: Incorrect. The OSI model is not a type of network architecture but is a theoretical
+    framework for how networks can work together.
+- a4: Incorrect. The OSI model is not a type of wireless technology but is a framework
+    for how communication occurs over a network.

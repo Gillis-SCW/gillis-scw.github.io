@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Microservice Architectures
+level: intermediate
+question: What is the main advantage of using a microservice architecture?
+answers:
+- a1: Improved scalability of the system
+- a2: Elimination of code complexity
+- a3: Better performance of the system
+- a4: Reduced development time
+correct_answer:
+- a1
+explanations:
+- a1: Correct. The microservice architecture approach makes it possible for individual
+    parts of an application's functionality to scale up or down based on demand, thereby
+    making it more scalable.
+- a2: Incorrect. Microservices break down the code into smaller, less complex components,
+    but this does not eliminate code complexity entirely.
+- a3: Incorrect. While performance may be better in certain cases, scalability is
+    the main advantage.
+- a4: Incorrect. Although independent services may be available for deployment, development
+    of a microservice architecture typically takes longer to complete.

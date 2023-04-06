@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Malicious Software Architecture
+level: intermediate
+question: What type of malicious software is designed to encrypt a victim's files
+  and demand payment in exchange for the decryption key?
+answers:
+- a1: Worm
+- a2: Trojan horse
+- a3: Virus
+- a4: Ransomware
+correct_answer: a4
+explanations:
+- a1: Incorrect. Worms replicate themselves to spread throughout a network or system,
+    but do not generally involve encryption or demanding payment for decryption.
+- a2: Incorrect. Trojan horse programs can give attackers unauthorized access to a
+    system, but do not generally involve encryption or demanding payment for decryption.
+- a3: Incorrect. Viruses infect other files to spread themselves, but do not generally
+    involve encryption or demanding payment for decryption.
+- a4: Correct. Ransomware is a type of malicious software that encrypts a victim's
+    files and demands payment in exchange for the decryption key.

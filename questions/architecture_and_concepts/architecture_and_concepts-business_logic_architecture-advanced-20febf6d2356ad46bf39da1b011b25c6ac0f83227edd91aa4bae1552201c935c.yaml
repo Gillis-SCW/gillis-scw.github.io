@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Business Logic Architecture
+level: advanced
+question: What is the role of policies in Business Logic Architecture?
+answers:
+- a1: Policies define the technical specifications of the software system.
+- a2: Policies guide the behavior and actions of the software system.
+- a3: Policies ensure data security and privacy.
+- a4: Policies enforce ethical considerations in software development.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Policies do not define the technical specifications of the software
+    system.
+- a2: Correct. Policies guide the behavior and actions of the software system by providing
+    a framework for decision-making and outlining the rules that the system must follow.
+- a3: Incorrect. Policies may ensure data security and privacy, but this is not their
+    primary role in Business Logic Architecture.
+- a4: Incorrect. Policies may enforce ethical considerations in software development,
+    but this is not their primary role in Business Logic Architecture.

@@ -1,0 +1,26 @@
+topic: Tools and techniques
+category: Security logging and monitoring
+level: expert
+question: What is the difference between Security Information Management (SIM) and
+  Security Event Management (SEM)?
+answers:
+- a1: SIM is concerned with long-term data storage and analysis, while SEM is focused
+    on real-time event analysis.
+- a2: SIM collects and stores data from all security devices, while SEM analyzes data
+    from specific devices.
+- a3: SIM is focused on analyzing data correlation, while SEM is focused on analyzing
+    network traffic.
+- a4: There is no difference between SIM and SEM.
+correct_answer: a1
+explanations:
+- a1: Correct. SIM and SEM perform different functions within the greater scope of
+    security logging and monitoring. SIM is designed for long-term data storage and
+    analysis, while SEM focuses on real-time event analysis.
+- a2: Incorrect. While SIM does collect and store data from various sources, it is
+    not exclusive to security devices. Similarly, SEM may analyze data from specific
+    devices, but this is not its only function.
+- a3: Incorrect. While data correlation and network traffic analysis are important
+    components of security logging and monitoring, they are not the sole functions
+    of SIM and SEM, respectively.
+- a4: Incorrect. There is a clear distinction between SIM and SEM in terms of their
+    purpose and function.

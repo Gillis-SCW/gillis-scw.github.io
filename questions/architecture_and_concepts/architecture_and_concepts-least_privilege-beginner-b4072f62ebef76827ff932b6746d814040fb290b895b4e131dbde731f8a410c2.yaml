@@ -1,0 +1,24 @@
+topic: Architecture and Concepts
+category: Least privilege
+level: beginner
+question: What is least privilege?
+answers:
+- a1: A cybersecurity concept where users are granted the maximum levels of access
+    and privileges they need to perform their job functions.
+- a2: A cybersecurity concept where users are granted the minimum levels of access
+    and privileges they need to perform their job functions.
+- a3: A cybersecurity concept where users have no restrictions when it comes to accessing
+    sensitive data.
+- a4: A cybersecurity concept that is not relevant to modern security practices.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Granting maximum access to users can increase the risk of unauthorized
+    access and limit the potential impact of a security breach.
+- a2: Correct. Least privilege is an essential concept in cybersecurity where a user
+    is granted the minimum levels of access and privileges they need to perform their
+    job functions. This approach mitigates the risk of unauthorized access and limits
+    the potential impact of a security breach.
+- a3: Incorrect. Granting unlimited access to sensitive data is extremely risky and
+    can lead to severe security breaches.
+- a4: Incorrect. Least privilege is a crucial security concept that is implemented
+    across industries and organizations worldwide.

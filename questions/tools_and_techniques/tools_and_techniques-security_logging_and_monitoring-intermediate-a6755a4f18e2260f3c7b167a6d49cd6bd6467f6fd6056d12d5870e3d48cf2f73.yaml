@@ -1,0 +1,22 @@
+topic: Tools and techniques
+category: Security logging and monitoring
+level: intermediate
+question: What is the difference between event logging and event monitoring?
+answers:
+- a1: Event logging collects and stores data, while event monitoring analyzes that
+    data in real-time.
+- a2: Event logging analyzes data in real-time, while event monitoring collects and
+    stores that data.
+- a3: There is no difference between event logging and event monitoring.
+- a4: Event logging and event monitoring are the same thing.
+correct_answer: a1
+explanations:
+- a1: Correct. Event logging involves collecting and storing data from various sources,
+    while event monitoring involves analyzing that data in real-time to detect potential
+    security threats.
+- a2: Incorrect. This answer is the opposite of what event logging and event monitoring
+    actually refer to.
+- a3: Incorrect. There is a significant difference between event logging and event
+    monitoring, as described in answer 1.
+- a4: Incorrect. Event logging and event monitoring are two separate activities that
+    serve distinct purposes.

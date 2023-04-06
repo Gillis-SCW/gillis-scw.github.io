@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Identity Theft Prevention
+level: expert
+question: How can you tell if your identity has been stolen?
+answers:
+- a1: You receive unexpected bills or collections notices
+- a2: Your bank account suddenly shows unauthorized transactions
+- a3: You are denied credit or receive a much higher interest rate than usual
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Receiving unexpected bills or collections notices for accounts you
+    did not open can indicate that your identity has been stolen.
+- a2: Correct. Seeing unauthorized transactions on your bank account is a clear indication
+    that your identity has been compromised.
+- a3: Correct. Being denied credit or receiving a much higher interest rate than usual
+    can be a sign of identity theft that has affected your credit history.
+- a4: Correct. All of these scenarios are common indicators of identity theft and
+    should be taken seriously.

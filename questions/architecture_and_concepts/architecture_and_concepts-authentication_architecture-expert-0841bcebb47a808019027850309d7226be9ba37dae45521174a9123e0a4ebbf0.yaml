@@ -1,0 +1,26 @@
+topic: Architecture and Concepts
+category: Authentication Architecture
+level: expert
+question: Explain the role of Identity Providers (IdPs) in Authentication Architecture.
+answers:
+- a1: IdPs are responsible for managing user authentication and authorization for
+    all applications and services provided by the organization.
+- a2: IdPs are responsible for managing user authentication and authorization for
+    a specific application or service.
+- a3: IdPs are only used for external users, while internal users are managed through
+    Active Directory or LDAP.
+- a4: IdPs are a legacy technology that has been replaced by modern authentication
+    methods such as OAuth and OpenID Connect.
+correct_answer: a1
+explanations:
+- a1: Correct. Identity Providers (IdPs) are responsible for managing user authentication
+    and authorization for all applications and services provided by the organization.
+    They act as a central point of control and trust for user identities within the
+    organization.
+- a2: Incorrect. IdPs are responsible for managing user authentication and authorization
+    for all applications and services provided by the organization, not just a specific
+    application.
+- a3: Incorrect. IdPs are used for both external and internal users, and can integrate
+    with existing user directories such as Active Directory or LDAP.
+- a4: Incorrect. IdPs are still an integral part of Authentication Architecture and
+    work alongside modern authentication methods such as OAuth and OpenID Connect.

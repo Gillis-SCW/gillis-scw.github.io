@@ -1,0 +1,17 @@
+topic: Architecture and Concepts
+category: Input and Output Architecture
+level: advanced
+question: What are some common input/output devices in a computer system?
+answers:
+- a1: Keyboard and mouse
+- a2: Display and printer
+- a3: Scanner and microphone
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Partially correct. Keyboard and mouse are input devices, but not output devices.
+- a2: Partially correct. Display and printer are output devices, but not input devices.
+- a3: Partially correct. Scanner and microphone are input devices, but not output
+    devices.
+- a4: Correct. All of the listed devices are common input and/or output devices in
+    a computer system.

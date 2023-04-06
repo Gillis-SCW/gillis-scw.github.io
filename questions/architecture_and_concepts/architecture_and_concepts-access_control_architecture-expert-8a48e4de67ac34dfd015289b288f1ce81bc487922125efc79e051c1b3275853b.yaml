@@ -1,0 +1,25 @@
+topic: Architecture and Concepts
+category: Access Control Architecture
+level: expert
+question: How does the Principle of Least Privilege apply in Access Control Architecture?
+answers:
+- a: It states that users should be granted permission to access data, systems, or
+    resources only to the extent necessary to perform their roles.
+- b: It states that privileged access should be granted to all users to avoid permission
+    conflicts.
+- c: It states that users should have permission to modify data, systems, or resources
+    as per their requirement.
+- d: It states that users should have complete access to all data, systems, or resources
+    in the organization.
+correct_answer: a
+explanations:
+- a: Correct. The Principle of Least Privilege is a concept in Access Control Architecture
+    that states that a user should be granted permission to access data, systems,
+    or resources only to the extent necessary to perform their roles. This minimizes
+    the risk of information exposure or unauthorized access.
+- b: Incorrect. This option contradicts the Principle of Least Privilege by granting
+    privileged access to all users.
+- c: Incorrect. This option violates the Principle of Least Privilege by allowing
+    users to modify data, systems, or resources outside their job requirements.
+- d: Incorrect. This option contradicts the Principle of Least Privilege by granting
+    complete access to all users.

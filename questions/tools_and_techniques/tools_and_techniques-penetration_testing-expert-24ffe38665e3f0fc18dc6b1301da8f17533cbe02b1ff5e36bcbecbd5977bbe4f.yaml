@@ -1,0 +1,19 @@
+topic: Tools and Techniques
+category: Penetration testing
+level: expert
+question: Which of the following is an exploit framework commonly used by penetration
+  testers to gain access to a system?
+answers:
+- Cobalt Strike
+- Maltego
+- Nikto
+- Aircrack-ng
+correct_answer: Cobalt Strike
+explanations:
+- Cobalt Strike: Correct. Cobalt Strike is a popular exploit framework used by penetration
+    testers to gain access to systems and simulate an attack.
+- Maltego: Incorrect. Maltego is a tool used for information gathering and network
+    mapping.
+- Nikto: Incorrect. Nikto is a web server scanner used for vulnerability scanning.
+- Aircrack-ng: Incorrect. Aircrack-ng is a network software suite used for penetration
+    testing.

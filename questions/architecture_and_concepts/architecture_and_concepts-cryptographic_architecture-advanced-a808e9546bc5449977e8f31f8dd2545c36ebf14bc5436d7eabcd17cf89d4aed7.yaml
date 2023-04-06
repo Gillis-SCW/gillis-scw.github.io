@@ -1,0 +1,15 @@
+topic: Architecture and Concepts
+category: Cryptographic Architecture
+level: advanced
+question: What is an important component of Cryptographic Architecture?
+answers:
+- a: Key management.
+- b: Firewall configuration.
+- c: System performance.
+- d: User interface.
+correct_answer: a
+explanations:
+- a: Correct. Key management is an important component of Cryptographic Architecture.
+- b: Incorrect. This is not an important component of Cryptographic Architecture.
+- c: Incorrect. This is not an important component of Cryptographic Architecture.
+- d: Incorrect. This is not an important component of Cryptographic Architecture.

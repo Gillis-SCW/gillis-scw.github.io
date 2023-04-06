@@ -1,0 +1,24 @@
+topic: Architecture and Concepts
+category: Psychological acceptability
+level: expert
+question: What is the theory behind biophilic design?
+answers:
+- a1: Biophilic design seeks to create buildings that are completely biological and
+    free of artificial materials.
+- a2: Biophilic design seeks to create buildings that mimic natural environments and
+    incorporate elements of nature.
+- a3: Biophilic design seeks to create buildings that are interactive and respond
+    to user needs and preferences.
+- a4: Biophilic design seeks to create buildings that are energy-efficient and environmentally
+    responsible.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Biophilic design does not seek to eliminate all artificial materials
+    from buildings, but rather to incorporate natural elements in a meaningful way.
+- a2: Correct. Biophilic design is based on the idea that humans have an innate connection
+    to nature, and seeks to create buildings that mimic natural environments and incorporate
+    elements of nature to improve wellbeing and productivity.
+- a3: Incorrect. Interaction and response to user needs is a goal of user-centered
+    design, but not specifically biophilic design.
+- a4: Incorrect. Energy efficiency and environmental responsibility can be goals of
+    sustainable design, but not specifically biophilic design.

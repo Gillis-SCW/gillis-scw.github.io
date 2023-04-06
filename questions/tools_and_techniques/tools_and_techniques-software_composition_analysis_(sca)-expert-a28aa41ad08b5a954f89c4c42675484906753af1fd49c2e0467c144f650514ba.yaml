@@ -1,0 +1,24 @@
+topic: Tools and techniques
+category: Software composition analysis (SCA)
+level: expert
+question: What are some examples of SCA tools?
+answers:
+- a1: WhiteSource
+- a2: Nexus Lifecycle
+- a3: Black Duck Hub
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Partially correct. WhiteSource is a Software Composition Analysis tool that
+    helps organizations manage the components of their software application by providing
+    full visibility into their usage and offering control over vulnerabilities, licenses,
+    and quality.
+- a2: Partially correct. Nexus Lifecycle is a Software Composition Analysis tool that
+    helps organizations manage risk, reduce rework, and smooth the application development
+    workflow by checking for known security vulnerabilities, license restrictions,
+    and outdated components.
+- a3: Partially correct. Black Duck Hub is a Software Composition Analysis tool that
+    helps organizations identify and manage software components in their applications
+    and containers.
+- a4: Correct. All of the above are examples of SCA tools used to manage and analyze
+    software components in an application.

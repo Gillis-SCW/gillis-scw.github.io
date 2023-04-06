@@ -1,0 +1,19 @@
+topic: Security Awareness
+category: Identity Theft Prevention
+level: intermediate
+question: Which of the following is an example of a phishing scam?
+answers:
+- a1: A phone call from a legitimate bank asking for financial information
+- a2: An email containing a suspicious attachment
+- a3: A pop-up message claiming your computer has been infected with a virus
+- a4: A text message offering a free vacation in exchange for personal information
+correct_answer: a2
+explanations:
+- a1: Incorrect. A phone call can be a legitimate way for a bank to contact you, but
+    you should still be cautious and not disclose personal information.
+- a2: Correct. Phishing scams often come in the form of emails containing suspicious
+    attachments or links that ask you to enter personal information on a fake website.
+- a3: Incorrect. A pop-up message may indicate that your computer has been infected
+    with a virus, but it is not a phishing scam.
+- a4: Incorrect. A text message offering a free vacation is likely a scam, but not
+    necessarily a phishing scam.

@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Security requirements
+level: beginner
+question: What is the purpose of security requirements?
+answers:
+- a1: To ensure safety and data protection
+- a2: To increase profits
+- a3: To reduce employee turnover
+- a4: To update software automatically
+correct_answer: a1
+explanations:
+- a1: Correct - Security requirements provide guidelines to follow for protecting
+    systems, networks, and data from threats such as malware, hacking, and unauthorized
+    access.
+- a2: Incorrect - While implementing security requirements may indirectly lead to
+    increased profits, that is not the primary purpose.
+- a3: Incorrect - Security requirements are not designed to reduce employee turnover.
+- a4: Incorrect - Automatically updating software is not specifically related to security
+    requirements.

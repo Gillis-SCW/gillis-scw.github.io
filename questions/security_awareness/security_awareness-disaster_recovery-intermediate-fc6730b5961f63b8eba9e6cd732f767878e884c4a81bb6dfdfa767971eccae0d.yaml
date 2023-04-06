@@ -1,0 +1,22 @@
+topic: Security Awareness
+category: Disaster Recovery
+level: intermediate
+question: What is the purpose of a disaster recovery plan?
+answers:
+- a1: To restore operations after an interruption in business continuity.
+- a2: To develop response plans to natural disasters.
+- a3: To increase revenue for the company.
+- a4: To ensure employee safety during unforeseen events.
+correct_answer: a1
+explanations:
+- a1: Correct. The purpose of a disaster recovery plan is to restore operations as
+    quickly as possible after an interruption in business continuity caused by natural
+    disasters, cyber attacks, or human errors. Developing risk management plans and
+    backup strategies are crucial to effectively execute the plan.
+- a2: Incorrect. While a disaster recovery plan may involve developing response plans
+    for natural disasters, its scope goes beyond natural disasters and also covers
+    cyber attacks and human errors.
+- a3: Incorrect. The primary purpose of a disaster recovery plan is to restore operations
+    and ensure business continuity, not to increase revenue.
+- a4: Incorrect. While employee safety is important, the purpose of a disaster recovery
+    plan is to restore operations and ensure business continuity.

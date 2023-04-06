@@ -1,0 +1,23 @@
+topic: Architecture and Concepts
+category: Data Protection and Privacy Architecture
+level: advanced
+question: What are some requirements of the General Data Protection Regulation (GDPR)?
+answers:
+- a: Providing individuals with easy access to their data and the right to object
+    to automated data profiling
+- b: Implementing technical and organizational measures to ensure data protection
+    and privacy by default
+- c: Obtaining explicit consent for data processing activities, notifying data breaches
+    to regulatory authorities, and appointing a data protection officer
+- d: All of the above
+correct_answer: d
+explanations:
+- a: Correct. GDPR requires individuals to easily access their data and object to
+    automated data profiling activities.
+- b: Correct. GDPR mandates that data protection and privacy are incorporated by design
+    and by default.
+- c: Correct. GDPR requires obtaining explicit consent for data processing activities,
+    while also requiring the notification of data breaches to regulatory authorities
+    and appointing a data protection officer for qualifying organizations.
+- d: Correct. GDPR requires all of the above activities to be performed to ensure
+    the protection and privacy of personal data wherever and however it is processed.

@@ -1,0 +1,24 @@
+topic: Architecture and Concepts
+category: Least privilege
+level: intermediate
+question: What are the three roles that are involved in implementing the principle
+  of least privilege?
+answers:
+- a1: Implementation, management, and information security teams.
+- a2: System administrators, network engineers, and compliance team.
+- a3: Information security teams, management, and system administrators.
+- a4: Management, developers, and HR teams.
+correct_answer: a3
+explanations:
+- a1: Incorrect. While these teams may be involved in implementing cybersecurity policies
+    and strategies, they are not specifically responsible for implementing least privilege.
+- a2: Incorrect. while these teams may have a role to play in implementing least privilege,
+    they are not the only roles involved.
+- a3: Correct. The implementation of least privilege requires the involvement of information
+    security teams, management, and system administrators. Information security teams
+    are responsible for developing policies and procedures to implement the concept,
+    while management provides the necessary support and resources. System administrators
+    must also ensure that access controls are set according to the defined policies
+    and procedures.
+- a4: Incorrect. HR teams and developers may be involved in implementing cybersecurity
+    policies, but they are not specifically responsible for implementing least privilege.

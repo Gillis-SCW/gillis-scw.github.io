@@ -1,0 +1,18 @@
+topic: Tools and techniques
+category: Product risk profiles
+level: beginner
+question: What is the purpose of product risk profiles?
+answers:
+- a1: To assess the potential risks and hazards associated with a particular product.
+- a2: To market the product to potential customers.
+- a3: To increase production efficiency.
+- a4: To save money on manufacturing costs.
+correct_answer: a1
+explanations:
+- a1: Correct. Product risk profiles are used to assess potential risks and hazards
+    associated with a product, allowing companies to make informed decisions about
+    design and safety measures.
+- a2: Incorrect. Product risk profiles are not used for marketing purposes.
+- a3: Incorrect. Product risk profiles are not used to increase production efficiency.
+- a4: Incorrect. Product risk profiles are not used to save money on manufacturing
+    costs.

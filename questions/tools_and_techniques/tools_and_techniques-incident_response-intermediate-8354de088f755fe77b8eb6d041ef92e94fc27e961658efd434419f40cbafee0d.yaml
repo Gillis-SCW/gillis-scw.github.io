@@ -1,0 +1,27 @@
+topic: Tools and Techniques
+category: Incident Response
+level: intermediate
+question: What is the difference between incident response and disaster recovery?
+answers:
+- a1: Incident response is a proactive process, while disaster recovery is a reactive
+    process.
+- a2: Incident response is focused on restoring service as quickly as possible, while
+    disaster recovery is focused on long-term mitigation.
+- a3: Incident response deals with incidents caused by malicious actors, while disaster
+    recovery deals with incidents caused by natural disasters.
+- a4: Incident response is performed by security analysts, while disaster recovery
+    is performed by IT operations staff.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Both incident response and disaster recovery are reactive processes,
+    but incident response deals with unexpected events that disrupt normal operations,
+    while disaster recovery deals with the aftermath of a catastrophic event such
+    as a natural disaster.
+- a2: Correct. Incident response is aimed at resolving incidents as quickly as possible,
+    while disaster recovery is focused on restoring normal operations over a longer
+    period of time and preventing future incidents.
+- a3: Incorrect. Both incident response and disaster recovery can deal with incidents
+    caused by various factors, including malicious actors and natural disasters.
+- a4: Incorrect. Both incident response and disaster recovery can involve different
+    roles and responsibilities depending on the organization's structure and the nature
+    of the incident.

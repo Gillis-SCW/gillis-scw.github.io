@@ -1,0 +1,23 @@
+topic: Architecture and Concepts
+category: API Architecture
+level: expert
+question: What is Hypermedia as the Engine of Application State (HATEOAS)?
+answers:
+- a1: A principle of RESTful architecture that requires each request to contain all
+    the necessary information.
+- a2: A tool used for service discovery and registration, load balancing, and routing.
+- a3: A way to enable the server to instruct clients about available actions and state
+    transitions.
+- a4: A security protocol used for encrypting and authenticating API requests and
+    responses.
+correct_answer: a3
+explanations:
+- a1: Incorrect. While this is a principle of RESTful architecture, it's not specifically
+    related to HATEOAS.
+- a2: Incorrect. This sounds like a description of a service mesh, which is not specifically
+    related to HATEOAS.
+- a3: Correct! HATEOAS is a way to enable the server to instruct clients about available
+    actions and state transitions. This helps to make the API more self-descriptive,
+    and can reduce the amount of coupling between the client and server.
+- a4: Incorrect. This sounds like a description of HTTPS, which is not specifically
+    related to HATEOAS.

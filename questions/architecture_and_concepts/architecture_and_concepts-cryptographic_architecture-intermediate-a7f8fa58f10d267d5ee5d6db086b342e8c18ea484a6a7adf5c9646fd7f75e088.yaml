@@ -1,0 +1,16 @@
+topic: Architecture and Concepts
+category: Cryptographic Architecture
+level: intermediate
+question: What are the factors that Cryptographic Architecture must consider?
+answers:
+- a: Key management, authentication, and encryption strength.
+- b: Password management, firewall configuration, and device backup.
+- c: Network traffic, system performance, and data storage.
+- d: User interface, software compatibility, and file sharing.
+correct_answer: a
+explanations:
+- a: Correct. Cryptographic Architecture must consider factors such as key management,
+    authentication, and encryption strength.
+- b: Incorrect. These are not the factors that Cryptographic Architecture must consider.
+- c: Incorrect. These are not the factors that Cryptographic Architecture must consider.
+- d: Incorrect. These are not the factors that Cryptographic Architecture must consider.

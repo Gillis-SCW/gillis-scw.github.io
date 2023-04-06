@@ -1,0 +1,20 @@
+topic: Tools and techniques
+category: Architecture assessment
+level: intermediate
+question: Which tool is used in architecture assessment to help identify potential
+  risks in the system?
+answers:
+- a1: Code review
+- a2: Simulation
+- a3: Testing
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Code review is a tool used in architecture assessment, but it does not identify
+    risks in the system on its own.
+- a2: Simulation is a tool used in architecture assessment, but it does not identify
+    risks in the system on its own.
+- a3: Testing is a tool used in architecture assessment, but it does not identify
+    risks in the system on its own.
+- a4: Correct. Code review, simulation, and testing are tools used in architecture
+    assessment to identify potential risks in the system.

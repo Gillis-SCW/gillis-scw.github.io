@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Product risk profiles
+level: expert
+question: How can product risk profiles be used to inform regulatory compliance?
+answers:
+- a1: By identifying and assessing risks that may violate regulations.
+- a2: By developing strategies to minimize the identified risks.
+- a3: By conducting regular assessments and revisions to ensure ongoing compliance.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Partially correct. Identifying and assessing risks that may violate regulations
+    is one way that product risk profiles can be used to inform regulatory compliance.
+- a2: Partially correct. Developing strategies to minimize the identified risks is
+    another way that product risk profiles can be used to inform regulatory compliance.
+- a3: Partially correct. Conducting regular assessments and revisions to ensure ongoing
+    compliance is another way that product risk profiles can be used to inform regulatory
+    compliance.
+- a4: Correct. All of these ways can be used to inform regulatory compliance.

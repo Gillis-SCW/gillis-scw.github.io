@@ -1,0 +1,14 @@
+topic: Security Awareness
+category: Physical Safety
+level: advanced
+question: What are the recommended steps to take during a fire emergency?
+answers:
+- a: Find the nearest exit and leave the building
+- b: Use elevators to exit the building
+- c: Ignore the alarm and continue working
+- d: None of the above
+correct_answer: a
+explanations:
+- a: Correct! During a fire emergency, it's important to find the nearest exit and
+    leave the building immediately, without using elevators, and follow the emergency
+    protocol that you are trained for to ensure your safety and others as well.

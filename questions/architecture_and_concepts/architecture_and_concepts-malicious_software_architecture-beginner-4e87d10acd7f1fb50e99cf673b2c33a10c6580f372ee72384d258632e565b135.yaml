@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Malicious Software Architecture
+level: beginner
+question: What is malicious software architecture characterized by?
+answers:
+- a1: Visually appealing user interface
+- a2: Hidden or disguised features
+- a3: Open source code
+- a4: Strict compliance with programming standards
+correct_answer: a2
+explanations:
+- a1: Incorrect. Malicious software doesn't need to have a visually appealing user
+    interface.
+- a2: Correct. Malicious software architecture is characterized by hidden or disguised
+    features, such as Trojan horses, worms, viruses and ransomware, which are designed
+    to exploit vulnerabilities in computer systems and steal or destroy data.
+- a3: Incorrect. Malicious software can be open source or closed source.
+- a4: Incorrect. Malicious software can violate programming standards and still be
+    functional in causing harm.

@@ -1,0 +1,16 @@
+topic: Security Awareness
+category: Internet Safety
+level: beginner
+question: What is Internet Safety?
+answers:
+- a1: Protecting personal information and avoiding online scams.
+- a2: Connecting to public Wi-Fi without a VPN.
+- a3: Sharing personal information with everyone online.
+- a4: None of the above.
+correct_answer: a1
+explanations:
+- a1: Correct. Internet Safety focuses on protecting personal information, preventing
+    cyberbullying, and avoiding online scams.
+- a2: Incorrect. It is not safe to connect to public Wi-Fi without a VPN.
+- a3: Incorrect. It is not safe to share personal information with everyone online.
+- a4: Incorrect. The answer is a1.

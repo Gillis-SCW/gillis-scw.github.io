@@ -1,0 +1,17 @@
+topic: Tools and techniques
+category: Source code management (SCM)
+level: intermediate
+question: What is branching in SCM?
+answers:
+- a1: Creating a new version of the codebase
+- a2: Creating independent lines of development
+- a3: Creating backup copies of code
+- a4: Compressing the code for storage
+correct_answer:
+- a2
+explanations:
+- a1: Incorrect. Creating a new version of the codebase is called forking or cloning.
+- a2: Correct. Branching is creating independent lines of development, allowing different
+    features to be worked on separately.
+- a3: Incorrect. Creating backup copies of code is called backups or versioning.
+- a4: Incorrect. Compressing the code for storage is called archiving.

@@ -1,0 +1,15 @@
+topic: Architecture and Concepts
+category: Secure Software Development Lifecycle
+level: beginner
+question: What does SSDL stand for?
+answers:
+- a1: Software System Development Lifecycle
+- a2: Safety System Development Lifecycle
+- a3: Secure Software Development Lifecycle
+- a4: Software Security Development Lifecycle
+correct_answer: a3
+explanations:
+- a1: Incorrect. SSDL stands for Secure Software Development Lifecycle.
+- a2: Incorrect. SSDL stands for Secure Software Development Lifecycle.
+- a3: Correct! SSDL stands for Secure Software Development Lifecycle.
+- a4: Incorrect. SSDL stands for Secure Software Development Lifecycle.

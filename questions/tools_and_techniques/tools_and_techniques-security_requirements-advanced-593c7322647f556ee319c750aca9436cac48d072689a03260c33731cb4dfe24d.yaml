@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Security requirements
+level: advanced
+question: What is the purpose of security audits in relation to security requirements?
+answers:
+- a1: To ensure compliance with security regulations
+- a2: To evaluate the effectiveness of security measures
+- a3: To identify potential security risks and weaknesses
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct - Security audits help ensure that organizations are following security
+    regulations and guidelines.
+- a2: Correct - Security audits evaluate the effectiveness of security measures currently
+    in place.
+- a3: Correct - Security audits identify potential security risks and weaknesses in
+    order to proactively adjust security measures.
+- a4: Correct - Security audits have all of the listed purposes, ensuring compliance,
+    evaluating effectiveness, and identifying security risks.

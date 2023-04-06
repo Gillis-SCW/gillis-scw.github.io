@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Open design
+level: advanced
+question: What role does technology play in open design?
+answers:
+- a: Allows for remote collaboration.
+- b: Facilitates the sharing of design ideas and plans.
+- c: Enables fast and efficient communication.
+- d: All of the above.
+correct_answer: d
+explanations:
+- a: Correct. Technology allows for remote collaboration, making it possible for individuals
+    from different locations to participate in open design projects.
+- b: Correct. Technology enables the sharing of design ideas and plans, making it
+    easier to collaborate and build on existing ideas.
+- c: Correct. Technology enables fast and efficient communication, ensuring that stakeholders
+    can provide feedback and receive updates in real-time.
+- d: Correct. All of the options are ways in which technology plays a role in open
+    design.

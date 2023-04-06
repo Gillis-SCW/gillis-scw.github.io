@@ -1,0 +1,23 @@
+topic: Architecture and Concepts
+category: Open design
+level: beginner
+question: What is open design in architecture?
+answers:
+- a: A process of creating and sharing design ideas, plans, and techniques in a community-based
+    approach.
+- b: A process of creating design ideas by a single architect.
+- c: A process of keeping design ideas confidential and not sharing them with a wider
+    community.
+- d: A process of creating design ideas without any feedback or inputs from stakeholders.
+correct_answer: a
+explanations:
+- a: Correct. Open design in architecture refers to the collaborative process of creating
+    and sharing design ideas, plans, and techniques. It involves a community-based
+    approach to design that encourages the participation of various stakeholders,
+    including architects, engineers, builders, and end-users.
+- b: Incorrect. Open design is a collaborative process and not the work of a single
+    person.
+- c: Incorrect. Open design prioritizes transparency and inclusivity, which means
+    design ideas are expected to be shared widely.
+- d: Incorrect. Open design encourages the participation of various stakeholders,
+    including architects, engineers, builders, and end-users.

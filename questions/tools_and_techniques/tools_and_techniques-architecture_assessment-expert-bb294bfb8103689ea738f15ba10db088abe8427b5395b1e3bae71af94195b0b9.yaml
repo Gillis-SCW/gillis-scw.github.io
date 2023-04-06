@@ -1,0 +1,20 @@
+topic: Tools and techniques
+category: Architecture assessment
+level: expert
+question: Which technique is used in architecture assessment to analyze the system's
+  behavior under different operating conditions?
+answers:
+- a1: Modeling and simulation
+- a2: Fault trees
+- a3: Fault injection
+- a4: Performance analysis
+correct_answer: a1
+explanations:
+- a1: Correct. Modeling and simulation techniques are used in architecture assessment
+    to analyze the system's behavior under different operating conditions.
+- a2: Fault trees technique is used for safety and quality analysis, but it is not
+    directly related to architecture assessment.
+- a3: Fault injection technique is used for testing and debugging purposes, but it
+    is not directly related to architecture assessment.
+- a4: "Performance analysis technique is used to evaluate the software\u2019s responsiveness\
+    \ and speed, but it is not directly related to architecture assessment."

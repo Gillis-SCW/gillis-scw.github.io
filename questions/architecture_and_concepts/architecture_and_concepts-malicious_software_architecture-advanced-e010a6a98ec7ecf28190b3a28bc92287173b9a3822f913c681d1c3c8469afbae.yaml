@@ -1,0 +1,22 @@
+topic: Architecture and Concepts
+category: Malicious Software Architecture
+level: advanced
+question: What is steganography-based malware?
+answers:
+- a1: Malware that uses encryption to hide its malicious behavior
+- a2: Malware that hides its code within image files or other innocuous data
+- a3: Malware that exploits vulnerabilities in network protocols
+- a4: Malware that operates by creating clones of legitimate programs
+correct_answer: a2
+explanations:
+- a1: Incorrect. Encryption-based malware uses encryption to protect its malicious
+    code from detection, but not to hide it completely.
+- a2: Correct. Steganography-based malware is malware that hides its code within image
+    files or other innocuous data. This makes it difficult to detect through traditional
+    security measures that only scan for known malware signatures.
+- a3: Incorrect. Network protocol-based malware exploits vulnerabilities in network
+    protocols to attack a system or steal data, but does not necessarily involve hiding
+    its code within other data.
+- a4: Incorrect. Clone-based malware operates by imitating legitimate programs in
+    order to bypass security checks, but does not necessarily involve hiding its code
+    within other data.

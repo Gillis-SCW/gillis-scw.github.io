@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Data Protection and Privacy Architecture
+level: beginner
+question: What is Data Protection and Privacy Architecture used for?
+answers:
+- a: Helping organizations achieve cybersecurity certification
+- b: Building effective measures to safeguard sensitive information from unauthorized
+    access and ensuring compliance with data protection and privacy regulations
+- c: Implementing IT frameworks only
+correct_answer: b
+explanations:
+- a: Incorrect. Cybersecurity certification relates to overall security management
+    and focuses only on technical safeguards.
+- b: Correct. Data Protection and Privacy Architecture involves designing and implementing
+    technical and organizational frameworks to safeguard sensitive information from
+    unauthorized access, ensuring compliance with data protection and privacy regulations,
+    and maintaining trust with clients.
+- c: Incorrect. Data Protection and Privacy Architecture includes both technical and
+    organizational controls.

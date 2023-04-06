@@ -1,0 +1,20 @@
+topic: Tools and techniques
+category: Dynamic application security testing (DAST)
+level: expert
+question: Which of the following is a limitation of DAST tools that can be addressed
+  by using complementary testing approaches?
+answers:
+- a1: DAST tools cannot test the security of APIs
+- a2: DAST tools are not effective at identifying vulnerabilities in mobile applications
+- a3: DAST tools cannot test for business logic flaws in the application
+- a4: DAST tools are not capable of testing for vulnerabilities in the server infrastructure
+correct_answer: a3
+explanations:
+- a1: Incorrect. DAST tools can be used to test the security of APIs in many cases.
+- a2: Incorrect. While DAST tools may not be as effective at identifying vulnerabilities
+    in mobile applications, other testing approaches can be used for this purpose.
+- a3: Correct. DAST tools are not generally effective at testing for business logic
+    flaws, which can be difficult to detect using automated tools alone.
+- a4: Incorrect. DAST tools can test the security of the server infrastructure, but
+    may not be effective at identifying all types of vulnerabilities. Complementary
+    testing approaches may be needed for comprehensive testing.

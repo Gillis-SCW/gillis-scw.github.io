@@ -1,0 +1,17 @@
+topic: Architecture and Concepts
+category: Session Management Architecture
+level: intermediate
+question: What is the purpose of session data in Session Management Architecture?
+answers:
+- a1: To track user activity
+- a2: To store user account information
+- a3: To ensure secure communication between users and the system
+- a4: To maintain user session state across multiple requests
+correct_answer: a4
+explanations:
+- a1: Incorrect. Session data is not only used to track user activity.
+- a2: Incorrect. User account information is only a component of session data.
+- a3: Incorrect. While secure communication is a goal of Session Management Architecture,
+    it is not the purpose of session data.
+- a4: Correct. One of the primary purposes of session data is to maintain user session
+    state across multiple requests.

@@ -1,0 +1,15 @@
+topic: Tools and Techniques
+category: Encryption in transit and at rest
+level: beginner
+question: What does encryption in transit and at rest mean?
+answers:
+- a1: Encryption only in transit
+- a2: Encryption only at rest
+- a3: Encryption both during transmission and while stored
+- a4: No encryption at all
+correct_answer: a3
+explanations:
+- a1: Incorrect. Encryption in transit refers to securing data while being transmitted.
+- a2: Incorrect. Encryption at rest refers to securing data while being stored.
+- a3: Correct!
+- a4: Incorrect. Encryption is necessary to protect sensitive data.

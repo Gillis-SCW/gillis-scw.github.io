@@ -1,0 +1,21 @@
+topic: Architecture and Concepts
+category: Errors, Logging and Auditing Architecture
+level: advanced
+question: Which of the following is not a type of log used in Errors, Logging, and
+  Auditing Architecture?
+answers:
+- a: Debug log
+- b: Database log
+- c: Audit log
+- d: Security log
+- e: All of the above are types of logs used in Errors, Logging, and Auditing Architecture
+correct_answer: b
+explanations:
+- a: Incorrect. Debug log is a type of log used in Errors, Logging, and Auditing Architecture.
+- b: Correct. Database log is not a type of log used in Errors, Logging, and Auditing
+    Architecture.
+- c: Incorrect. Audit log is a type of log used in Errors, Logging, and Auditing Architecture.
+- d: Incorrect. Security log is a type of log used in Errors, Logging, and Auditing
+    Architecture.
+- e: Incorrect. Only option b is not a type of log used in Errors, Logging, and Auditing
+    Architecture.

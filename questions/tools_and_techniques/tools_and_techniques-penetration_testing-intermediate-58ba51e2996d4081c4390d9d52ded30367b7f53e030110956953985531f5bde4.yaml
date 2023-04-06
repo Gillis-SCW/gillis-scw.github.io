@@ -1,0 +1,20 @@
+topic: Tools and Techniques
+category: Penetration testing
+level: intermediate
+question: Which technique is used in social engineering to trick employees into disclosing
+  sensitive information?
+answers:
+- Tailgating
+- Pharming
+- DNS Spoofing
+- Phishing
+correct_answer: Phishing
+explanations:
+- Tailgating: Incorrect. Tailgating is the act of following someone without their
+    consent to access confidential information.
+- Pharming: Incorrect. Pharming is an advanced form of DNS spoofing.
+- DNS Spoofing: "Incorrect. DNS Spoofing is the process of modifying a domain name\
+    \ system to divert traffic to the attacker\u2019s system."
+- Phishing: Correct. Phishing is a social engineering technique used to trick employees
+    into disclosing sensitive information, such as usernames and passwords, by sending
+    emails that appear to be from reputable sources.

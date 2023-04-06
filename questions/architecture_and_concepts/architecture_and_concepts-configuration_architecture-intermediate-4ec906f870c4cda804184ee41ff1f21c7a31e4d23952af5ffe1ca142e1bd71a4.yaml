@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Configuration Architecture
+level: intermediate
+question: What are the goals of configuration architecture?
+answers:
+- a1: Security and Privacy
+- a2: Usability and Performance
+- a3: Availability and Reliability
+- a4: Performance, Availability, Reliability, and Scalability
+correct_answer: a4
+explanations:
+- a1: Incorrect. Security and privacy are not the only goals of configuration architecture.
+- a2: Incorrect. Usability and performance are not the only goals of configuration
+    architecture.
+- a3: Incorrect. Availability and reliability are important goals, but not the only
+    goals of configuration architecture.
+- a4: Correct. The purpose of configuration architecture is to ensure that a system
+    architecture is able to meet the performance, availability, reliability and scalability
+    criteria demanded by its users.

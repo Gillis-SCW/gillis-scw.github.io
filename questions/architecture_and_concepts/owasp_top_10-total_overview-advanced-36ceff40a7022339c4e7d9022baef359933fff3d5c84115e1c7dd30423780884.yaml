@@ -1,0 +1,24 @@
+topic: OWASP Top 10
+category: Total Overview
+level: advanced
+question: Which of the following is NOT an impact of Insecure Direct Object References?
+answers:
+- a1: Impersonation
+- a2: Data Leakage or Loss
+- a3: Elevation of Privilege
+- a4: Denial of Service
+correct_answer: a4
+explanations:
+- a1: Incorrect. An attacker can use insecure direct object references to access and
+    modify data belonging to other users or system roles, allowing them to impersonate
+    that user or role.
+- a2: Incorrect. Insecure direct object references can expose sensitive data, such
+    as personal or financial information, that can be leaked or lost to unauthorized
+    entities.
+- a3: Incorrect. By exploiting insecure direct object references, an attacker can
+    gain elevated permissions or access, enabling them to perform actions they are
+    not authorized to do, such as changing passwords or configurations.
+- a4: Correct. Denial of Service (DoS) attacks refer to the intentional or accidental
+    disruption or slowdown of a system or network, in order to prevent legitimate
+    users from accessing resources. DoS attacks are not related to insecure direct
+    object references.

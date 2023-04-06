@@ -1,0 +1,24 @@
+topic: Architecture and Concepts
+category: Microservice Architectures
+level: beginner
+question: What is a microservice architecture?
+answers:
+- a1: An approach in software development where applications are composed of small,
+    independent services that communicate with each other through APIs.
+- a2: A software architecture where all services are combined into a monolithic application.
+- a3: An approach where applications are developed by one person instead of a team.
+- a4: A software architecture where services are developed and managed by separate
+    companies.
+correct_answer:
+- a1
+explanations:
+- a1: Correct. In a microservice architecture, applications are made up of smaller
+    services that interact with each other through APIs, allowing them to be developed,
+    deployed and scaled independently.
+- a2: Incorrect. A monolithic application has all services combined while a microservice
+    architecture involves the breaking down of applications into smaller, independent
+    services.
+- a3: Incorrect. A single person developing an application does not constitute a microservice
+    architecture.
+- a4: Incorrect. Services are developed and managed by the same company in a microservice
+    architecture.

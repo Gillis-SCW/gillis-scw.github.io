@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Input and Output Architecture
+level: intermediate
+question: What is the purpose of input/output architecture in computer systems?
+answers:
+- a1: To make it easier to add new peripherals to a computer system
+- a2: To allow for efficient data transfer and processing across different devices
+- a3: To ensure that all peripherals are compatible with the computer system
+- a4: To make it easier to upgrade a computer system's internal components
+correct_answer: a2
+explanations:
+- a1: Incorrect. This is a benefit of input/output architecture, but not its primary
+    purpose.
+- a2: Correct. The purpose of input/output architecture is to enable efficient data
+    transfer and processing across different devices.
+- a3: Incorrect. Compatibility is one aspect of input/output architecture, but not
+    its main purpose.
+- a4: Incorrect. Upgrading internal components is not the main purpose of input/output
+    architecture.

@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: Source code management (SCM)
+level: expert
+question: What is a "commit" in SCM?
+answers:
+- a1: A review process for code changes
+- a2: A way to approve a proposed change
+- a3: A record of changes to the codebase
+- a4: A unit of code that is executable by the computer
+correct_answer:
+- a3
+explanations:
+- a1: Incorrect. A review process is typically separate from committing changes to
+    the codebase.
+- a2: Incorrect. Approval is usually a separate process from committing changes to
+    the codebase.
+- a3: Correct. A commit is a record of changes that have been made to the codebase.
+    Each commit includes a message explaining the changes.
+- a4: Incorrect. A unit of executable code is known as a binary or executable.

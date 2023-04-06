@@ -1,0 +1,25 @@
+topic: OWASP Top 10
+category: Total Overview
+level: intermediate
+question: Which of the following best describes Security Misconfiguration?
+answers:
+- a1: The use of components with known vulnerabilities that are not properly patched
+    or updated
+- a2: The failure to restrict authenticated users from unauthorized actions, features
+    or data
+- a3: The lack of proper access control over sensitive data, such as customer or employee
+    information
+- a4: The improper or incomplete implementation of security measures, in order to
+    disable functionality or improve performance
+correct_answer: a4
+explanations:
+- a1: Incorrect. The use of components with known vulnerabilities is part of the A9-Using
+    Components with Known Vulnerabilities - in the OWASP Top 10.
+- a2: Incorrect. Failure to restrict access is part of A2-Broken Authentication and
+    Session Management.
+- a3: Incorrect. Lack of access control is part of A5-Sensitive Data Exposure.
+- a4: Correct. Security misconfiguration refers to the weak configuration of security
+    measures, such as the use of default accounts and passwords, exposed error messages,
+    open debugging or QA tools, unnecessary services running, or improper file and
+    directory permissions. These misconfigurations can give an attacker easy access
+    to sensitive data or critical system resources.

@@ -1,0 +1,22 @@
+topic: Security Awareness
+category: Workplace Security
+level: intermediate
+question: What are some examples of how employers can ensure workplace security?
+answers:
+- a: Educating employees on security protocols, installing security cameras, and conducting
+    background checks on new hires.
+- b: Using only open-source software on company computers, providing employees with
+    Blackberries instead of iPhones, and implementing strict password policies.
+- c: Providing employees with a list of emergency contacts, conducting fire drills,
+    and sending monthly security newsletters.
+- d: All of the above.
+correct_answer: a
+explanations:
+- a: Correct. Employers can ensure workplace security by educating employees on security
+    protocols, installing security cameras, using access control systems, and regularly
+    conducting security assessments.
+- b: Incorrect. These options are not related to workplace security.
+- c: Incorrect. These options are related to emergency preparedness and education,
+    but not necessarily workplace security.
+- d: Incorrect. Only option a lists examples of specific measures that can be taken
+    to ensure workplace security.

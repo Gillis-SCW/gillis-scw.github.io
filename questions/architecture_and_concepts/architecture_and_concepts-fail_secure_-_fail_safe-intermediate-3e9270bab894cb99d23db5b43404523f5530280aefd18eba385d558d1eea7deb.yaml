@@ -1,0 +1,20 @@
+topic: Architecture and Concepts
+category: Fail secure - Fail safe
+level: intermediate
+question: Which approach may be more appropriate in scenarios where physical safety
+  is more important than security, such as a hospital or a theater?
+answers:
+- a1: Fail secure
+- a2: Fail safe
+- a3: Both approaches are equally appropriate
+- a4: Neither approach is appropriate in this situation
+correct_answer: a2
+explanations:
+- a1: Incorrect. Fail secure prioritizes security over physical safety, which is not
+    suitable for all scenarios.
+- a2: Correct. Fail safe ensures that people can quickly exit the building in an emergency,
+    making it more appropriate in situations where physical safety is of utmost importance.
+- a3: Incorrect. Each approach has its own benefits, but in certain situations, one
+    may be more appropriate than the other.
+- a4: Incorrect. Fail secure and fail safe are both applicable in security systems
+    and must be considered in the design process.

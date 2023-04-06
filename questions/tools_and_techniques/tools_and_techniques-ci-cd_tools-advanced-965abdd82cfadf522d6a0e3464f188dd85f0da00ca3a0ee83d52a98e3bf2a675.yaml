@@ -1,0 +1,27 @@
+topic: Tools and techniques
+category: CI-CD tools
+level: advanced
+question: What is the difference between Continuous Integration and Continuous Delivery?
+answers:
+- a1: Continuous Integration is the automatic building and testing of code when changes
+    are made, while Continuous Delivery is the automatic deployment of code changes
+    to the production environment.
+- a2: Continuous Integration is the continuous deployment of code changes, while Continuous
+    Delivery is the continuous testing of code changes.
+- a3: Continuous Integration is the automatic building and testing of code when changes
+    are made, while Continuous Delivery includes both automatic testing and deployment
+    of changes.
+- a4: Continuous Integration and Continuous Delivery are the same thing, just different
+    terms used by different tools.
+correct_answer:
+- a3
+explanations:
+- a1: Close, but not quite. Continuous Delivery does include the automatic deployment
+    of code changes, but it's not exclusively the only thing it encompasses.
+- a2: Incorrect. Continuous Integration is specifically focused on building and testing
+    code, not deployment.
+- a3: Correct! Continuous Integration and Continuous Delivery both involve the automatic
+    building and testing of code, but Continuous Delivery also includes automatic
+    deployment of changes.
+- a4: This is not true. While different tools may use different terminology or have
+    slightly different approaches to CI/CD, the basic concepts are consistent.

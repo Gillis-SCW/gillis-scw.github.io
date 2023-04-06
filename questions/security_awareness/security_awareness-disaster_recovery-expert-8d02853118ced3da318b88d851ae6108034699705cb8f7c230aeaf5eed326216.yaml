@@ -1,0 +1,28 @@
+topic: Security Awareness
+category: Disaster Recovery
+level: expert
+question: What are the best practices for testing a disaster recovery plan?
+answers:
+- a1: Conducting frequent risk assessments, testing backup strategies, and running
+    tabletop simulations.
+- a2: Running penetration testing, disaster simulation, and disrupting live systems
+    to test recovery procedures.
+- a3: Conducting financial audits, resource allocation optimization, and employee
+    performance evaluations.
+- a4: Conducting customer surveys, legal reviews, and regulatory inspections.
+correct_answer: a1
+explanations:
+- a1: Correct. The best practices for testing a disaster recovery plan are to conduct
+    frequent risk assessments, test backup strategies, and run tabletop simulations.
+    Regular testing identifies gaps and vulnerabilities and allows for necessary improvements.
+    Running tabletop exercises that simulate emergencies allows key stakeholders to
+    practice their roles and mitigate confusion in a real emergency situation.
+- a2: Incorrect. While penetration testing, disaster simulation, and testing recovery
+    procedures are important, disrupting live systems to test these procedures can
+    have severe consequences.
+- a3: Incorrect. Financial audits, resource allocation optimization, and employee
+    evaluations are important business management practices but are not specific to
+    disaster recovery.
+- a4: Incorrect. Conducting customer surveys, legal reviews, and regulatory inspections
+    are crucial in overall business management but are not specific to testing disaster
+    recovery plans.

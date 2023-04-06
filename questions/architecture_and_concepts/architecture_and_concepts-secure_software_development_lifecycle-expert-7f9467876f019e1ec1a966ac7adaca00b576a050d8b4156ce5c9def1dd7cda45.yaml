@@ -1,0 +1,17 @@
+topic: Architecture and Concepts
+category: Secure Software Development Lifecycle
+level: expert
+question: What are the different phases of SSDL?
+answers:
+- a1: Planning, Design, Coding, Testing, Deployment, and Maintenance
+- a2: Analysis, Planning, Design, Development, Testing, Deployment, and Maintenance
+- a3: Requirements, Planning, Design, Development, Testing, Deployment, and Maintenance
+- a4: Requirements, Analysis, Design, Development, Testing, Deployment, and Maintenance
+correct_answer: a4
+explanations:
+- a1: Incorrect. This answer is missing the requirements and analysis phases.
+- a2: Incorrect. This answer includes an analysis phase, which is not typically included
+    in SSDL.
+- a3: Incorrect. This answer is missing the analysis phase.
+- a4: Correct! The different phases of SSDL are requirements, analysis, design, development,
+    testing, deployment, and maintenance.

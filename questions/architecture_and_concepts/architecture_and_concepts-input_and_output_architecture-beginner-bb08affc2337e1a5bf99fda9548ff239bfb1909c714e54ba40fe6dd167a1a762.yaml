@@ -1,0 +1,17 @@
+topic: Architecture and Concepts
+category: Input and Output Architecture
+level: beginner
+question: What does input and output architecture define?
+answers:
+- a1: How data is transferred, processed and displayed across different devices
+- a2: The design and functionality of a computer system's communication between its
+    peripherals and internal components
+- a3: The way a computer processes data
+- a4: The type of data that is processed
+correct_answer: a2
+explanations:
+- a1: Incorrect. This describes part of what input and output architecture defines,
+    but not all of it.
+- a2: Correct. This is the main definition for input and output architecture.
+- a3: Incorrect. This is not a complete definition for input and output architecture.
+- a4: Incorrect. This is not a complete definition for input and output architecture.

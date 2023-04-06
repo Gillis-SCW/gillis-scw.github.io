@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Secure Software Development Lifecycle
+level: advanced
+question: What is the primary goal of deploying secure software in an organization?
+answers:
+- a1: To reduce software deployment time
+- a2: To decrease software maintenance costs
+- a3: To ensure that software is free of security vulnerabilities
+- a4: To increase software complexity
+correct_answer: a3
+explanations:
+- a1: Incorrect. The primary goal of deploying secure software is not to reduce deployment
+    time.
+- a2: Incorrect. The primary goal of deploying secure software is not to decrease
+    maintenance costs.
+- a3: Correct! The primary goal of deploying secure software is to ensure that it
+    is free of security vulnerabilities.
+- a4: Incorrect. The primary goal of deploying secure software is not to increase
+    software complexity.

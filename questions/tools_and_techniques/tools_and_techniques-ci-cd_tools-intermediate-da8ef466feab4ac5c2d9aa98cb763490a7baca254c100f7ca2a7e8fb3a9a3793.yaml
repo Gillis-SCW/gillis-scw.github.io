@@ -1,0 +1,19 @@
+topic: Tools and techniques
+category: CI-CD tools
+level: intermediate
+question: What is the main benefit of using a CI/CD tool like Jenkins?
+answers:
+- a1: Reduced errors and bugs in the final product
+- a2: Faster delivery of product updates and features
+- a3: Increased collaboration and communication among development teams
+- a4: Better management of project timelines and deadlines
+correct_answer:
+- a2
+explanations:
+- a1: While this is a benefit, it's not the primary benefit of using Jenkins or other
+    CI/CD tools.
+- a2: Correct! One of the main benefits of using a CI/CD tool is the ability to deliver
+    product updates and features more quickly.
+- a3: While improved collaboration is a secondary benefit, it's not the primary reason
+    for using these tools.
+- a4: Project management is not the focus of CI/CD tools.

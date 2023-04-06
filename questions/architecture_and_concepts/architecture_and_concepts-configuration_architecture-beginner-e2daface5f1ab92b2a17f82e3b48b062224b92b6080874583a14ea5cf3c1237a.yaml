@@ -1,0 +1,19 @@
+topic: Architecture and Concepts
+category: Configuration Architecture
+level: beginner
+question: What does configuration architecture refer to?
+answers:
+- a1: The process of designing, implementing and managing software or system configurations
+    that meet specific functional requirements.
+- a2: The process of randomly configuring hardware and software.
+- a3: The process of optimizing system performance using various configurations.
+- a4: The process of deleting system configurations to improve speed.
+correct_answer: a1
+explanations:
+- a1: Correct. Configuration Architecture refers to the process of designing, implementing
+    and managing software or system configurations that meet specific functional requirements.
+- a2: Incorrect. Configuration architecture is not random configuration of hardware
+    and software.
+- a3: Incorrect. Configuration Architecture is not just optimizing system performance.
+- a4: Incorrect. Configuration Architecture is not deleting system configurations
+    to improve speed.

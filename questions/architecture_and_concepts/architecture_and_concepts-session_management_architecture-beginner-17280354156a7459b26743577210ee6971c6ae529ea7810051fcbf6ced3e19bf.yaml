@@ -1,0 +1,16 @@
+topic: Architecture and Concepts
+category: Session Management Architecture
+level: beginner
+question: What does Session Management Architecture refer to?
+answers:
+- a1: Managing and tracking user sessions within a software system
+- a2: Tracking user activity on a website
+- a3: Managing user account credentials
+- a4: Managing server resources
+correct_answer: a1
+explanations:
+- a1: Correct. Session Management Architecture involves managing and tracking user
+    sessions within a software system.
+- a2: Incorrect. This does not fully define Session Management Architecture.
+- a3: Incorrect. This is only one component of Session Management Architecture.
+- a4: Incorrect. This is not related to Session Management Architecture.
