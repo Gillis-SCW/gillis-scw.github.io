@@ -34,8 +34,10 @@ async function loadQuestions(dir = './questions/') {
   
   const subdirectories = Array.from(html.querySelectorAll('a[href$="/"]')).map(a => `${dir}${a.href.split('/').reverse()[1]}/`);
   for (const subdir of subdirectories) {
-  const subquestions = await loadQuestions(subdir);
-  questions.push(...subquestions);
+    if (!subdir.includes("pages")){
+      const subquestions = await loadQuestions(subdir);
+      questions.push(...subquestions);
+    }
   }
   
   return questions;
