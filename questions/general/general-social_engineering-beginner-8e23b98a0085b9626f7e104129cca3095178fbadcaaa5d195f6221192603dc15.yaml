@@ -1,0 +1,20 @@
+topic: General
+category: Social Engineering
+level: beginner
+question: What is social engineering?
+answers:
+- a1: A way to bypass security measures by targeting system vulnerabilities.
+- a2: A manipulative technique used to deceive people into divulging confidential
+    information.
+- a3: A method to encrypt confidential information.
+- a4: A way to hack into a computer system using brute force.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Social engineering targets human vulnerabilities rather than system
+    vulnerabilities to bypass security measures.
+- a2: Correct. Social engineering is a manipulative technique used to deceive people
+    into divulging confidential information, perform an action, or compromise a system.
+- a3: Incorrect. Encryption is a technique to transform data into a secret code to
+    prevent unauthorized access.
+- a4: Incorrect. Hacking into a system using brute force involves trying all possible
+    combinations of login credentials until the right one is found.

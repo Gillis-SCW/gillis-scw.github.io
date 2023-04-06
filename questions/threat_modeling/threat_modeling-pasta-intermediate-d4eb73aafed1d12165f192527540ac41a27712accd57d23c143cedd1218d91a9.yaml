@@ -1,0 +1,17 @@
+topic: Threat Modeling
+category: PASTA
+level: intermediate
+question: Which of the following is a PASTA analysis technique?
+answers:
+- a1: Threat Hunting
+- a2: Threat Enumeration
+- a3: Threat Profiling
+- a4: Threat Scenarios
+correct_answer: a4
+explanations:
+- a1: Incorrect. Threat Hunting is not a PASTA analysis technique.
+- a2: Incorrect. Threat Enumeration is not a PASTA analysis technique.
+- a3: Incorrect. Threat Profiling is not a PASTA analysis technique.
+- a4: Correct. Threat Scenarios is a PASTA analysis technique. It involves the creation
+    of scenarios that simulate the techniques and tactics used by adversaries to attack
+    software systems.

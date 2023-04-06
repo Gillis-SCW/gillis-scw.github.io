@@ -1,0 +1,17 @@
+topic: General
+category: Supply Chain Vulnerabilities
+level: intermediate
+question: What are some factors that can lead to supply chain vulnerabilities?
+answers:
+- a1: Poor inventory management
+- a2: Natural disasters
+- a3: Theft
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Poor inventory management is one of the factors that can lead to supply
+    chain vulnerabilities.
+- a2: Correct. Natural disasters can impact the supply chain and cause disruptions.
+- a3: Correct. Theft can lead to a loss of inventory and revenue in the supply chain.
+- a4: Correct. Poor inventory management, natural disasters, theft, and cyber threats
+    are all factors that can lead to supply chain vulnerabilities.

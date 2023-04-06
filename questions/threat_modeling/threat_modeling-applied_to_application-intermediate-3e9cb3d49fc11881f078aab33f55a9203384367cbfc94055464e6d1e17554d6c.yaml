@@ -1,0 +1,21 @@
+topic: Threat Modeling
+category: applied to application
+level: intermediate
+question: What are the key components of a threat model?
+answers:
+- a1: Asset, Threats, Vulnerabilities, Security Controls and Mitigations.
+- a2: Software Bugs, Network Traffic, User Passwords, Testing Frameworks.
+- a3: Encryption Algorithms, Firewall Rules, SSL Certificates, DNS Resolution.
+- a4: Log Files, Intrusion Detection Systems, Server Configurations, Threat Intelligence.
+correct_answer: a1
+explanations:
+- a1: Correct. The key components of a threat model are assets, threats, vulnerabilities,
+    security controls, and mitigations.
+- a2: Incorrect. Software bugs and user passwords are vulnerabilities, but they are
+    not the only components of a threat model.
+- a3: Incorrect. Encryption algorithms, firewall rules, SSL certificates, and DNS
+    resolution are all security controls, but they are not the only components of
+    a threat model.
+- a4: Incorrect. Log files, intrusion detection systems, server configurations, and
+    threat intelligence are all security controls, but they are not the only components
+    of a threat model.

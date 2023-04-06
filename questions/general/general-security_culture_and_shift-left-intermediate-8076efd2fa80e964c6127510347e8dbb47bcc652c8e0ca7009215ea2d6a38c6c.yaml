@@ -1,0 +1,22 @@
+topic: General
+category: Security culture and shift-left
+level: intermediate
+question: What is shift-left?
+answers:
+- a: The idea of integrating security throughout the software development process,
+    instead of waiting until the end
+- b: The idea of developing software without any security concerns
+- c: The idea of testing software for security after it has been released
+- d: The idea of waiting until the end of the software development process to test
+    for security
+correct_answer: a
+explanations:
+- a: Correct. Shift-left is the idea of integrating security throughout the software
+    development process, instead of waiting until the end.
+- b: Incorrect. Developing software without any security concerns will not result
+    in a secure product.
+- c: Incorrect. Testing software for security after it has been released is not as
+    effective as integrating security throughout the development process.
+- d: Incorrect. Waiting until the end of the software development process to test
+    for security is not as effective as integrating security throughout the development
+    process.

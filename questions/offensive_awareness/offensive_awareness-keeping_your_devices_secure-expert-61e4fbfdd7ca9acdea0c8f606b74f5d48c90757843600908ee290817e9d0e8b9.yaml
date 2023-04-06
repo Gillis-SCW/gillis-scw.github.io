@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Keeping your Devices Secure
+level: expert
+question: What is a virtual private network (VPN) and how can it help keep your device
+  secure?
+answers:
+- a1: A VPN is a type of malware that can infect your device
+- a2: A VPN is a way to encrypt your device's internet connection to prevent unauthorized
+    access
+- a3: A VPN is a type of firewall that prevents unauthorized access to your device
+- a4: A VPN is a way to compress data on your device, freeing up space
+correct_answer: a2
+explanations:
+- a1: Incorrect. A VPN is not a type of malware.
+- a2: Correct. A VPN encrypts your device's internet connection, making it more difficult
+    for hackers to intercept your data.
+- a3: Incorrect. A firewall is a different type of security measure that can help
+    keep your device secure, but it is not a VPN.
+- a4: Incorrect. Compressing data on your device has nothing to do with the purpose
+    of a VPN.

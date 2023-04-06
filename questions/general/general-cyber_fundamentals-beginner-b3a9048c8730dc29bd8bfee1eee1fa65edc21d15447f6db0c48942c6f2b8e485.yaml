@@ -1,0 +1,18 @@
+topic: General
+category: Cyber Fundamentals
+level: beginner
+question: Which of the following is an example of a cyber threat?
+answers:
+- a: Receiving too many emails in your inbox
+- b: Your computer slowing down
+- c: Getting hacked by a cybercriminal
+- d: Installing new software
+correct_answer: c
+explanations:
+- a: Incorrect. Receiving too many emails is not a cyber threat.
+- b: Incorrect. Your computer may slow down due to factors like low storage space,
+    but it is not necessarily a sign of a cyber threat.
+- c: Correct. Cyber threats can take many forms, including hacking, phishing, malware,
+    and more.
+- d: Incorrect. Installing new software is not a cyber threat, but it could potentially
+    introduce security vulnerabilities if not downloaded from a trusted source.

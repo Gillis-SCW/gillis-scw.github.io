@@ -1,0 +1,22 @@
+topic: Threat Modeling
+category: Understanding your system and environment
+level: advanced
+question: How do external factors such as vendors and suppliers affect threat modeling?
+answers:
+- a: They play no role in threat modeling
+- b: They may introduce new risks and vulnerabilities that need to be evaluated and
+    managed
+- c: They are only relevant in certain industries or sectors
+- d: They are primarily the responsibility of the vendor or supplier, not the business
+correct_answer: b
+explanations:
+- a: Incorrect. External factors such as vendors and suppliers can play a significant
+    role in threat modeling.
+- b: Correct. External factors such as vendors and suppliers can introduce new risks
+    and vulnerabilities that need to be evaluated and managed in order to effectively
+    protect critical assets and reduce the likelihood of successful attacks.
+- c: Incorrect. While some industries or sectors may be more susceptible to certain
+    types of external factors, they can be relevant in any context.
+- d: Incorrect. While vendors and suppliers may have their own responsibilities, businesses
+    also have a responsibility to evaluate and manage risks introduced by external
+    factors in order to effectively protect their assets.

@@ -1,0 +1,21 @@
+topic: Offensive Awareness
+category: Privacy
+level: intermediate
+question: What is the most secure way to store passwords?
+answers:
+- a1: Writing them on a piece of paper and keeping it in a safe place.
+- a2: Using a password management tool.
+- a3: Using the same password for all accounts to remember it easily.
+- a4: Sharing passwords with trusted individuals.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Writing passwords on paper can still pose a security risk if the
+    paper is lost or stolen, and keeping it in a safe place may not always be easily
+    accessible.
+- a2: Correct. Password management tools securely store and encrypt passwords, allowing
+    individuals to use unique and complex passwords for each account without having
+    to remember them all.
+- a3: Incorrect. Using the same password for all accounts increases the risk of multiple
+    accounts being compromised if one password is exposed.
+- a4: Incorrect. Sharing passwords with others, even trusted individuals, can increase
+    the risk of the password being compromised or misused.

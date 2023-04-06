@@ -1,0 +1,16 @@
+topic: General
+category: Safe Internet Usage
+level: advanced
+question: What is a virtual private network (VPN) used for?
+answers:
+- a1: Hacking other people's computers
+- a2: Keeping your internet browsing private
+- a3: Increasing computer processing speed
+- a4: Sharing files with other people
+correct_answer: a2
+explanations:
+- a1: Incorrect. Hacking other people's computers with a VPN is illegal and unethical.
+- a2: Correct. A VPN encrypts your internet traffic, preventing third parties from
+    intercepting or monitoring your online activities.
+- a3: Incorrect. A VPN does not increase a computer's processing speed.
+- a4: Incorrect. Sharing files with other people does not require a VPN.

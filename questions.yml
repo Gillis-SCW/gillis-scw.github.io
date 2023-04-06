@@ -1,0 +1,24 @@
+topic: Security culture and shift-left
+level: expert
+question: What is the difference between a security assessment and a security audit?
+answers:
+- a1: A security assessment is proactive examination and analysis of the security
+    of a system, whilst a security audit is a reactive, on-demand audit of security
+    controls
+- a2: A security audit is a proactive examination and analysis of the security of
+    a system, whilst a security assessment is a reactive, on-demand audit of security
+    controls
+- a3: A security assessment is an examination of existing security controls, while
+    a security audit is an evaluation of whether the existing security controls satisfy
+    a particular standard or regulation
+- a4: None of the above
+correct_answer: a1
+explanations:
+- a1: Correct. Security assessments and audits both evaluate security effectiveness.
+    However, a security assessment proactively examines and analyzes the security
+    of a system, while security audits are reactive, on-demand audits of security
+    controls.
+- a2: Incorrect. The definitions are reversed in the answer.
+- a3: Incorrect. The definition is close, but it refers to the definition of compliance
+    audits.
+- a4: Incorrect. Answer a1 is the correct one.

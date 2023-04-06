@@ -1,0 +1,19 @@
+topic: General
+category: Account Takeover
+level: expert
+question: What are some indicators that an account takeover has occurred?
+answers:
+- a: An unauthorized transaction on the account.
+- b: A password change notification.
+- c: An increase in failed login attempts.
+- d: All of the above.
+correct_answer: d
+explanations:
+- a: Correct. An unauthorized transaction is a clear sign that an account takeover
+    has occurred.
+- b: Correct. If a user receives a notification that their password has been changed
+    and they did not initiate it, that is a clear sign that an account takeover has
+    occurred.
+- c: Correct. An increase in failed login attempts could suggest that someone is attempting
+    to gain access to the account.
+- d: Correct. All of these indicators can be evidence of an account takeover.

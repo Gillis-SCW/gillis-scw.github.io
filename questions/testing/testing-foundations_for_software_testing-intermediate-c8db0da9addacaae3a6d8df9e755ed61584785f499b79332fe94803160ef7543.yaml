@@ -1,0 +1,29 @@
+topic: Testing
+category: Foundations for Software Testing
+level: intermediate
+question: What is the difference between verification and validation?
+answers:
+- a1: Verification is the process of evaluating a system or component to check it
+    meets its specification, while validation is the process of evaluating a system
+    or component during or at the end of the development process to determine whether
+    it satisfies specified requirements.
+- a2: Verification is the process of evaluating a system or component during or at
+    the end of the development process to determine whether it satisfies specified
+    requirements, while validation is the process of evaluating a system or component
+    to check it meets its specification.
+- a3: Verification and validation both mean the same thing.
+- a4: Verification is the process of testing individual components of a system, while
+    validation is the process of testing the entire system.
+correct_answer: a1
+explanations:
+- a1: Correct. Verification is the process of evaluating a system or component to
+    check it meets its specification, while validation is the process of evaluating
+    a system or component during or at the end of the development process to determine
+    whether it satisfies specified requirements.
+- a2: Incorrect. Verification is the process of evaluating a system or component to
+    check it meets its specification, while validation is the process of evaluating
+    a system or component during or at the end of the development process to determine
+    whether it satisfies specified requirements.
+- a3: Incorrect. Verification and validation have different meanings.
+- a4: Incorrect. Verification and validation are not related to testing individual
+    components or the entire system.

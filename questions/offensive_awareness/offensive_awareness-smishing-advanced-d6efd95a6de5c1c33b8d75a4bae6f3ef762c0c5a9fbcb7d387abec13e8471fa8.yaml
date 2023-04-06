@@ -1,0 +1,17 @@
+topic: Offensive Awareness
+category: Smishing
+level: advanced
+question: How can you avoid becoming the target of a smishing attack?
+answers:
+- a1: Avoid clicking on links from unknown or suspicious sources.
+- a2: Never provide sensitive information via text message.
+- a3: Use two-factor authentication on accounts that offer it.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. This is a way to avoid falling for a smishing attack.
+- a2: Correct. This is a way to avoid falling for a smishing attack.
+- a3: Correct. This is a proactive measure that can help protect against a range of
+    attacks.
+- a4: Correct. All of the listed answers can help avoid becoming the target of a smishing
+    attack.

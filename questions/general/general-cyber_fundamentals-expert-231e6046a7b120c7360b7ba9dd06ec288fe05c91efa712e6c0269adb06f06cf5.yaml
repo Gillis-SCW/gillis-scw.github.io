@@ -1,0 +1,21 @@
+topic: General
+category: Cyber Fundamentals
+level: expert
+question: What is the role of a security operations center (SOC) in cybersecurity?
+answers:
+- a: To design and implement cybersecurity policies and procedures
+- b: To monitor and analyze network traffic for signs of cyber attacks
+- c: To investigate and respond to security incidents in real time
+- d: To provide cybersecurity training and awareness programs for employees
+correct_answer: c
+explanations:
+- a: Incorrect. While a SOC may be involved in designing policies and procedures,
+    this is not typically its primary function.
+- b: Incorrect. SOC analysts are responsible for monitoring network traffic, but this
+    is only one part of their job.
+- c: Correct. A SOC is responsible for detecting, investigating, and responding to
+    security incidents as they occur. This involves monitoring network and system
+    logs, analyzing alerts, and coordinating with other teams to address threats in
+    real time.
+- d: Incorrect. While cybersecurity training and awareness programs are important,
+    they are usually the responsibility of a separate team within an organization.

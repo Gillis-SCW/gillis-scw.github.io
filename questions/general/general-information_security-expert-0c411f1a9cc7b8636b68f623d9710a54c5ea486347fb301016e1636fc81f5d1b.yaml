@@ -1,0 +1,22 @@
+topic: General
+category: Information Security
+level: expert
+question: What is a zero-day exploit?
+answers:
+- a1: An attack that takes place on the zeroth day of the month.
+- a2: A vulnerability in a system or software that is known only to the attacker.
+- a3: An exploit that can be used to take advantage of a known vulnerability in the
+    software or system.
+- a4: A software vulnerability that has reached day 0 of its lifecycle.
+correct_answer: a2
+explanations:
+- a1: Incorrect. The term "zero-day" has nothing to do with the timing of the attack
+    during the month.
+- a2: Correct. A zero-day exploit is a vulnerability in a system or software that
+    is known only to the attacker and has not been publicly disclosed or patched.
+    This makes it very difficult to defend against such attacks as there is no known
+    solution or patch available to mitigate the exploit.
+- a3: Incorrect. A known vulnerability in software or system is not classified as
+    a zero-day exploit.
+- a4: Incorrect. The lifecycle of software vulnerabilities has no relation to the
+    term "zero-day."

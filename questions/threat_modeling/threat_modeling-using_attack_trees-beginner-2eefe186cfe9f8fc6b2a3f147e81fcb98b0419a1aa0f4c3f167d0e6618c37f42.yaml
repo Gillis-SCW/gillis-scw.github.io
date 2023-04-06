@@ -1,0 +1,16 @@
+topic: Threat Modeling
+category: Using attack trees
+level: beginner
+question: What are attack trees used for in threat modeling?
+answers:
+- a1: To evaluate various mitigation strategies for known attack paths.
+- a2: To identify and prioritize vulnerabilities in a system.
+- a3: To simulate the impact of potential security threats on a system.
+- a4: To design secure systems from scratch.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Attack trees are not used to evaluate mitigation strategies.
+- a2: Correct. Attack trees are used to identify and prioritize vulnerabilities.
+- a3: Incorrect. Attack trees are not used to simulate the impact of potential security
+    threats.
+- a4: Incorrect. Attack trees are not used to design secure systems from scratch.

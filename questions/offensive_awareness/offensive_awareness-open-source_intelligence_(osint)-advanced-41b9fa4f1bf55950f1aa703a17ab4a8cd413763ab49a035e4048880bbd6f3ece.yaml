@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Open-Source Intelligence (OSINT)
+level: advanced
+question: What are some examples of publicly available sources used in OSINT?
+answers:
+- a1: Social media platforms such as Facebook, Twitter, and LinkedIn.
+- a2: News articles and other online or offline platforms.
+- a3: Public databases such as government records.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. Social media platforms such as Facebook, Twitter, and LinkedIn are
+    some examples of publicly available sources used in OSINT.
+- a2: Correct. News articles and other online or offline platforms are some examples
+    of publicly available sources used in OSINT.
+- a3: Correct. Public databases such as government records are some examples of publicly
+    available sources used in OSINT.
+- a4: Correct. All of the above are examples of publicly available sources used in
+    OSINT.

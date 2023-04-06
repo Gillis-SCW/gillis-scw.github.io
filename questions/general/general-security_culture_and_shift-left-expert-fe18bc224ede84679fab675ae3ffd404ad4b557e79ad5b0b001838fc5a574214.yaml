@@ -1,0 +1,20 @@
+topic: General
+category: Security culture and shift-left
+level: expert
+question: What are some benefits of a shift-left approach?
+answers:
+- a: Decreased cost of software development
+- b: Increased collaboration between development and security teams
+- c: Increased speed of software release
+- d: All of the above
+correct_answer: d
+explanations:
+- a: Partially correct. A shift-left approach can decrease the cost of software development
+    by catching security issues earlier in the development process.
+- b: Partially correct. A shift-left approach encourages increased collaboration between
+    development and security teams, which can lead to better security outcomes.
+- c: Partially correct. A shift-left approach can increase the speed of software release
+    by catching security issues earlier in the development process.
+- d: Correct. A shift-left approach can lead to decreased cost, increased collaboration,
+    and increased speed of software release by catching security issues earlier in
+    the development process.

@@ -1,0 +1,26 @@
+topic: General
+category: Data governance and data privacy
+level: expert
+question: What is the difference between anonymization and pseudonymization of data?
+answers:
+- a1: Anonymization means that no one can identify an individual from the data, while
+    pseudonymization means that personal identifiers are replaced with artificial
+    identifiers to protect privacy.
+- a2: Anonymization and pseudonymization are the same thing.
+- a3: Anonymization means that personal identifiers are replaced with artificial identifiers
+    to protect privacy, while pseudonymization means that no one can identify an individual
+    from the data.
+- a4: None of the above
+correct_answer: a1
+explanations:
+- a1: Correct. Anonymization is the process of removing or destroying any identifying
+    information that could link an individual to a dataset, so that the data is truly
+    anonymized and cannot be linked to an individual. Pseudonymization, on the other
+    hand, replaces personal identifiers with artificial identifiers to protect privacy,
+    but the original data can still be linked to an individual if the artificial identifiers
+    are re-identified.
+- a2: Incorrect. This statement is completely false.
+- a3: Incorrect. This statement confuses the concepts of anonymization and pseudonymization.
+- a4: Incorrect. The correct answer is a) Anonymization means that no one can identify
+    an individual from the data, while pseudonymization means that personal identifiers
+    are replaced with artificial identifiers to protect privacy.

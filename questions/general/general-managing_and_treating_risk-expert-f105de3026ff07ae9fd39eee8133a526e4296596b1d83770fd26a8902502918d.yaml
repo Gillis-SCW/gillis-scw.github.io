@@ -1,0 +1,25 @@
+topic: General
+category: Managing and treating risk
+level: expert
+question: What is cyber risk quantification, and how is it used in risk management?
+answers:
+- a1: It is the process of assigning a numerical value to the likelihood and impact
+    of a cyber risk event, in order to estimate the financial impact on the organization
+- a2: It is the process of outsourcing cyber risk management to a third-party provider,
+    in order to reduce exposure to risk
+- a3: It is the process of conducting a vulnerability assessment to determine the
+    organization's susceptibility to cyber attacks, and using this information to
+    develop a proactive risk management strategy
+- a4: It is the process of implementing cybersecurity measures without conducting
+    any prior risk assessment, in order to be as secure as possible
+correct_answer: a1
+explanations:
+- a1: Correct. Cyber risk quantification is a method used to estimate the financial
+    impact of a cyber risk event on an organization, by assigning a numerical value
+    to the likelihood and impact of such an event.
+- a2: Incorrect. Cyber risk quantification is an internal process, and not one that
+    can be effectively outsourced.
+- a3: Incorrect. While a vulnerability assessment may be a component of cyber risk
+    management, that is not the same thing as cyber risk quantification.
+- a4: Incorrect. Cybersecurity measures should be implemented as part of a comprehensive
+    risk management strategy that includes risk assessment and quantification.

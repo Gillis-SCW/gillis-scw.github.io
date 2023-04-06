@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Avoiding Ransomware
+level: intermediate
+question: Which of the following is NOT a common way ransomware spreads?
+answers:
+- a1: Email phishing attacks
+- a2: Software vulnerabilities
+- a3: USB flash drive infections
+- a4: Social media ads
+correct_answer: a4
+explanations:
+- a1: Incorrect. Email phishing attacks are a common way ransomware spreads, often
+    through email attachments or links.
+- a2: Incorrect. Exploiting software vulnerabilities is a common method used by ransomware
+    creators to infect computer systems with malware.
+- a3: Incorrect. Ransomware can also be spread through USB flash drives that are infected
+    with malware.
+- a4: Correct. While social media can be used as a vector for spreading malware, it
+    is not a common way ransomware spreads.

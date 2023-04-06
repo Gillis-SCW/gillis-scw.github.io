@@ -1,0 +1,25 @@
+topic: Offensive Awareness
+category: Vishing (Voice Phishing)
+level: expert
+question: What is the difference between vishing and phishing?
+answers:
+- a1: Vishing involves using social engineering techniques to deceive victims over
+    the phone, while phishing involves using social engineering techniques to deceive
+    victims over email or text.
+- a2: Vishing involves using malware to steal sensitive information, while phishing
+    involves using social engineering techniques to steal sensitive information.
+- a3: Vishing involves targeting individuals using personalized information, while
+    phishing involves targeting a broad audience.
+- a4: Vishing and phishing are the same thing.
+correct_answer: a1
+explanations:
+- a1: Correct. Vishing and phishing both involve using social engineering techniques
+    to deceive victims, but vishing specifically involves doing so over the phone,
+    while phishing involves doing so over email or text.
+- a2: Incorrect. While phishing does involve using social engineering techniques to
+    steal sensitive information, it typically does not involve using malware, while
+    vishing does not typically involve using malware either.
+- a3: Incorrect. Phishing attacks can be personalized or targeted, while vishing attacks
+    can target a broad audience as well.
+- a4: Incorrect. Vishing and phishing are different types of social engineering attacks
+    that involve using different communication channels.

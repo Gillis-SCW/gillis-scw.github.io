@@ -1,0 +1,22 @@
+topic: General
+category: Data governance and data privacy
+level: intermediate
+question: What is the difference between data governance and data management?
+answers:
+- a1: Data governance refers to the overall management of data, while data management
+    refers to the implementation of specific tools and procedures to manage data.
+- a2: Data governance refers to the implementation of specific tools and procedures
+    to manage data, while data management refers to the overall management of data.
+- a3: Data governance and data management are the same thing.
+- a4: None of the above
+correct_answer: a1
+explanations:
+- a1: Correct. Data governance refers to the overall management of data, including
+    policies, procedures, and roles and responsibilities, while data management refers
+    to the implementation of specific tools and procedures to manage data, including
+    data quality, data integration, and data security.
+- a2: Incorrect. This statement is the opposite of the correct answer.
+- a3: Incorrect. This statement is completely false.
+- a4: Incorrect. The correct answer is a) Data governance refers to the overall management
+    of data, while data management refers to the implementation of specific tools
+    and procedures to manage data.

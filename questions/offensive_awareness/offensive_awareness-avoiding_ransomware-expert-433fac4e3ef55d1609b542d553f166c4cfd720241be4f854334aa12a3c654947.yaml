@@ -1,0 +1,21 @@
+topic: Offensive Awareness
+category: Avoiding Ransomware
+level: expert
+question: What is "zero-day" ransomware?
+answers:
+- a1: Ransomware that is activated 0 days after infection
+- a2: Ransomware that uses previously unknown vulnerabilities to infect systems
+- a3: Ransomware that targets systems built using open-source software
+- a4: Ransomware that has multiple encryption layers for added security
+correct_answer: a2
+explanations:
+- a1: Incorrect. The term "zero-day" does not refer to a specific time period after
+    infection.
+- a2: Correct. Zero-day ransomware is a type of ransomware that exploits previously
+    unknown vulnerabilities in software to infect computer systems. Because the vulnerabilities
+    are unknown to software vendors, they cannot immediately release a patch to fix
+    the vulnerability.
+- a3: Incorrect. Ransomware that targets systems built using open-source software
+    is not specifically called "zero-day" ransomware.
+- a4: Incorrect. Ransomware that has multiple layers of encryption for added security
+    is not specifically called "zero-day" ransomware.

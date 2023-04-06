@@ -1,0 +1,19 @@
+topic: Access Control
+category: RBAC vs ABAC vs ReBAC
+level: beginner
+question: What does RBAC stand for?
+answers:
+- a1: Rule-Based Access Control
+- a2: Role-Based Access Control
+- a3: Relationship-Based Access Control
+- a4: Random-Based Access Control
+correct_answer: a2
+explanations:
+- a1: Incorrect. Rule-Based Access Control is not one of the access control types
+    described.
+- a2: Correct. RBAC stands for Role-Based Access Control, which restricts access based
+    on job function.
+- a3: Incorrect. Relationship-Based Access Control is another access control type
+    described, but not what RBAC stands for.
+- a4: Incorrect. Random-Based Access Control is not one of the access control types
+    described.

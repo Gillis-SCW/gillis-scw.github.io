@@ -1,0 +1,14 @@
+topic: General
+category: Impersonation Fraud
+level: beginner
+question: What is impersonation fraud?
+answers:
+- a1: A type of fraud where a perpetrator pretends to be someone else
+- a2: A type of fraud where a perpetrator hacks into a system to steal information
+- a3: A type of fraud where a perpetrator uses physical force to steal from victims
+correct_answer: a1
+explanations:
+- a1: Correct. Impersonation fraud involves a perpetrator pretending to be a legitimate
+    business or government entity to steal personal information or money from victims.
+- a2: Incorrect. Impersonation fraud does not involve hacking into a system.
+- a3: Incorrect. Impersonation fraud does not involve physical force.

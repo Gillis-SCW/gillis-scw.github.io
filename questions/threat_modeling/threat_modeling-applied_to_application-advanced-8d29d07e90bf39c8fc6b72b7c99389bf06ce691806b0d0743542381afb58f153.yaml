@@ -1,0 +1,24 @@
+topic: Threat Modeling
+category: applied to application
+level: advanced
+question: What is the difference between static and dynamic threat modeling?
+answers:
+- a1: Static threat modeling is performed before code is written, while dynamic threat
+    modeling is performed after code is deployed.
+- a2: Static threat modeling is focused on the design and architecture of an application,
+    while dynamic threat modeling is focused on the runtime behavior of an application.
+- a3: Static threat modeling is performed by developers, while dynamic threat modeling
+    is performed by security professionals.
+- a4: Static threat modeling is a manual process, while dynamic threat modeling is
+    an automated process.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Static threat modeling can be performed at any stage of the development
+    process, while dynamic threat modeling is typically performed after code is deployed.
+- a2: Correct. Static threat modeling focuses on the design and architecture of an
+    application, while dynamic threat modeling focuses on the runtime behavior of
+    an application.
+- a3: Incorrect. Both static and dynamic threat modeling can be performed by developers
+    and security professionals.
+- a4: Incorrect. Both static and dynamic threat modeling can be manual or automated
+    processes.

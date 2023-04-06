@@ -1,0 +1,17 @@
+topic: Access Control
+category: RBAC vs ABAC vs ReBAC
+level: advanced
+question: What are some advantages of ReBAC over RBAC and ABAC?
+answers:
+- a1: ReBAC offers fine-grained access control and considers relationships, which
+    are not features of RBAC or ABAC.
+- a2: ReBAC offers less fine-grained access control than RBAC and ABAC.
+- a3: ReBAC is only applicable to small organizations.
+- a4: ReBAC is less secure than RBAC and ABAC.
+correct_answer: a1
+explanations:
+- a1: Correct. ReBAC considers relationships between individuals and entities, which
+    provides more fine-grained access control than RBAC and ABAC.
+- a2: Incorrect. ReBAC offers more fine-grained access control than RBAC and ABAC.
+- a3: Incorrect. ReBAC can be implemented in organizations of any size.
+- a4: Incorrect. ReBAC is as secure as RBAC and ABAC, if properly implemented.

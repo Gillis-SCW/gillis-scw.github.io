@@ -1,0 +1,18 @@
+topic: Threat Modeling
+category: PASTA
+level: beginner
+question: What does PASTA stand for?
+answers:
+- a1: Process for Attack Simulation and Threat Analysis
+- a2: Process for Security Analysis and Threat Assessment
+- a3: Process for Securing Access and Technology Architecture
+- a4: Process for Testing Application Security and Authentication
+correct_answer: a1
+explanations:
+- a1: Correct. PASTA stands for Process for Attack Simulation and Threat Analysis.
+- a2: Incorrect. PASTA does not stand for Process for Security Analysis and Threat
+    Assessment.
+- a3: Incorrect. PASTA does not stand for Process for Securing Access and Technology
+    Architecture.
+- a4: Incorrect. PASTA does not stand for Process for Testing Application Security
+    and Authentication.

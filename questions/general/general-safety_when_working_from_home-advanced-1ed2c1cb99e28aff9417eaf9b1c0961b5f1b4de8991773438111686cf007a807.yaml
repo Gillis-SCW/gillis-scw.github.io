@@ -1,0 +1,19 @@
+topic: General
+category: Safety when Working from Home
+level: advanced
+question: What should you do to ensure your online safety while working from home?
+answers:
+- a1: Use easy-to-guess passwords
+- a2: Click on unknown links in emails or messages
+- a3: Rely solely on antivirus software
+- a4: Protect sensitive information by encrypting files and using secure networks
+correct_answer: a4
+explanations:
+- a1: Incorrect. Using easy-to-guess passwords can compromise your online safety while
+    working from home.
+- a2: Incorrect. Clicking on unknown links in emails or messages can introduce malware
+    into your system and compromise your online safety while working from home.
+- a3: Incorrect. Relying solely on antivirus software is not enough to protect your
+    online safety while working from home.
+- a4: Correct. Protecting sensitive information by encrypting files and using secure
+    networks ensures your online safety while working from home.

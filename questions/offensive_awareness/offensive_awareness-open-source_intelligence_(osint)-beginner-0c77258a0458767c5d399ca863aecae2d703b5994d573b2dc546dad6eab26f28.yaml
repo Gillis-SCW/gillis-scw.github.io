@@ -1,0 +1,21 @@
+topic: Offensive Awareness
+category: Open-Source Intelligence (OSINT)
+level: beginner
+question: What is Open-Source Intelligence (OSINT)?
+answers:
+- a1: The practice of gathering information from confidential sources.
+- a2: The practice of gathering information from publicly available sources such as
+    social media, news articles, and other online or offline platforms.
+- a3: The practice of gathering information from only online platforms.
+- a4: The practice of gathering information from government sources.
+correct_answer: a2
+explanations:
+- a1: Incorrect. OSINT is the practice of gathering information from publicly available
+    sources, and not confidential sources.
+- a2: Correct. OSINT refers to the practice of gathering information from publicly
+    available sources such as social media, news articles, and other online or offline
+    platforms.
+- a3: Incorrect. OSINT involves gathering information from both online and offline
+    sources, not just online platforms.
+- a4: Incorrect. OSINT involves gathering information from publicly available sources,
+    not just from the government.

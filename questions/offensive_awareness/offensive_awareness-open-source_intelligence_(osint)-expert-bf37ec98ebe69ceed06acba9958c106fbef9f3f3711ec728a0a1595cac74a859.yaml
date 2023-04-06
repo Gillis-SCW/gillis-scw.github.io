@@ -1,0 +1,18 @@
+topic: Offensive Awareness
+category: Open-Source Intelligence (OSINT)
+level: expert
+question: What are some legal and ethical considerations when using OSINT?
+answers:
+- a1: Respect for privacy and human rights.
+- a2: Compliance with local laws and regulations.
+- a3: Avoiding the use of falsified or manipulated information.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. Respect for privacy and human rights is an important legal and ethical
+    consideration when using OSINT.
+- a2: Correct. Compliance with local laws and regulations is another important legal
+    and ethical consideration when using OSINT.
+- a3: Correct. Avoiding the use of falsified or manipulated information is another
+    important legal and ethical consideration when using OSINT.
+- a4: Correct. All of the above are legal and ethical considerations when using OSINT.

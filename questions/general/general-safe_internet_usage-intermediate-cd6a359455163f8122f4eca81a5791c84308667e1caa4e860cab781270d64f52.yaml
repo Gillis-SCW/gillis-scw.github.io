@@ -1,0 +1,22 @@
+topic: General
+category: Safe Internet Usage
+level: intermediate
+question: What is a common phishing scam that tries to trick people into revealing
+  their login credentials?
+answers:
+- a1: Nigerian Prince scam
+- a2: Lottery scam
+- a3: Business email compromise
+- a4: Email spoofing
+correct_answer: a3
+explanations:
+- a1: Incorrect. The Nigerian Prince scam usually involves a request for money, not
+    login credentials.
+- a2: Incorrect. The Lottery scam usually involves a request for personal or financial
+    information, not login credentials.
+- a3: Correct. Business email compromise (BEC) scams often involve fraudulent emails
+    that appear to be from a trusted source, such as a bank or employer, asking the
+    recipient to reveal their login credentials or other sensitive information.
+- a4: Incorrect, Email spoofing is a technique used to send fake emails that appear
+    to be from someone else, but it does not necessarily involve a request for login
+    credentials.

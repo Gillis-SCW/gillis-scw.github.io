@@ -1,0 +1,19 @@
+topic: General
+category: Account Takeover
+level: beginner
+question: What is account takeover?
+answers:
+- a: A form of cyber attack where hackers gain authorized access to a user's online
+    account.
+- b: An online account where users can take over other accounts.
+- c: A type of social engineering scam.
+- d: A website for reporting cyber attacks.
+correct_answer: a
+explanations:
+- a: Correct. Account takeover is a form of cyber attack where hackers gain unauthorized
+    access to a user's online account.
+- b: Incorrect. A user cannot take over other accounts.
+- c: Incorrect. Account takeover is not a social engineering scam, but attackers can
+    use social engineering to obtain login credentials.
+- d: Incorrect. Reporting cyber attacks is important, but account takeover is not
+    a website for it.

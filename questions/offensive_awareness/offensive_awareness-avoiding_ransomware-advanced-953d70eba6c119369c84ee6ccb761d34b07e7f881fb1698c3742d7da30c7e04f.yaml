@@ -1,0 +1,24 @@
+topic: Offensive Awareness
+category: Avoiding Ransomware
+level: advanced
+question: What is "double extortion" in the context of ransomware attacks?
+answers:
+- a1: A type of encryption algorithm used by ransomware creators
+- a2: A tactic used by criminals to demand two separate ransom payments
+- a3: A way for ransomware creators to upload stolen data to a remote server before
+    encrypting it
+- a4: A term used to describe ransomware attacks that target both individuals and
+    organizations
+correct_answer: a3
+explanations:
+- a1: Incorrect. Double extortion does not refer to an encryption algorithm used by
+    ransomware creators.
+- a2: Incorrect. Double extortion refers to a single ransom payment demanded under
+    threat of publishing stolen data, as opposed to demanding a separate payment for
+    not publishing the data.
+- a3: Correct. Double extortion occurs when ransomware creators not only encrypt a
+    victim's data, but also upload copies of the data to a remote server before encrypting
+    it. This allows them to demand payment for both the decryption key and the return
+    of the stolen data.
+- a4: Incorrect. "Double extortion" does not refer to a specific target of ransomware
+    attacks.

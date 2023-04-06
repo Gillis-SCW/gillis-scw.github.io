@@ -1,0 +1,21 @@
+topic: Threat Modeling
+category: PASTA
+level: expert
+question: In PASTA's Attack Library, what is the difference between an Attack Method
+  and an Attack Vector?
+answers:
+- a1: An Attack Method describes the specific technique used in an Attack Vector
+- a2: An Attack Vector describes the specific technique used in an Attack Method
+- a3: Both terms refer to the same thing in the Attack Library
+- a4: Neither term is used in the Attack Library
+correct_answer: a1
+explanations:
+- a1: Correct. An Attack Vector is a path or means used by an attacker to gain unauthorized
+    access to a system, while an Attack Method is a specific technique used to carry
+    out an attack via an Attack Vector. For example, SQL Injection can be an Attack
+    Method used via an Attack Vector of an input form.
+- a2: Incorrect. See explanation for option A.
+- a3: Incorrect. See explanation for option A.
+- a4: Incorrect. The Attack Library is a core component of the PASTA methodology and
+    contains a catalog of known attacks that can be used during the Threat Simulation
+    step.

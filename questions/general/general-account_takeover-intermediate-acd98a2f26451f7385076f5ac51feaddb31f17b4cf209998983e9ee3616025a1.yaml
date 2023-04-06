@@ -1,0 +1,17 @@
+topic: General
+category: Account Takeover
+level: intermediate
+question: How do attackers typically obtain login credentials for account takeover?
+answers:
+- a: Through phishing scams.
+- b: Through social engineering.
+- c: Through malware.
+- d: All of the above.
+correct_answer: d
+explanations:
+- a: Correct. Attackers often use phishing scams to trick users into entering their
+    login credentials.
+- b: Correct. Attackers can use social engineering tactics to obtain login credentials
+    as well.
+- c: Correct. Malware can be used to steal login credentials.
+- d: Correct. Attackers can use any or all of these methods to obtain login credentials.

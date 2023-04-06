@@ -1,0 +1,20 @@
+topic: Threat Modeling
+category: Using attack trees
+level: advanced
+question: What is a DFD and how is it used in conjunction with attack trees?
+answers:
+- a1: DFD is a data transfer diagram used to visualize attack paths in attack trees.
+- a2: DFD is a diagram used to map system components and data flows for better analysis
+    of threats.
+- a3: DFD is a tool used to simulate attacks on a system modeled with attack trees.
+- a4: DFD is a visualization tool used to map security controls and identify vulnerabilities
+    in an attack tree.
+correct_answer: a2
+explanations:
+- a1: Incorrect. DFD is not used to visualize attack paths.
+- a2: Correct. DFD is a diagram used to map system components and data flows for better
+    analysis of threats, usually in conjunction with attack trees.
+- a3: Incorrect. DFD is not used to simulate attacks on a system modeled with attack
+    trees.
+- a4: Incorrect. While DFD is a visualization tool, it is not used to map security
+    controls and identify vulnerabilities in an attack tree.

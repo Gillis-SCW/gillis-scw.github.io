@@ -1,0 +1,22 @@
+topic: General
+category: Risk, threats, and vulnerabilities
+level: intermediate
+question: What is the difference between a vulnerability and a threat?
+answers:
+- a1: A vulnerability is a weakness or gap in security, while a threat is an outside
+    force that could potentially exploit the vulnerability.
+- a2: A vulnerability is an outside force that could potentially exploit a weakness
+    or gap in security, while a threat is a possible risk or danger.
+- a3: A vulnerability and a threat are the same thing.
+- a4: A vulnerability is a physical danger, while a threat is a digital danger.
+correct_answer: a1
+explanations:
+- a1: Correct. A vulnerability refers to a weakness or gap in security that could
+    potentially be exploited, while a threat is an outside force or actor that has
+    the potential to do harm. In other words, a vulnerability is a weakness in the
+    system, while a threat is the potential exploit of that weakness.
+- a2: Incorrect. A vulnerability is not an outside force, but rather a weakness or
+    gap in security.
+- a3: Incorrect. A vulnerability and a threat are distinct concepts.
+- a4: Incorrect. A vulnerability can refer to either a physical or digital weakness,
+    while a threat is a potential danger, regardless of the source.

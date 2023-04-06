@@ -1,0 +1,19 @@
+topic: General
+category: Managing and treating risk
+level: advanced
+question: What is the purpose of a risk matrix?
+answers:
+- a1: To identify and prioritize risks according to likelihood and severity
+- a2: To develop contingency plans for all possible risks
+- a3: To assess the impact of a risk event after it has occurred
+- a4: To outsource risk management to a third-party provider
+correct_answer: a1
+explanations:
+- a1: Correct. A risk matrix is a tool used to identify and prioritize risks according
+    to likelihood and severity.
+- a2: Incorrect. While contingency plans may be developed based on the results of
+    a risk matrix, that is not the primary purpose of the tool.
+- a3: Incorrect. A risk matrix is used to assess potential risks, not events that
+    have already occurred.
+- a4: Incorrect. A risk matrix is an internal tool used by organizations themselves,
+    not a third-party service.

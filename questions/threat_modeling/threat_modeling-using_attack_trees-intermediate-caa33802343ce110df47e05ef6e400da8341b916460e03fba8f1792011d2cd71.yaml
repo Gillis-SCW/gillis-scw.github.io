@@ -1,0 +1,15 @@
+topic: Threat Modeling
+category: Using attack trees
+level: intermediate
+question: What is a leaf node in an attack tree for?
+answers:
+- a1: To represent an attacker's starting point in the attack scenario.
+- a2: To represent a possible attack path.
+- a3: To represent the consequences of a successful attack.
+- a4: To represent a mitigation strategy for the attack.
+correct_answer: a3
+explanations:
+- a1: Incorrect. A leaf node does not represent an attacker's starting point.
+- a2: Incorrect. A leaf node does not represent a possible attack path.
+- a3: Correct. A leaf node represents the consequences of a successful attack.
+- a4: Incorrect. A leaf node does not represent a mitigation strategy for the attack.

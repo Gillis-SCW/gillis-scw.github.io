@@ -1,0 +1,21 @@
+topic: General
+category: CEO Fraud
+level: beginner
+question: What is CEO fraud?
+answers:
+- a1: A scam where cybercriminals impersonate a CEO or executive of a company to manipulate
+    employees into making financial transactions or divulging sensitive information.
+- a2: A scam where cybercriminals impersonate a customer to manipulate employees into
+    making financial transactions or divulging sensitive information.
+- a3: A scam where cybercriminals impersonate a government official to manipulate
+    employees into making financial transactions or divulging sensitive information.
+- a4: A scam where cybercriminals impersonate a co-worker to manipulate employees
+    into making financial transactions or divulging sensitive information.
+correct_answer: a1
+explanations:
+- a1: Correct. CEO fraud is a scam in which cybercriminals impersonate a CEO or executive
+    of a company to manipulate employees into making financial transactions or divulging
+    sensitive information.
+- a2: Incorrect. This is not the correct definition of CEO fraud.
+- a3: Incorrect. This is not the correct definition of CEO fraud.
+- a4: Incorrect. This is not the correct definition of CEO fraud.

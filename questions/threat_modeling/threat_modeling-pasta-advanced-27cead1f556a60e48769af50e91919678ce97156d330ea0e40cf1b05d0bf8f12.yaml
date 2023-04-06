@@ -1,0 +1,21 @@
+topic: Threat Modeling
+category: PASTA
+level: advanced
+question: What is the purpose of the PASTA Risk Mitigation step?
+answers:
+- a1: To eliminate all security risks identified during the Analysis phase
+- a2: To reduce the likelihood or impact of security risks identified during the Analysis
+    phase
+- a3: To transfer the ownership of security risks to a third-party entity
+- a4: To accept all security risks identified during the Analysis phase
+correct_answer: a2
+explanations:
+- a1: Incorrect. It is not always possible to eliminate all security risks, even after
+    the Analysis phase. Risk mitigation involves reducing the likelihood or impact
+    of identified risks.
+- a2: Correct. The purpose of the PASTA Risk Mitigation step is to reduce the likelihood
+    or impact of security risks identified during the Analysis phase.
+- a3: Incorrect. The PASTA methodology does not involve transferring the ownership
+    of security risks to a third-party entity as a risk management strategy.
+- a4: Incorrect. Risk acceptance is a valid risk management strategy, but it should
+    not be the only approach taken after the Analysis phase.

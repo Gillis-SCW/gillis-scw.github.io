@@ -1,0 +1,20 @@
+topic: Testing
+category: Foundations for Software Testing
+level: beginner
+question: What is the purpose of software testing?
+answers:
+- a1: To ensure that software products and applications are tested thoroughly for
+    bugs, defects, and errors
+- a2: To develop software products and applications with new features
+- a3: To market software products and applications to end-users
+- a4: To create documentation for software products and applications
+correct_answer: a1
+explanations:
+- a1: Correct. Software testing is done to ensure that software products and applications
+    are tested thoroughly for bugs, defects, and errors.
+- a2: Incorrect. Software development is done to develop software products and applications
+    with new features.
+- a3: Incorrect. Marketing is done to promote software products and applications to
+    end-users.
+- a4: Incorrect. Documentation is done to create user manuals or guides for software
+    products and applications.

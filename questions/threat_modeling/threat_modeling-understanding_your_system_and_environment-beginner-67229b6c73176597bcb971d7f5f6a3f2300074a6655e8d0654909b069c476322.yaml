@@ -1,0 +1,22 @@
+topic: Threat Modeling
+category: Understanding your system and environment
+level: beginner
+question: What is involved in understanding a system and environment for effective
+  threat modeling?
+answers:
+- a: Evaluating user roles, data and asset classifications, and system architecture
+    only
+- b: Analyzing potential risks due to system components
+- c: Evaluating external factors such as vendors, suppliers, and partners only
+- d: Evaluating user roles, data and asset classifications, system architecture, and
+    external factors such as vendors, suppliers, and partners
+correct_answer: d
+explanations:
+- a: Incorrect. Evaluating external factors and architecture are also important.
+- b: Incorrect. Understanding the system and environment involves more than just analyzing
+    risks due to system components.
+- c: Incorrect. Evaluating user roles and data classifications are also important.
+- d: Correct. Understanding a system and environment for effective threat modeling
+    involves evaluating user roles, data and asset classifications, system architecture,
+    and external factors such as vendors, suppliers, and partners to identify potential
+    risks and make informed decisions about risk management.

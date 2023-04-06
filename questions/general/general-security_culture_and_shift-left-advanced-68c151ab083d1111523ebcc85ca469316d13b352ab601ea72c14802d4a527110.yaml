@@ -1,0 +1,20 @@
+topic: General
+category: Security culture and shift-left
+level: advanced
+question: What is the purpose of implementing a strong security culture and shift-left
+  approach?
+answers:
+- a: To increase productivity during the software development process
+- b: To reduce the cost of software development
+- c: To reduce risks and protect sensitive data
+- d: To speed up the software release process
+correct_answer: c
+explanations:
+- a: Incorrect. While a strong security culture and shift-left approach may increase
+    productivity, that is not their primary purpose.
+- b: Incorrect. While a strong security culture and shift-left approach may reduce
+    the cost of software development, that is not their primary purpose.
+- c: Correct. The purpose of a strong security culture and shift-left approach is
+    to reduce risks and protect sensitive data.
+- d: Incorrect. While a strong security culture and shift-left approach may speed
+    up the software release process, that is not their primary purpose.

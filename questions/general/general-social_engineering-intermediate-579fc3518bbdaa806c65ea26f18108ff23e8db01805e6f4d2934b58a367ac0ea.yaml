@@ -1,0 +1,21 @@
+topic: General
+category: Social Engineering
+level: intermediate
+question: What is pretexting in social engineering?
+answers:
+- a1: A technique used to lure victims into providing sensitive information by offering
+    them a reward.
+- a2: A technique used to impersonate a trusted party to gain access to personal information.
+- a3: A technique used to exploit trust by pretending to need help in order to obtain
+    sensitive information.
+- a4: A technique used to deceive victims into clicking on a malicious link or downloading
+    a malicious attachment.
+correct_answer: a3
+explanations:
+- a1: Incorrect. Baiting is a technique used to lure victims into providing sensitive
+    information by offering them a reward.
+- a2: Incorrect. Phishing is a technique used to impersonate a trusted party to gain
+    access to personal information.
+- a3: Correct. Pretexting is a technique used to exploit trust by pretending to need
+    help in order to obtain sensitive information.
+- a4: Incorrect. This is an example of a phishing technique called spear-phishing.

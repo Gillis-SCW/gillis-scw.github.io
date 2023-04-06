@@ -1,0 +1,18 @@
+topic: General
+category: Safe Internet Usage
+level: beginner
+question: What is the best practice for creating a secure password?
+answers:
+- a1: Use a simple word or phrase
+- a2: Use personal information like your birthdate
+- a3: Use a combination of letters, numbers, and symbols
+- a4: Use the same password for multiple accounts
+correct_answer: a3
+explanations:
+- a1: Incorrect. Simple words or phrases are easy to guess.
+- a2: Incorrect. Personal information can be easily found online or through social
+    engineering.
+- a3: Correct. A combination of letters, numbers, and symbols makes it harder to guess
+    or crack a password.
+- a4: Incorrect. Using the same password for multiple accounts makes all of them vulnerable
+    if one account is compromised.

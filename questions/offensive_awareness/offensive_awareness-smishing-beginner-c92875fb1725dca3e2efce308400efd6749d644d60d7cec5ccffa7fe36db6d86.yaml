@@ -1,0 +1,18 @@
+topic: Offensive Awareness
+category: Smishing
+level: beginner
+question: What is Smishing?
+answers:
+- a1: A form of phishing scam that uses SMS or text messages to deceive people into
+    giving away sensitive information.
+- a2: A form of scam that uses fake social media profiles to obtain sensitive information.
+- a3: A form of scam that uses email to deceive people into giving away sensitive
+    information.
+- a4: A form of scam that uses phone calls to deceive people into giving away sensitive
+    information.
+correct_answer: a1
+explanations:
+- a1: Correct. Smishing is a form of phishing that uses text messages to deceive people.
+- a2: Incorrect. This is a description of social engineering.
+- a3: Incorrect. This is a description of phishing.
+- a4: Incorrect. This is a description of vishing.

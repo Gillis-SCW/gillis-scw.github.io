@@ -1,0 +1,22 @@
+topic: General
+category: Risk, threats, and vulnerabilities
+level: advanced
+question: What is the difference between risk and a vulnerability?
+answers:
+- a1: A vulnerability is the likelihood that a threat actor will compromise a system,
+    while risk is the potential impact or harm of that compromise.
+- a2: A vulnerability is the potential for a weak point in security, while risk is
+    the probability that the weakness will be exploited.
+- a3: A vulnerability and risk are the same thing.
+- a4: A vulnerability is a potential danger, while risk is the likelihood of that
+    danger occurring.
+correct_answer: a2
+explanations:
+- a1: Incorrect. A vulnerability refers to a weakness or gap in security, while risk
+    is the potential impact or harm of a compromise.
+- a2: Correct. A vulnerability is a potential weakness or gap in security, while risk
+    is the probability or likelihood that the weakness will be exploited and the potential
+    impact of that exploit.
+- a3: Incorrect. A vulnerability and risk are distinct concepts.
+- a4: Incorrect. A vulnerability is not a potential danger, but rather a potential
+    weakness or gap in security.

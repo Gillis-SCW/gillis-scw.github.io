@@ -1,0 +1,18 @@
+topic: Offensive Awareness
+category: Staying Secure in your Workplace
+level: beginner
+question: What is an example of a good password?
+answers:
+- a1: 123456
+- a2: pa$$w0rd
+- a3: c@t_l0ver!
+- a4: Correct Horse Battery Staple
+correct_answer: a3
+explanations:
+- a1: Incorrect. This is a very common and easily guessed password.
+- a2: Incorrect. This password is easily guessed by hackers and is not strong.
+- a3: Correct. A good password should be a combination of upper and lowercase letters,
+    numbers, and special characters. It should not contain easily guessed information
+    like birth dates or common words.
+- a4: Incorrect. While this type of password may seem strong, it is actually easily
+    guessed by hackers using dictionary attacks.

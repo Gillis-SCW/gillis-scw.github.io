@@ -1,0 +1,24 @@
+topic: General
+category: Social Engineering
+level: expert
+question: How can a company protect itself from social engineering attacks?
+answers:
+- a1: By providing regular security awareness training to employees to help them recognize
+    and prevent social engineering attempts.
+- a2: By using two-factor authentication and other technical measures to reduce the
+    risk of unauthorized access.
+- a3: By implementing a robust incident response plan to quickly detect and respond
+    to social engineering attacks.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. Regular security awareness training can help employees recognize and
+    prevent social engineering attempts, which is an important part of protecting
+    the company.
+- a2: Correct. Using technical measures such as two-factor authentication can reduce
+    the risk of unauthorized access and protect the company's assets and data.
+- a3: Correct. A robust incident response plan can help the company quickly detect
+    and respond to social engineering attacks, minimizing the damage and restoring
+    normal operations.
+- a4: Correct. All of the above measures can help a company protect itself from social
+    engineering attacks.

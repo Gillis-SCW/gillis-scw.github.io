@@ -1,0 +1,20 @@
+topic: General
+category: Supply Chain Vulnerabilities
+level: beginner
+question: What are supply chain vulnerabilities?
+answers:
+- a1: Weaknesses that compromise the integrity and reliability of the supply chain.
+- a2: Strengths that improve the efficiency of the supply chain.
+- a3: Factors that optimize the supply chain operations.
+- a4: None of the above.
+correct_answer: a1
+explanations:
+- a1: Correct. Supply chain vulnerabilities refer to weaknesses and risks that can
+    compromise the integrity and reliability of the supply chain.
+- a2: Incorrect. Supply chain vulnerabilities refer to weaknesses that compromise
+    the integrity and reliability of the supply chain.
+- a3: Incorrect. Supply chain vulnerabilities refer to weaknesses that compromise
+    the integrity and reliability of the supply chain, not factors that optimize the
+    operations.
+- a4: Incorrect. Supply chain vulnerabilities exist and can lead to disruptions and
+    financial losses if not addressed properly.

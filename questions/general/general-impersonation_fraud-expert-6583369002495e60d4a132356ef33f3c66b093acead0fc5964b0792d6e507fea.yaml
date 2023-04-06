@@ -1,0 +1,19 @@
+topic: General
+category: Impersonation Fraud
+level: expert
+question: What is a common red flag that can indicate an attempted impersonation fraud?
+answers:
+- a1: A request for payment using cryptocurrency
+- a2: A request for payment using a wire transfer
+- a3: A request for personal information in an unsolicited email or phone call
+- a4: A request for payment that is significantly higher than normal
+correct_answer: a3
+explanations:
+- a1: Incorrect. While cryptocurrency can be associated with some types of cyber crime,
+    it is not necessarily a red flag for impersonation fraud specifically.
+- a2: Incorrect. Wire transfers are a common method for legitimate transactions and
+    may not indicate fraud on their own.
+- a3: Correct. Unsolicited requests for personal information or payment are a common
+    tactic used by perpetrators of impersonation fraud.
+- a4: Incorrect. An unusually high payment amount could be a red flag for fraud in
+    general, but does not necessarily indicate impersonation fraud.

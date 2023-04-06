@@ -1,0 +1,22 @@
+topic: Threat Modeling
+category: Understanding your system and environment
+level: expert
+question: How can a business evaluate the security posture of their system and environment
+  in order to effectively manage risk?
+answers:
+- a: By analyzing potential risks due to system components only
+- b: By evaluating their vulnerability to known attacks and vulnerabilities
+- c: By conducting penetration testing on a regular basis
+- d: By understanding their system and environment as a whole, identifying potential
+    risks, and implementing appropriate controls and countermeasures
+correct_answer: d
+explanations:
+- a: Incorrect. Analyzing potential risks due to system components is only one aspect
+    of evaluating a security posture.
+- b: Incorrect. Evaluating the vulnerability to known attacks and vulnerabilities
+    is necessary, but not sufficient to evaluate a security posture.
+- c: Incorrect. Penetration testing is a useful tool, but alone will not provide a
+    comprehensive evaluation of a security posture.
+- d: Correct. Understanding the system and environment as a whole is necessary to
+    evaluate a security posture, and implementing appropriate controls and countermeasures
+    to address identified risks is crucial for effective risk management.

@@ -1,0 +1,22 @@
+topic: Threat Modeling
+category: applied to application
+level: expert
+question: How can you prioritize threats in a threat model?
+answers:
+- a1: By using a risk matrix that takes into account the likelihood and impact of
+    each threat.
+- a2: By using a vulnerability scanner that identifies the most critical vulnerabilities.
+- a3: By conducting penetration testing to determine which threats are the most exploitable.
+- a4: By implementing all possible security controls to mitigate all threats.
+correct_answer: a1
+explanations:
+- a1: Correct. Prioritizing threats involves using a risk matrix that takes into account
+    the likelihood and impact of each threat. This helps to determine which threats
+    are the most critical and require the most attention.
+- a2: Incorrect. Vulnerability scanners can identify critical vulnerabilities, but
+    they cannot prioritize threats.
+- a3: Incorrect. Penetration testing can identify exploitable threats, but it does
+    not provide a method for prioritizing them.
+- a4: Incorrect. Implementing all possible security controls is not a practical or
+    effective way to address all threats. Prioritization is necessary to focus resources
+    on the most critical threats.

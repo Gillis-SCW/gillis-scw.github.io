@@ -1,0 +1,18 @@
+topic: General
+category: Impersonation Fraud
+level: intermediate
+question: What is a common method used by perpetrators of impersonation fraud?
+answers:
+- a1: Sending phishing emails
+- a2: Hacking into a victim's bank account
+- a3: Stealing credit card information from a store
+- a4: Stealing money from a victim's wallet
+correct_answer: a1
+explanations:
+- a1: Correct. Perpetrators of impersonation fraud typically use methods like phishing
+    emails to trick victims into providing personal information or funds.
+- a2: Incorrect. Hacking into a bank account is not impersonation fraud, but rather
+    another method of cyber crime.
+- a3: Incorrect. This is a type of credit card fraud, but not impersonation fraud
+    specifically.
+- a4: Incorrect. Stealing directly from a victim's wallet is not impersonation fraud.

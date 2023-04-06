@@ -1,0 +1,20 @@
+topic: General
+category: Supply Chain Vulnerabilities
+level: expert
+question: How can companies manage cyber threats in the supply chain?
+answers:
+- a1: Use secure communication channels
+- a2: Implement IT security best practices
+- a3: Regularly update and patch software and systems
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Using secure communication channels can help reduce the risk of cyber
+    attacks in the supply chain.
+- a2: Correct. Implementing IT security best practices, such as access controls, can
+    help reduce the risk of cyber attacks in the supply chain.
+- a3: Correct. Regularly updating and patching software and systems can help reduce
+    the risk of cyber attacks in the supply chain.
+- a4: Correct. Using secure communication channels, implementing IT security best
+    practices, and regularly updating and patching software and systems can all help
+    companies manage cyber threats in the supply chain.

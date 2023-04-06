@@ -1,0 +1,24 @@
+topic: Threat Modeling
+category: Using attack trees
+level: expert
+question: What is the difference between static and dynamic attack trees?
+answers:
+- a1: Static attack trees are used for modeling physical systems, while dynamic attack
+    trees are for modeling software systems.
+- a2: Static attack trees do not incorporate countermeasures, while dynamic attack
+    trees do.
+- a3: Dynamic attack trees can be used for runtime analysis, while static attack trees
+    cannot.
+- a4: Static attack trees do not show the order of steps in an attack scenario, while
+    dynamic attack trees do.
+correct_answer: a3
+explanations:
+- a1: Incorrect. The type of system being modeled does not determine whether a tree
+    is static or dynamic.
+- a2: Incorrect. Static attack trees can incorporate countermeasures, though they
+    do not show their effect on the attack scenario.
+- a3: Correct. Dynamic attack trees can be used for runtime analysis, allowing for
+    real-time monitoring and updates to the model. Static attack trees do not have
+    this capability.
+- a4: Incorrect. Both static and dynamic attack trees can show the order of steps
+    in an attack scenario.

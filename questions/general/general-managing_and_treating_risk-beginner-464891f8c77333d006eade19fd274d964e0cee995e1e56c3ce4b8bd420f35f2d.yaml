@@ -1,0 +1,18 @@
+topic: General
+category: Managing and treating risk
+level: beginner
+question: What is the purpose of developing contingency plans?
+answers:
+- a1: To identify potential risks
+- a2: To invest in insurance policies
+- a3: To mitigate the impact of unforeseen events
+- a4: All of the above
+correct_answer: a3
+explanations:
+- a1: Incorrect. Developing contingency plans come after identifying potential risks.
+- a2: Incorrect. Developing contingency plans may or may not involve investing in
+    insurance policies.
+- a3: Correct. Contingency plans are developed to mitigate the impact of unforeseen
+    events.
+- a4: Incorrect. While contingency plans may include all of the above, that is not
+    their primary purpose.

@@ -1,0 +1,16 @@
+topic: Offensive Awareness
+category: Keeping your Devices Secure
+level: beginner
+question: What is the purpose of implementing a password on your device?
+answers:
+- a1: To make your device look cool
+- a2: To keep unauthorized users from accessing your device
+- a3: To boost your device's performance
+- a4: To prevent software updates
+correct_answer: a2
+explanations:
+- a1: Incorrect. A password has nothing to do with making your device look cool.
+- a2: Correct. Implementing a password helps prevent unauthorized users from accessing
+    your device.
+- a3: Incorrect. A password has nothing to do with your device's performance.
+- a4: Incorrect. A password has nothing to do with preventing software updates.

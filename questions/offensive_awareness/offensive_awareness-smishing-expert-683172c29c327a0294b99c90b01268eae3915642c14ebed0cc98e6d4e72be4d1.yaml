@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Smishing
+level: expert
+question: What are some advanced techniques that attackers use in smishing attacks?
+answers:
+- a1: Combining smishing attacks with social engineering to manipulate victims and
+    gain access to sensitive information.
+- a2: Using AI-generated text messages that are difficult to distinguish from legitimate
+    messages.
+- a3: Converting text messages into voice messages to make them appear more legitimate.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. This is a common advanced technique in smishing attacks.
+- a2: Correct. AI-generated messages can be used to make smishing messages more sophisticated
+    and difficult to discern as fraudulent.
+- a3: Correct. Converting messages to voice messages can make them appear more legitimate.
+- a4: Correct. All of the listed answers are advanced techniques that attackers use
+    in smishing attacks.

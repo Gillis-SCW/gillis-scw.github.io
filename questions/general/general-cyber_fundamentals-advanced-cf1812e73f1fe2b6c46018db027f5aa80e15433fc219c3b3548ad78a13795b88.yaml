@@ -1,0 +1,23 @@
+topic: General
+category: Cyber Fundamentals
+level: advanced
+question: What is the difference between symmetric and asymmetric encryption?
+answers:
+- a: Symmetric encryption is faster but less secure than asymmetric encryption.
+- b: Asymmetric encryption uses different keys for encryption and decryption, while
+    symmetric encryption uses the same key for both.
+- c: Symmetric encryption is used for data at rest, while asymmetric encryption is
+    used for data in motion.
+- d: Asymmetric encryption is common in enterprise environments, while symmetric encryption
+    is more common in consumer applications.
+correct_answer: b
+explanations:
+- a: Incorrect. Asymmetric encryption is typically slower but more secure than symmetric
+    encryption, as it uses a more complex key management system.
+- b: Correct. Symmetric encryption uses the same key to encrypt and decrypt data,
+    while asymmetric encryption uses a public key for encryption and a private key
+    for decryption.
+- c: Incorrect. Encryption algorithms can be used for both data at rest and data in
+    motion, regardless of whether they are symmetric or asymmetric.
+- d: Incorrect. Both symmetric and asymmetric encryption are used in a variety of
+    contexts, from consumer messaging apps to enterprise data centers.

@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Open-Source Intelligence (OSINT)
+level: intermediate
+question: What is the purpose of OSINT?
+answers:
+- a1: To gather information from confidential sources.
+- a2: To gain insight into potential targets or adversaries and to improve offensive
+    awareness.
+- a3: To gather information from government sources.
+- a4: To gather information only from online sources.
+correct_answer: a2
+explanations:
+- a1: Incorrect. OSINT involves gathering information from publicly available sources,
+    not from confidential sources.
+- a2: Correct. The main purpose of OSINT is to gain insight into potential targets
+    or adversaries and to improve offensive awareness.
+- a3: Incorrect. OSINT involves gathering information from publicly available sources,
+    not just from the government.
+- a4: Incorrect. OSINT involves gathering information from both online and offline
+    sources, not just online sources.

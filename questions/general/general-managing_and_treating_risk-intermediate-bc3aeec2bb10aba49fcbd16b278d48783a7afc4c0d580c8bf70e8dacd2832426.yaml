@@ -1,0 +1,18 @@
+topic: General
+category: Managing and treating risk
+level: intermediate
+question: Which of the following is an example of a proactive measure to reduce exposure
+  to risk?
+answers:
+- a1: Purchasing insurance after a catastrophic event
+- a2: Implementing regular safety training for employees
+- a3: Reacting to a cyber attack after the fact
+- a4: Assigning blame for a workplace accident
+correct_answer: a2
+explanations:
+- a1: Incorrect. Purchasing insurance after the event is reactive, not proactive.
+- a2: Correct. Regular safety training is a proactive measure to reduce exposure to
+    risk.
+- a3: Incorrect. Reacting to an event after the fact is reactive, not proactive.
+- a4: Incorrect. Assigning blame does not necessarily reduce exposure to risk, and
+    may in fact exacerbate it by creating a culture of fear and blame-shifting.

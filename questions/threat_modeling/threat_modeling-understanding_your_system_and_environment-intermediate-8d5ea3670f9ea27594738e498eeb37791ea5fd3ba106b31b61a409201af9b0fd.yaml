@@ -1,0 +1,22 @@
+topic: Threat Modeling
+category: Understanding your system and environment
+level: intermediate
+question: What is the purpose of evaluating user roles and data classifications in
+  threat modeling?
+answers:
+- a: To reduce the likelihood of successful attacks
+- b: To identify and analyze potential risks that may arise due to system components
+- c: To make informed decisions about risk management
+- d: To understand and protect critical assets
+correct_answer: d
+explanations:
+- a: Incorrect. Evaluating user roles and data classifications is important for protecting
+    critical assets, but may not reduce the likelihood of successful attacks on its
+    own.
+- b: Incorrect. Analyzing potential risks due to system components is important, but
+    user roles and data classifications are also vital components to consider.
+- c: Incorrect. Making informed decisions about risk management may involve evaluating
+    user roles and data classifications, but they serve a direct purpose in threat
+    modeling beyond risk management.
+- d: Correct. Evaluating user roles and data classifications is important to understand
+    and protect critical assets, which is a primary goal of threat modeling.

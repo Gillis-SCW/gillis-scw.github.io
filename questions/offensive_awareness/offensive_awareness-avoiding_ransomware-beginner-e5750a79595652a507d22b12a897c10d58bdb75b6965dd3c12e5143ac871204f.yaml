@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Avoiding Ransomware
+level: beginner
+question: What is one way to avoid falling victim to a ransomware attack?
+answers:
+- a1: Use weak passwords
+- a2: Back up data regularly
+- a3: Click on suspicious links
+- a4: Disable antivirus software
+correct_answer: a2
+explanations:
+- a1: Incorrect. Weak passwords make it easier for cybercriminals to gain access to
+    a system and install malware.
+- a2: Correct. Regularly backing up data ensures that even if ransomware infects a
+    system, the data can be recovered without having to pay a ransom.
+- a3: Incorrect. Clicking on suspicious links can lead to malware installation and
+    increase the risk of falling victim to a cyber attack.
+- a4: Incorrect. Disabling antivirus software can leave a system vulnerable to malware
+    infections, including ransomware.

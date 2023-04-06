@@ -1,0 +1,19 @@
+topic: Threat Modeling
+category: applied to application
+level: beginner
+question: What is the purpose of Threat Modeling?
+answers:
+- a1: To identify and mitigate potential security risks in software applications.
+- a2: To find and fix bugs in software applications.
+- a3: To improve the performance of software applications.
+- a4: To test the compatibility of software applications with different platforms.
+correct_answer: a1
+explanations:
+- a1: Correct. Threat modeling is the process of identifying and mitigating potential
+    security risks in software applications.
+- a2: Incorrect. Finding and fixing bugs is part of software testing, but it is not
+    the main purpose of threat modeling.
+- a3: Incorrect. Improving performance is important for software applications, but
+    it is not the main purpose of threat modeling.
+- a4: Incorrect. Testing compatibility with different platforms is important, but
+    it is not the main purpose of threat modeling.

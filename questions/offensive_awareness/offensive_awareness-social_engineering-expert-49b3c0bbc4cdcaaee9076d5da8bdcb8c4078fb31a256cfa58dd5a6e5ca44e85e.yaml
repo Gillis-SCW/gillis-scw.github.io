@@ -1,0 +1,21 @@
+topic: Offensive Awareness
+category: Social Engineering
+level: expert
+question: What is pretexting in Social Engineering?
+answers:
+- a1: A type of phishing attack.
+- a2: A way to impersonate someone else in order to gain information.
+- a3: A way to exploit someone's trust in a position of authority.
+- a4: A way to use reverse social engineering to gain access to a system.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Pretexting is not a type of phishing attack.
+- a2: Correct. Pretexting involves creating a false pretense or persona in order to
+    trick someone into divulging information or taking an action they wouldn't normally
+    take.
+- a3: Incorrect. While exploiting trust in authority is a common tactic in Social
+    Engineering, it is not specific to pretexting.
+- a4: Incorrect. Reverse social engineering involves the attacker creating the pretense
+    of needing help or being a victim in order to trick the target into providing
+    information or access. Pretexting is different, as it involves the attacker creating
+    a false persona to gain information or access.

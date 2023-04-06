@@ -1,0 +1,19 @@
+topic: General
+category: Information Security
+level: intermediate
+question: What is the purpose of using SSL/TLS encryption in online transactions?
+answers:
+- a1: To authenticate the user
+- a2: To authorize the user
+- a3: To create a secure session
+- a4: To prevent spam
+correct_answer: a3
+explanations:
+- a1: Incorrect. Authentication refers to verifying the identity of the user who is
+    accessing a system.
+- a2: Incorrect. Authorization refers to the process of granting or denying access
+    to resources based on the user's identity and privileges.
+- a3: Correct. SSL (secure sockets layer) and TLS (transport layer security) encryption
+    are protocols that create a secure session between a client and a server over
+    the Internet to protect sensitive data from interception or eavesdropping.
+- a4: Incorrect. Preventing spam is not the main purpose of SSL/TLS encryption.

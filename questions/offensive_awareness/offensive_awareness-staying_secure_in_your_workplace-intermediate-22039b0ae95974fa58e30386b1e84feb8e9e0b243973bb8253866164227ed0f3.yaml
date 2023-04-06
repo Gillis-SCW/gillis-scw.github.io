@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Staying Secure in your Workplace
+level: intermediate
+question: What is phishing?
+answers:
+- a1: A type of malware that locks down your computer or network
+- a2: A type of attack that uses physical force to gain access to a secure area
+- a3: A type of fraud where an attacker sends a fake email or website to trick victims
+    into sharing sensitive information
+- a4: A type of social engineering attack that involves tricking someone into revealing
+    their password
+correct_answer: a3
+explanations:
+- a1: Incorrect. This describes ransomware, not phishing.
+- a2: Incorrect. This describes a physical security breach, not phishing.
+- a3: Correct. Phishing is a type of fraud where an attacker sends a fake email or
+    website that appears legitimate in order to trick victims into sharing sensitive
+    information, such as login credentials or financial information.
+- a4: Incorrect. This describes a type of social engineering attack called "password
+    spraying," not phishing.

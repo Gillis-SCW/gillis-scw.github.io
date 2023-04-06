@@ -1,0 +1,22 @@
+topic: General
+category: Risk, threats, and vulnerabilities
+level: expert
+question: What is the difference between an exploit and a payload in the context of
+  cybersecurity?
+answers:
+- a1: An exploit refers to the delivery mechanism of a payload, while a payload is
+    the malicious code that is executed on the target system.
+- a2: An exploit is the malicious code that is executed on the target system, while
+    a payload is the attack surface that is targeted by the exploit.
+- a3: An exploit and a payload are the same thing.
+- a4: An exploit is a physical attack, while a payload is a digital attack.
+correct_answer: a1
+explanations:
+- a1: Correct. An exploit is the code or mechanism that allows a threat actor to deliver
+    and execute a payload, which is the malicious code that is executed on the target
+    system. In other words, the exploit is the vehicle and the payload is the cargo.
+- a2: Incorrect. An exploit is not the malicious code itself, but rather the code
+    or mechanism that allows the payload to be delivered and executed on the target
+    system.
+- a3: Incorrect. An exploit and payload are distinct concepts.
+- a4: Incorrect. Exploits and payloads are digital attacks, not physical ones.

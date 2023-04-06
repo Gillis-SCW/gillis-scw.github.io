@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Sharing Data and Documents Securely
+level: advanced
+question: Which of the following protocols provides end-to-end encryption for email
+  messages?
+answers:
+- a: Hypertext Transfer Protocol (HTTP)
+- b: Simple Mail Transfer Protocol (SMTP)
+- c: Post Office Protocol 3 (POP3)
+- d: Pretty Good Privacy (PGP)
+correct_answer: d
+explanations:
+- a: Incorrect. HTTP is not a protocol for email messages, but it is used for web
+    page connections.
+- b: Incorrect. SMTP is a protocol for sending email messages, but it does not provide
+    encryption.
+- c: Incorrect. POP3 is a protocol for retrieving email messages, but it does not
+    provide encryption.
+- d: Correct. PGP provides end-to-end encryption for email messages, ensuring that
+    only the intended recipient can read the message.

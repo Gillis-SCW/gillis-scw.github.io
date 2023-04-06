@@ -1,0 +1,22 @@
+topic: Offensive Awareness
+category: Privacy
+level: expert
+question: What is steganography and how is it used for privacy purposes?
+answers:
+- a1: A type of encryption method that uses complex algorithms to secure data.
+- a2: A technique for hiding secret information within non-secret information, such
+    as images or audio files.
+- a3: The process of obscuring digital data, making it difficult for hackers to access.
+- a4: A system that automatically deletes sensitive information from a device after
+    a certain period of time.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Encryption is a different technique that involves encoding information
+    to prevent unauthorized access or modification.
+- a2: Correct. Steganography is a technique of hiding secret information within non-secret
+    information, such as images or audio files. This allows for confidential data
+    to be transmitted or stored, while appearing as innocuous data to outside parties.
+- a3: Incorrect. Obscuring digital data may provide some level of privacy, but it
+    does not necessarily involve steganography.
+- a4: Incorrect. Automatic deletion of sensitive information after a period of time
+    may provide some privacy protection, but it is not related to steganography.

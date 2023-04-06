@@ -1,0 +1,18 @@
+topic: General
+category: CEO Fraud
+level: intermediate
+question: What are some red flags of CEO fraud?
+answers:
+- a1: The message is urgent and requests immediate action
+- a2: The sender's email address is different from the CEO's email
+- a3: The message requests confidential or sensitive information
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Urgency is a common tactic used in CEO fraud to pressure employees
+    into making quick decisions without thinking.
+- a2: Correct. Cybercriminals often use fake email addresses or domains that look
+    similar to the CEO's to trick employees.
+- a3: Correct. CEO fraud often involves cybercriminals trying to obtain confidential
+    or sensitive information.
+- a4: Correct. These are all common red flags of CEO fraud.

@@ -1,0 +1,20 @@
+topic: General
+category: Cyber Fundamentals
+level: intermediate
+question: What is encryption used for in cybersecurity?
+answers:
+- a: Sending large files over the internet
+- b: Protecting data from unauthorized access
+- c: Hiding your online identity
+- d: Removing malware from a computer
+correct_answer: b
+explanations:
+- a: Incorrect. Large files can be sent over the internet without encryption, but
+    doing so may pose a security risk.
+- b: Correct. Encryption is the process of encoding data so that only authorized parties
+    can read it. This technology can be used to protect sensitive information from
+    cybercriminals and other unauthorized third parties.
+- c: Incorrect. Encryption does not hide your online identity, but using a virtual
+    private network (VPN) could help you achieve this.
+- d: Incorrect. Encryption is not used to remove malware, but antivirus software and
+    other cybersecurity tools can help with this task.

@@ -1,0 +1,28 @@
+topic: Testing
+category: Foundations for Software Testing
+level: expert
+question: What is the difference between black-box testing and white-box testing?
+answers:
+- a1: Black-box testing is a technique that is based on the internal workings of the
+    system or component being tested, while white-box testing is a technique that
+    is based only on the external functionality of the system or component being tested.
+- a2: Black-box testing is a technique that is based only on the external functionality
+    of the system or component being tested, while white-box testing is a technique
+    that is based on the internal workings of the system or component being tested.
+- a3: Black-box testing and white-box testing have nothing to do with the internal
+    or external aspects of the system or component being tested.
+- a4: Black-box testing and white-box testing are two names for the same technique.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Black-box testing is a technique that is based only on the external
+    functionality of the system or component being tested, while white-box testing
+    is a technique that is based on the internal workings of the system or component
+    being tested.
+- a2: Correct. Black-box testing is a technique that is based only on the external
+    functionality of the system or component being tested, while white-box testing
+    is a technique that is based on the internal workings of the system or component
+    being tested.
+- a3: Incorrect. Black-box testing and white-box testing are related to the internal
+    and external aspects of the system or component being tested.
+- a4: Incorrect. Black-box testing and white-box testing are different techniques
+    with different names.

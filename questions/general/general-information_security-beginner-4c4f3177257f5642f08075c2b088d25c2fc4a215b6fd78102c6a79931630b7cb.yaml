@@ -1,0 +1,21 @@
+topic: General
+category: Information Security
+level: beginner
+question: Which of the following is an example of personal identifying information
+  (PII)?
+answers:
+- a1: Home router
+- a2: Date of birth
+- a3: Firewall
+- a4: Email server
+correct_answer: a2
+explanations:
+- a1: Incorrect. A home router is a device used to connect a local network to the
+    Internet.
+- a2: Correct. Personal identifying information (PII) includes sensitive data that
+    can be used to identify individuals such as name, address, SSN, DOB, passport
+    number, driver's license details, and financial information.
+- a3: Incorrect. A firewall is a network security system designed to prevent unauthorized
+    access to or from a private network.
+- a4: Incorrect. An Email server enables sending and receiving email messages over
+    a network.

@@ -1,0 +1,15 @@
+topic: Offensive Awareness
+category: Smishing
+level: intermediate
+question: What are some common smishing techniques?
+answers:
+- a1: Sending fraudulent text messages claiming to be from a legitimate organization.
+- a2: Sending malicious links that install malware on the phone when clicked.
+- a3: Requests for sensitive information or immediate action with a sense of urgency.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Correct. This is a common smishing technique.
+- a2: Correct. This is a common smishing technique.
+- a3: Correct. This is a common smishing technique.
+- a4: Correct. All of the listed answers are common techniques used in smishing attacks.

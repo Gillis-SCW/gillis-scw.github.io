@@ -1,0 +1,21 @@
+topic: Offensive Awareness
+category: Sharing Data and Documents Securely
+level: intermediate
+question: Which of the following is an example of two-factor authentication that can
+  be used to secure access to shared sensitive data?
+answers:
+- a: Username and password
+- b: Fingerprint scanner and password
+- c: Email and password
+- d: Security Question and password
+correct_answer: b
+explanations:
+- a: Incorrect. Username and password is not two-factor authentication, as it only
+    requires one form of identification.
+- b: Correct. Fingerprint scanner and password is an example of two-factor authentication,
+    as it requires both something the user is (the fingerprint) and something the
+    user knows (the password).
+- c: Incorrect. Email and password is not two-factor authentication, as both forms
+    of identification are something the user knows.
+- d: Incorrect. Security Question and password is not two-factor authentication, as
+    both forms of identification are something the user knows.

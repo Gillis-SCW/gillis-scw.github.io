@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Keeping your Devices Secure
+level: intermediate
+question: What is two-factor authentication?
+answers:
+- a1: A login process that requires only a password
+- a2: A login process that requires a password and a physical token, such as a code
+    sent to a mobile phone
+- a3: A login process that requires a password and a fingerprint scan
+- a4: A login process that requires a password and a voice recognition scan
+correct_answer: a2
+explanations:
+- a1: Incorrect. Two-factor authentication requires more than just a password.
+- a2: Correct. Two-factor authentication requires a password and a physical token,
+    such as a code sent to a mobile phone.
+- a3: Incorrect. Two-factor authentication requires a physical token in addition to
+    a password, not a fingerprint scan.
+- a4: Incorrect. Two-factor authentication requires a physical token in addition to
+    a password, not a voice recognition scan.

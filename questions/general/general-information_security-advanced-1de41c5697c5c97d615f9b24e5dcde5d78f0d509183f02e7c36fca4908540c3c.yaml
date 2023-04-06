@@ -1,0 +1,26 @@
+topic: General
+category: Information Security
+level: advanced
+question: What is the difference between vulnerability scanning and penetration testing?
+answers:
+- a1: Vulnerability scanning is a process of identifying security weaknesses in networks,
+    systems and applications. Penetration testing is a method used to exploit the
+    vulnerabilities to assess the impact of an attack.
+- a2: Vulnerability scanning is a method used to assess the impact of an attack. Penetration
+    testing is a process of identifying security weaknesses in networks, systems and
+    applications.
+- a3: Vulnerability scanning and penetration testing are the same thing.
+- a4: None of the above.
+correct_answer: a1
+explanations:
+- a1: Correct. Vulnerability scanning is a process of scanning a target network, system
+    or application to identify known vulnerabilities that can be exploited by an attacker.
+    Penetration testing, on the other hand, is the process of simulating a real-world
+    attack on a network, system or application to identify security weaknesses and
+    assess the impact of an attack.
+- a2: Incorrect. The roles of vulnerability scanning and penetration testing mentioned
+    in this option are reversed.
+- a3: Incorrect. Vulnerability scanning and penetration testing are two distinct processes
+    with different goals and methodologies.
+- a4: Incorrect. Option d provides no useful information regarding the difference
+    between vulnerability scanning and penetration testing.

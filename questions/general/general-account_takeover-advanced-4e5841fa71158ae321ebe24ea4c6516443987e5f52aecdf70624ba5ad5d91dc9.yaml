@@ -1,0 +1,25 @@
+topic: General
+category: Account Takeover
+level: advanced
+question: What is two-factor authentication and how does it help prevent account takeover?
+answers:
+- a: Two-factor authentication is the use of two different passwords for one account,
+    making it more difficult for attackers to gain access.
+- b: Two-factor authentication is the use of a password and a fingerprint or facial
+    recognition scan to authenticate a user's identity.
+- c: Two-factor authentication is the use of a password and a secondary device, such
+    as a phone or token, to verify a user's identity.
+- d: Two-factor authentication is a type of social engineering scam that targets users
+    with multiple emails asking for their login credentials.
+correct_answer: c
+explanations:
+- a: Incorrect. Two-factor authentication does involve two steps, but not two separate
+    passwords.
+- b: Incorrect. Biometric authentication can be part of two-factor authentication,
+    but it is not the only method.
+- c: Correct. Two-factor authentication involves entering a password and then using
+    a secondary device, such as a phone or token, to further verify the user's identity.
+    This prevents account takeover by making it much more difficult for a thief to
+    access the account.
+- d: Incorrect. Two-factor authentication is not a social engineering scam, but cyber
+    criminals may use social engineering tactics to try to obtain login credentials.

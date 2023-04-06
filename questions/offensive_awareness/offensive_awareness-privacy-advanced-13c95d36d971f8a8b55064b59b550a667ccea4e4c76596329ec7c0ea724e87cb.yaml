@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Privacy
+level: advanced
+question: What is a VPN and how does it enhance online privacy?
+answers:
+- a1: A virtual personal network that encrypts internet traffic and masks IP addresses,
+    enhancing online privacy and security.
+- a2: A video processing network that enhances the quality of online video streaming.
+- a3: A virtual personal network that allows users to remotely access their work computers.
+- a4: A system software that prevents unauthorized access to a computer network.
+correct_answer: a1
+explanations:
+- a1: Correct. VPNs create a secure connection between a user's device and the internet,
+    encrypting the traffic and masking the user's IP address, making it difficult
+    for hackers or other outside parties to intercept or track the user's online activity.
+- a2: Incorrect. A VPN is not related to video processing or streaming.
+- a3: Incorrect. A VPN may allow for remote access to work computers, but that is
+    not its primary purpose.
+- a4: Incorrect. A firewall may prevent unauthorized access to a computer network
+    but is different from a VPN.

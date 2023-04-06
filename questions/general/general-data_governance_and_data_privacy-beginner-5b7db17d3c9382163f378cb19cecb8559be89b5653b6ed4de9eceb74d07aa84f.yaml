@@ -1,0 +1,21 @@
+topic: General
+category: Data governance and data privacy
+level: beginner
+question: What is the purpose of data governance policies?
+answers:
+- a1: To properly collect, process, and store data
+- a2: To prevent unauthorized access, use, and disclosure of data
+- a3: To build customer trust and promote responsible data management practices
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Incorrect. This is only one of the purposes of data governance policies.
+- a2: Incorrect. This is the purpose of data privacy strategies, but not of data governance
+    policies.
+- a3: Incorrect. This is one of the benefits of implementing effective data governance
+    policies, but not their purpose.
+- a4: Correct. Effective data governance policies ensure proper collection, processing,
+    and storage of data, while data privacy strategies prevent unauthorized access,
+    use, and disclosure of data. These measures help build customer trust, mitigate
+    risks of data breaches or data misuse, and promote responsible data management
+    practices.

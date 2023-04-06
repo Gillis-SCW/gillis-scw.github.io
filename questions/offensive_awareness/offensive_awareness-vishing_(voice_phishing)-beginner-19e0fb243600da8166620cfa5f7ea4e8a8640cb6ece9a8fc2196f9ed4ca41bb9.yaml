@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Vishing (Voice Phishing)
+level: beginner
+question: What is vishing?
+answers:
+- a1: Stealing money from victim's accounts.
+- a2: Divulging personal details over the phone.
+- a3: An offensive technique used to commit identity theft.
+- a4: Deceiving victims over the phone by posing as legitimate individuals.
+correct_answer: a4
+explanations:
+- a1: Incorrect. Vishing involves stealing money from victim's accounts by posing
+    as legitimate individuals over the phone.
+- a2: Incorrect. Vishing involves tricking victims into divulging personal details
+    over the phone by posing as legitimate individuals.
+- a3: Incorrect. Vishing is an offensive technique used to steal money from victim's
+    accounts or commit identity theft.
+- a4: Correct. Vishing involves deceiving victims over the phone by posing as legitimate
+    individuals and tricking them into divulging sensitive information.

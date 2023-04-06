@@ -1,0 +1,19 @@
+topic: General
+category: Risk, threats, and vulnerabilities
+level: beginner
+question: What are some examples of potential hazards or dangers to a system, organization,
+  or individual?
+answers:
+- a1: Security breaches and attacks from hackers
+- a2: Physical threats like disasters and accidents
+- a3: Human error
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Security breaches and attacks from hackers pose a risk to systems and
+    organizations.
+- a2: Correct. Physical threats like disasters and accidents can cause damage and
+    disruption to systems and organizations.
+- a3: Correct. Human error can lead to security breaches and system failures.
+- a4: Correct. All of these are examples of potential hazards or dangers to a system,
+    organization, or individual.

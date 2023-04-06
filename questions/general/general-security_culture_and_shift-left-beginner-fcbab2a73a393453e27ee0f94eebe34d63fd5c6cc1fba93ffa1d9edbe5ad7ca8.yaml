@@ -1,0 +1,19 @@
+topic: General
+category: Security culture and shift-left
+level: beginner
+question: What is security culture?
+answers:
+- a: A workplace environment where security is not a priority
+- b: A workplace environment where everyone takes responsibility for security
+- c: A workplace environment where employees are not trained on security risks
+- d: A workplace environment where employees are not held accountable for security
+    breaches
+correct_answer: b
+explanations:
+- a: Incorrect. Security culture involves making security a priority in the workplace.
+- b: Correct. Security culture involves creating a workplace environment where everyone
+    takes responsibility for security.
+- c: Incorrect. Employees should be trained on security risks to create a strong security
+    culture.
+- d: Incorrect. Employees should be held accountable for security breaches to create
+    a strong security culture.

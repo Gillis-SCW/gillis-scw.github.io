@@ -1,0 +1,24 @@
+topic: General
+category: Social Engineering
+level: advanced
+question: What is the difference between phishing and spear-phishing?
+answers:
+- a1: Phishing is a broad term used to refer to any attempt to acquire sensitive information
+    through email or other digital communication, while spear-phishing is a more targeted
+    attack aimed at a specific individual or organization.
+- a2: Phishing is a more sophisticated attack that uses several methods to gain access
+    to sensitive information, while spear-phishing is a simple email-based attack.
+- a3: Phishing is a form of social engineering that targets individuals, while spear-phishing
+    targets only organizations.
+- a4: There is no difference between phishing and spear-phishing.
+correct_answer: a1
+explanations:
+- a1: Correct. Phishing is a broad term used to refer to any attempt to acquire sensitive
+    information through email or other digital communication, while spear-phishing
+    is a more targeted attack aimed at a specific individual or organization.
+- a2: Incorrect. Spear-phishing is a more sophisticated attack that involves extensive
+    research on the target to personalize the message and increase the chances of
+    success.
+- a3: Incorrect. Both phishing and spear-phishing can target individuals or organizations.
+- a4: Incorrect. Spear-phishing is a subset of phishing that is more targeted and
+    personalized.

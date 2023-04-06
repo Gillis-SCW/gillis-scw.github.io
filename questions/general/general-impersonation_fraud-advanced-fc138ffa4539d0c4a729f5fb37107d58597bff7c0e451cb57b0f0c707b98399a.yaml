@@ -1,0 +1,20 @@
+topic: General
+category: Impersonation Fraud
+level: advanced
+question: What is the key factor in preventing victimization by impersonation fraud?
+answers:
+- a1: Regularly changing your passwords and PINs
+- a2: Providing all requested information when asked by authorities
+- a3: Verifying the legitimacy of any requests before providing information or funds
+- a4: Avoiding all online transactions
+correct_answer: a3
+explanations:
+- a1: Incorrect. Changing passwords and PINs regularly is important, but it is not
+    the key factor in preventing impersonation fraud.
+- a2: Incorrect. Providing all requested information can actually make you more vulnerable
+    to impersonation fraud.
+- a3: Correct. Verifying the legitimacy of requests is key to preventing impersonation
+    fraud. Always double check the identity of the person or entity making the request
+    before providing any information or funds.
+- a4: Incorrect. Avoiding online transactions altogether is not always possible or
+    practical, and does not necessarily prevent impersonation fraud.

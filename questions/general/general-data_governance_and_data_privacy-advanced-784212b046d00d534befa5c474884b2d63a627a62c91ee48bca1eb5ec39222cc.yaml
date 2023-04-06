@@ -1,0 +1,23 @@
+topic: General
+category: Data governance and data privacy
+level: advanced
+question: What are the principles of data protection by design and default?
+answers:
+- a1: Transparency, accountability, and data minimization
+- a2: Privacy by default, privacy by design, and security by design
+- a3: Data protection impact assessments, data breach notifications, and consent management
+- a4: Access control, data classification, and data retention policies
+correct_answer: a2
+explanations:
+- a1: Incorrect. These are some of the principles of data protection, but not specifically
+    of data protection by design and default.
+- a2: Correct. Data protection by design and default refers to the integration of
+    privacy and data protection measures into the design of systems, processes, and
+    products, from the outset of any project, and by default, ensuring that the highest
+    possible privacy settings are the default settings. The principles include privacy
+    by default, privacy by design, and security by design.
+- a3: Incorrect. These are some of the measures associated with data protection, but
+    not specifically with data protection by design and default.
+- a4: Incorrect. These are some of the policies and measures associated with data
+    governance and data security, but not specifically with data protection by design
+    and default.

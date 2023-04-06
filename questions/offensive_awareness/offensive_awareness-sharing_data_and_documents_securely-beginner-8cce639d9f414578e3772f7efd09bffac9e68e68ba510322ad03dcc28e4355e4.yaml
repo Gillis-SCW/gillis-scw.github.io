@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Sharing Data and Documents Securely
+level: beginner
+question: Which of the following is an example of a secure communication channel used
+  for sharing sensitive data?
+answers:
+- a: Email
+- b: Fax
+- c: Social Media
+- d: Virtual Private Network (VPN)
+correct_answer: d
+explanations:
+- a: Incorrect. Email is not a secure communication channel, as emails can be intercepted
+    or hacked.
+- b: Incorrect. Fax is not a secure communication channel, as the transmitted data
+    can be intercepted.
+- c: Incorrect. Social Media is not a secure communication channel, as the information
+    shared can be easily accessed and tracked.
+- d: Correct. VPN provides a secure communication channel, as the data is encrypted
+    and transmitted through a private network.

@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Staying Secure in your Workplace
+level: advanced
+question: What is the purpose of a firewall?
+answers:
+- a1: To prevent unauthorized access to a network
+- a2: To scan incoming network traffic for viruses and malware
+- a3: To encrypt network traffic to protect against interception
+- a4: To monitor user activity on the network
+correct_answer: a1
+explanations:
+- a1: Correct. A firewall is a network security system that monitors and controls
+    incoming and outgoing network traffic based on predetermined security rules. Its
+    primary purpose is to prevent unauthorized access to a network.
+- a2: Incorrect. While some firewalls can perform this function, it is not their primary
+    purpose.
+- a3: Incorrect. Encryption is a separate security measure that is often used in conjunction
+    with a firewall, but not as its primary purpose.
+- a4: Incorrect. While some firewalls may have monitoring capabilities, this is not
+    their primary purpose.

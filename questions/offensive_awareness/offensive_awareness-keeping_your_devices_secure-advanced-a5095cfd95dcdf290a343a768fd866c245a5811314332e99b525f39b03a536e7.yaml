@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Keeping your Devices Secure
+level: advanced
+question: What is a common way that hackers gain access to a device?
+answers:
+- a1: By physically stealing the device
+- a2: By guessing the password
+- a3: By exploiting a vulnerability in the software
+- a4: By placing a virus on the device through a malicious email attachment
+correct_answer: a3
+explanations:
+- a1: Incorrect. Physical theft can be a risk, but it is not the most common way hackers
+    gain access.
+- a2: Incorrect. Most devices have measures in place to prevent password guessing,
+    such as locking the account after multiple failed attempts.
+- a3: Correct. Hackers frequently exploit vulnerabilities in software to gain access
+    to a device.
+- a4: Incorrect. While email attachments can be a delivery method for viruses, they
+    are not the most common way hackers gain access.

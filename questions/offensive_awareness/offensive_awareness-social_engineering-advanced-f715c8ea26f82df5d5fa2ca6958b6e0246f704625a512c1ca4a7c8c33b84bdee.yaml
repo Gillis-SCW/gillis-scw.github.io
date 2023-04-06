@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Social Engineering
+level: advanced
+question: What is the difference between phishing and spear phishing?
+answers:
+- a1: Phishing targets individuals, while spear phishing targets groups or organizations.
+- a2: Phishing is done through email, while spear phishing is done through social
+    media.
+- a3: Phishing is random, while spear phishing is targeted.
+- a4: Phishing is easier to detect, while spear phishing is more difficult to detect.
+correct_answer: a3
+explanations:
+- a1: Incorrect. Both phishing and spear phishing can target individuals or groups/organizations.
+- a2: Incorrect. Both phishing and spear phishing can be done through various mediums,
+    including email and social media.
+- a3: Correct. Phishing is random and targets a large number of people, while spear
+    phishing is targeted towards specific individuals or groups and uses personalized
+    information to trick them.
+- a4: Incorrect. Spear phishing uses personalized information and is often more convincing
+    than phishing, making it more difficult to detect.

@@ -1,0 +1,21 @@
+topic: Access Control
+category: RBAC vs ABAC vs ReBAC
+level: expert
+question: What are some factors that an organization should consider when choosing
+  between RBAC, ABAC, and ReBAC?
+answers:
+- a1: The complexity of the environment and the need for fine-grained access control.
+- a2: The size of the organization and the budget available for implementation.
+- a3: The skill level of the workforce and the number of access requests.
+- a4: The type of data or system being protected and the regulatory compliance requirements.
+correct_answer: a4
+explanations:
+- a1: Partially correct. An organization should consider the complexity of the environment
+    and the need for fine-grained access control, but this is not the only factor
+    to consider.
+- a2: Incorrect. The size of the organization and budget are important factors to
+    consider, but not the only ones.
+- a3: Incorrect. The skill level of the workforce and the number of access requests
+    could be factors to consider, but not as germane as the other answer options.
+- a4: Correct. An organization should consider factors like the type of data or system
+    being protected and the regulatory compliance requirements, such as HIPAA or GDPR.

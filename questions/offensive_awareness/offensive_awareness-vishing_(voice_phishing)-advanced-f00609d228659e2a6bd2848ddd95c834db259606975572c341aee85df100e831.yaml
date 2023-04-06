@@ -1,0 +1,22 @@
+topic: Offensive Awareness
+category: Vishing (Voice Phishing)
+level: advanced
+question: What is the best way to verify a caller's identity during a vishing attack?
+answers:
+- a1: Call back the number on your caller ID.
+- a2: Ask for a reference number and call the organization to verify it.
+- a3: Ask the caller to provide sensitive information to prove their identity.
+- a4: All of the above.
+correct_answer: a2
+explanations:
+- a1: Incorrect. While calling back the number on your caller ID can help verify the
+    caller's identity, it is not foolproof as fraudsters can spoof caller ID information.
+- a2: Correct. Asking for a reference number and calling the organization to verify
+    it is the best way to verify a caller's identity during a vishing attack.
+- a3: Incorrect. Asking the caller to provide sensitive information to prove their
+    identity is not recommended, as this could be a tactic used by fraudsters to trick
+    you into divulging sensitive information.
+- a4: Incorrect. While calling back the number on your caller ID and asking for a
+    reference number and calling the organization to verify it can both help verify
+    the caller's identity, asking the caller to provide sensitive information to prove
+    their identity is not recommended.

@@ -1,0 +1,21 @@
+topic: Access Control
+category: RBAC vs ABAC vs ReBAC
+level: intermediate
+question: What is the main difference between RBAC and ABAC?
+answers:
+- a1: RBAC uses attributes such as user identity or location, while ABAC restricts
+    access based on job function.
+- a2: ABAC uses attributes such as user identity or location, while RBAC restricts
+    access based on job function.
+- a3: RBAC and ABAC are the same thing.
+- a4: RBAC and ABAC use relationship-based access control.
+correct_answer: a2
+explanations:
+- a1: Incorrect. The description of RBAC and ABAC is flipped.
+- a2: Correct. The main difference between RBAC and ABAC is that RBAC restricts access
+    based on job function, while ABAC uses attributes such as user identity or location
+    to restrict access.
+- a3: Incorrect. RBAC and ABAC are two different access control types with distinct
+    features.
+- a4: Incorrect. Relationship-Based Access Control is another access control type
+    described, but not the feature that distinguishes RBAC and ABAC.

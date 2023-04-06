@@ -1,0 +1,20 @@
+topic: Offensive Awareness
+category: Sharing Data and Documents Securely
+level: expert
+question: What is the purpose of using Data Loss Prevention (DLP) solutions for sharing
+  sensitive data within an organization?
+answers:
+- a: To detect and prevent unauthorized access to sensitive data
+- b: To identify possible data breaches and stop them before they occur
+- c: To prevent accidental or intentional leaks of sensitive data
+- d: All of the above
+correct_answer: d
+explanations:
+- a: Partially correct. DLP solutions can detect and prevent unauthorized access to
+    sensitive data, but it also serves other purposes.
+- b: Partially correct. DLP solutions can identify possible data breaches and stop
+    them before they occur, but it also serves other purposes.
+- c: Partially correct. DLP solutions can prevent accidental or intentional leaks
+    of sensitive data, but it also serves other purposes.
+- d: Correct. DLP solutions detect, prevent, and mitigate data loss incidents by monitoring,
+    detecting, and blocking sensitive data transfer or use.

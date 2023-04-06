@@ -1,0 +1,19 @@
+topic: General
+category: CEO Fraud
+level: advanced
+question: What is the most effective way to prevent CEO fraud?
+answers:
+- a1: Train employees to recognize suspicious emails and phone calls
+- a2: Implement strict authorization processes for financial transactions
+- a3: Perform regular vulnerability assessments to identify and address potential
+    security weaknesses
+- a4: All of the above
+correct_answer: a4
+explanations:
+- a1: Correct. Regular training for employees is one of the most effective ways to
+    prevent CEO fraud.
+- a2: Correct. Implementing strict authorization processes helps prevent unauthorized
+    financial transactions from occurring.
+- a3: Correct. Regular vulnerability assessments help identify and address potential
+    security weaknesses.
+- a4: Correct. All three options are effective ways to prevent CEO fraud.

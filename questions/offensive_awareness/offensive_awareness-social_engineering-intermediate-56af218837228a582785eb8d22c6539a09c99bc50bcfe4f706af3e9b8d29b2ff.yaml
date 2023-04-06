@@ -1,0 +1,17 @@
+topic: Offensive Awareness
+category: Social Engineering
+level: intermediate
+question: What emotion does Social Engineering often play on?
+answers:
+- a1: Joy.
+- a2: Fear.
+- a3: Anger.
+- a4: Sadness.
+correct_answer: a2
+explanations:
+- a1: Incorrect. Joy is not typically used in Social Engineering attacks.
+- a2: Correct. Fear, trust, or greed are common emotions that Social Engineering attacks
+    play on.
+- a3: Incorrect. While anger can be used in some cases, it is not as common as fear,
+    trust, or greed.
+- a4: Incorrect. Sadness is not typically used in Social Engineering attacks.

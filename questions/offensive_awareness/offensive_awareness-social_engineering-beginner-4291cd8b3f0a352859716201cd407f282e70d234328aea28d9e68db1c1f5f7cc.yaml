@@ -1,0 +1,17 @@
+topic: Offensive Awareness
+category: Social Engineering
+level: beginner
+question: What is Social Engineering?
+answers:
+- a1: A method of hacking that targets human vulnerabilities.
+- a2: A type of phishing email.
+- a3: A form of technical security measure.
+- a4: An online impersonation scam.
+correct_answer: a1
+explanations:
+- a1: Correct. Social Engineering refers to the art of manipulating individuals to
+    divulge confidential information by tricking them into trusting the attacker.
+- a2: Incorrect. Social Engineering is not limited to phishing emails.
+- a3: Incorrect. Technical security measures and Social Engineering are not the same
+    thing.
+- a4: Incorrect. Social Engineering is not limited to online impersonation scams.

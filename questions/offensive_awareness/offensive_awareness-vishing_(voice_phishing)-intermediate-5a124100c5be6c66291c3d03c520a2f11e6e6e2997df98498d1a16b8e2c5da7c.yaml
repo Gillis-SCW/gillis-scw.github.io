@@ -1,0 +1,19 @@
+topic: Offensive Awareness
+category: Vishing (Voice Phishing)
+level: intermediate
+question: Which of the following is a common pretext used in vishing attacks?
+answers:
+- a1: Urgent action required.
+- a2: System upgrade needed.
+- a3: Account has been compromised.
+- a4: All of the above.
+correct_answer: a4
+explanations:
+- a1: Incorrect. "Urgent action required" is a common pretext used in vishing attacks,
+    but there are others as well.
+- a2: Incorrect. "System upgrade needed" is a common pretext used in vishing attacks,
+    but there are others as well.
+- a3: Incorrect. "Account has been compromised" is a common pretext used in vishing
+    attacks, but there are others as well.
+- a4: Correct. "Urgent action required," "system upgrade needed," and "account has
+    been compromised" are all common pretexts used in vishing attacks.
