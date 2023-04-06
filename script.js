@@ -16,7 +16,7 @@ nextButton.addEventListener('click', () => {
   setNextQuestion();
 });
 
-async function loadQuestions(dir = './questions/') {
+async function loadQuestions(dir = 'gillis-scw.github.io/questions/') {
   const response = await fetch(dir);
   if (response.status === 404) {
     // folder not found, skip it
