@@ -18,28 +18,30 @@ nextButton.addEventListener('click', () => {
 
 async function loadQuestions(dir = './questions/') {
   const response = await fetch(dir);
+  if (response.status === 404) {
+    // folder not found, skip it
+    return [];
+  }
   const text = await response.text();
   const parser = new DOMParser();
   const html = parser.parseFromString(text, 'text/html');
   const yamlFiles = Array.from(html.querySelectorAll('a[href$=".yaml"]')).map(a => `${dir}${a.href.split('/').pop()}`);
- 
+
   const yamlDataPromises = yamlFiles.map(file => fetch(file).then(response => response.text()));
   const yamlData = await Promise.all(yamlDataPromises);
-  
+
   let questions = [];
   for (const data of yamlData) {
-  const questionsInFile = jsyaml.loadAll(data);
-  questions.push(...questionsInFile);
+    const questionsInFile = jsyaml.loadAll(data);
+    questions.push(...questionsInFile);
   }
-  
+
   const subdirectories = Array.from(html.querySelectorAll('a[href$="/"]')).map(a => `${dir}${a.href.split('/').reverse()[1]}/`);
   for (const subdir of subdirectories) {
-    if (!subdir.includes("pages")){
-      const subquestions = await loadQuestions(subdir);
-      questions.push(...subquestions);
-    }
+    const subquestions = await loadQuestions(subdir);
+    questions.push(...subquestions);
   }
-  
+
   return questions;
 }
 
