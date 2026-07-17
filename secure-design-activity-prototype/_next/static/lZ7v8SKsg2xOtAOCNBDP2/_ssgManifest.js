@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Factivities\u002F[activityId]","\u002Fstorylines\u002F[storylineId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
